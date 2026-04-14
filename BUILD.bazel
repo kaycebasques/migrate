@@ -1,0 +1,21 @@
+load("@rules_python//python:defs.bzl", "py_binary")
+load("@pypi//:requirements.bzl", "requirement")
+
+py_binary(
+    name = "crawl",
+    srcs = ["crawl.py"],
+    data = [
+        ".env",
+        "@playwright//:chromium",
+    ],
+    env = {
+        "PLAYWRIGHT_BROWSERS_PATH": "$(rootpath @playwright//:chromium)/../",
+    },
+    deps = [
+        requirement("python-dotenv"),
+        requirement("playwright"),
+        requirement("google-genai"),
+        requirement("requests"),
+        requirement("beautifulsoup4"),
+    ],
+)
