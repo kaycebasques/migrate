@@ -122,75 +122,81 @@ def queue_link(link, data_dir):
 # that exists on the page, even if it redirects. maybe we can add a REDIRECT
 # file to indicate this situation.
 
+
+def fetch_url(url, ignore_errors=False):
+    try:
+        return requests.get(url)
+    except Exception as e:
+        if not ignore_errors:
+            print(f"Failed to fetch '{url}': {e}", file=sys.stderr)
+        return None
+
+
+def extract_and_save_element(html, selector, output_path):
+    soup = BeautifulSoup(html, 'html.parser')
+    element = soup.select_one(selector)
+    if element:
+        with open(output_path, "w", encoding="utf-8") as f:
+            f.write(str(element))
+        return True
+    return False
+
+
+def update_page_state(dir_path, add_state, remove_state=None):
+    if remove_state:
+        remove_file = os.path.join(dir_path, remove_state)
+        if os.path.exists(remove_file):
+            os.remove(remove_file)
+            
+    with open(os.path.join(dir_path, add_state), "w") as f:
+        f.write("")
+
+
+def handle_successful_fetch(dir_path, url, new_url, resp, new_resp, data_dir, failed_paths):
+    html = resp.text
+    extract_and_save_element(html, OLD_SELECTOR, os.path.join(dir_path, "old.html"))
+    
+    new_status = str(new_resp.status_code) if new_resp else "Error"
+    
+    if new_status == "200":
+        update_page_state(dir_path, "PASS")
+        extract_and_save_element(new_resp.text, NEW_SELECTOR, os.path.join(dir_path, "new.html"))
+    else:
+        update_page_state(dir_path, "FAIL")
+        rel_path = os.path.relpath(dir_path, data_dir)
+        print(f"FAIL:\n  Old URL: {url}\n  New URL: {new_url}\n  Status: {new_status}", file=sys.stderr)
+        failed_paths.append(rel_path)
+        
+    links = extract_links(html, resp.url)
+    
+    for link in links:
+        if should_process_link(link):
+            queue_link(link, data_dir)
+            
+    update_page_state(dir_path, "DONE", remove_state="TODO")
+
+
 def process_page(dir_path, url, data_dir, failed_paths):
     print(f"Processing {url}...")
     try:
-        resp = requests.get(url)
+        resp = fetch_url(url)
+        if not resp:
+            update_page_state(dir_path, "ERROR", remove_state="TODO")
+            return
+            
         status = str(resp.status_code)
-        
         new_url = url.replace(OLD_URL, NEW_URL)
-        try:
-            new_resp = requests.get(new_url)
-            new_status = str(new_resp.status_code)
-        except Exception as e:
-            print(f"Failed to fetch from new site '{new_url}': {e}", file=sys.stderr)
-            new_status = "Error"
-            
+        new_resp = fetch_url(new_url, ignore_errors=True)
+        
         if status == "200":
-            html = resp.text
-            
-            # Extract content from old site
-            soup_old = BeautifulSoup(html, 'html.parser')
-            article = soup_old.select_one(OLD_SELECTOR)
-            if article:
-                with open(os.path.join(dir_path, "old.html"), "w", encoding="utf-8") as f:
-                    f.write(str(article))
-            
-            if new_status == "200":
-                with open(os.path.join(dir_path, "PASS"), "w") as f:
-                    f.write("")
-                
-                # Extract content from new site
-                new_html = new_resp.text
-                soup_new = BeautifulSoup(new_html, 'html.parser')
-                content_area = soup_new.select_one(NEW_SELECTOR)
-                if content_area:
-                    with open(os.path.join(dir_path, "new.html"), "w", encoding="utf-8") as f:
-                        f.write(str(content_area))
-            else:
-                with open(os.path.join(dir_path, "FAIL"), "w") as f:
-                    f.write("")
-                rel_path = os.path.relpath(dir_path, data_dir)
-                print(f"FAIL:\n  Old URL: {url}\n  New URL: {new_url}\n  Status: {new_status}", file=sys.stderr)
-                failed_paths.append(rel_path)
-                
-            links = extract_links(html, resp.url)
-            
-            for link in links:
-                if should_process_link(link):
-                    queue_link(link, data_dir)
-                    
-            todo_file = os.path.join(dir_path, "TODO")
-            if os.path.exists(todo_file):
-                os.remove(todo_file)
-            with open(os.path.join(dir_path, "DONE"), "w") as f:
-                f.write("")
-                
+            handle_successful_fetch(dir_path, url, new_url, resp, new_resp, data_dir, failed_paths)
         else:
             print(f"Non-200 status for {url}: {status}", file=sys.stderr)
-            todo_file = os.path.join(dir_path, "TODO")
-            if os.path.exists(todo_file):
-                os.remove(todo_file)
-            with open(os.path.join(dir_path, "ERROR"), "w") as f:
-                f.write("")
-                
+            update_page_state(dir_path, "ERROR", remove_state="TODO")
+            
     except Exception as e:
-        print(f"Failed to fetch '{url}': {e}", file=sys.stderr)
-        todo_file = os.path.join(dir_path, "TODO")
-        if os.path.exists(todo_file):
-            os.remove(todo_file)
-        with open(os.path.join(dir_path, "ERROR"), "w") as f:
-            f.write("")
+        print(f"Failed to process '{url}': {e}", file=sys.stderr)
+        update_page_state(dir_path, "ERROR", remove_state="TODO")
 
 if __name__ == "__main__":
     main()
