@@ -118,6 +118,10 @@ def queue_link(link, data_dir):
         with open(todo_file, "w") as f:
             f.write("")
 
+# TODO when constructing data dir we should still note the original url
+# that exists on the page, even if it redirects. maybe we can add a REDIRECT
+# file to indicate this situation.
+
 def process_page(dir_path, url, data_dir, failed_paths):
     print(f"Processing {url}...")
     try:
@@ -160,7 +164,7 @@ def process_page(dir_path, url, data_dir, failed_paths):
                 print(f"FAIL:\n  Old URL: {url}\n  New URL: {new_url}\n  Status: {new_status}", file=sys.stderr)
                 failed_paths.append(rel_path)
                 
-            links = extract_links(html, url)
+            links = extract_links(html, resp.url)
             
             for link in links:
                 if should_process_link(link):
