@@ -451,3 +451,17 @@ New URL: https://preview.bazel.build/contribute/codebase
 
 OK
 
+## /contribute/design-documents
+
+Old URL: https://bazel.build/contribute/design-documents
+New URL: https://preview.bazel.build/contribute/design-documents
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/contribute/design-documents](data/contribute/design-documents/old.png) | ![https://preview.bazel.build/contribute/design-documents](data/contribute/design-documents/new.png) |
+
+- The 'REPORT AN ISSUE' and 'VIEW SOURCE' buttons are missing from the top of the content area.
+- The breadcrumb path is incomplete, showing only 'Contributing' instead of 'Bazel > Community > Contributing'.
+- The 'On this page' sidebar is missing the 'Rejecting designs' section heading.
+- The 'On this page' sidebar incorrectly includes 'During the review process' as a sub-item under 'Reviewer workflow' while omitting other equivalent sub-headings from the content, such as 'When you receive a new proposal' and 'After approval by all reviewers'.
+
