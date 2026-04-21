@@ -724,3 +724,10 @@ New URL: https://preview.bazel.build/extending/auto-exec-groups
 - Missing monospace formatting for 'tools' and 'toolchain' in the 'Error messages while migrating to AEGs' section.
 - Missing monospace formatting for 'toolchain' in the 'Action declared for non-existent toolchain...' section.
 
+## /extending/concepts
+
+Old URL: https://bazel.build/extending/concepts
+New URL: https://preview.bazel.build/extending/concepts
+
+OK
+
