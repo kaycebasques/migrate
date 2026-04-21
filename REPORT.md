@@ -934,3 +934,14 @@ New URL: https://preview.bazel.build/install
 
 OK
 
+## /install/bazelisk
+
+Old URL: https://bazel.build/install/bazelisk
+New URL: https://preview.bazel.build/install/bazelisk
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/install/bazelisk](data/install/bazelisk/old.png) | ![https://preview.bazel.build/install/bazelisk](data/install/bazelisk/new.png) |
+
+- The inline code block '--incompatible_*' is incorrectly broken across two lines in the 'Recommended migration process' section.
+
