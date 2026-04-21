@@ -338,3 +338,17 @@ New URL: https://preview.bazel.build/concepts/dependencies
 - The code block filename headers (e.g., 'a/BUILD', 'b/BUILD') have lost their formatting and are now plain text.
 - The 'Recommended' and 'Not recommended' indicators are missing their thumb icons and color-coded text styling.
 
+## /concepts/labels
+
+Old URL: https://bazel.build/concepts/labels
+New URL: https://preview.bazel.build/concepts/labels
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/concepts/labels](data/concepts/labels/old.png) | ![https://preview.bazel.build/concepts/labels](data/concepts/labels/new.png) |
+
+- Raw HTML tags (<var>) are visible in the section headings for 'Target names' and 'Package names'.
+- Raw HTML tags (<var>) are visible in the 'On this page' table of contents for 'Target names' and 'Package names'.
+- The footer navigation contains raw icon font names ('arrow_back' and 'arrow_forward') rendered as text instead of displaying icons.
+- The 'Wrong' and 'Correct' callouts are missing their respective thumbs-up and thumbs-down icons.
+

@@ -1,0 +1,8 @@
+{
+  "issues": [
+    "Raw HTML tags (<var>) are visible in the section headings for 'Target names' and 'Package names'.",
+    "Raw HTML tags (<var>) are visible in the 'On this page' table of contents for 'Target names' and 'Package names'.",
+    "The footer navigation contains raw icon font names ('arrow_back' and 'arrow_forward') rendered as text instead of displaying icons.",
+    "The 'Wrong' and 'Correct' callouts are missing their respective thumbs-up and thumbs-down icons."
+  ]
+}
