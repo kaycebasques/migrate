@@ -1,0 +1,6 @@
+{
+  "issues": [
+    "Unrendered HTML tags and entities (e.g., &lt;b&gt;, &amp;lcub;) in the bullet points under the 'Example: Execution properties' section for the 'platform' rule.",
+    "Unrendered HTML tags and entities in the default value for the 'exec_properties' attribute in the 'Arguments' table for the 'platform' rule."
+  ]
+}
