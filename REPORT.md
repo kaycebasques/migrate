@@ -1013,3 +1013,14 @@ New URL: https://preview.bazel.build/install/suse
 - The raw HTML tags `<var>` and `</var>` are visible in the text within the phrase `bazel<var>version</var>`.
 - The 'REPORT AN ISSUE' and 'VIEW SOURCE' action buttons are missing from the page header area.
 
+## /install/ubuntu
+
+Old URL: https://bazel.build/install/ubuntu
+New URL: https://preview.bazel.build/install/ubuntu
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/install/ubuntu](data/install/ubuntu/old.png) | ![https://preview.bazel.build/install/ubuntu](data/install/ubuntu/new.png) |
+
+- Raw HTML tags (<var>, </var>) are visible in the text and code blocks within the "Step 2: Run the installer" section.
+

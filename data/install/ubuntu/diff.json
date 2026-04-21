@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "Raw HTML tags (<var>, </var>) are visible in the text and code blocks within the \"Step 2: Run the installer\" section."
+  ]
+}
