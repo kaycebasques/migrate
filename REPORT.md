@@ -780,3 +780,14 @@ New URL: https://preview.bazel.build/extending/macros
 
 OK
 
+## /extending/platforms
+
+Old URL: https://bazel.build/extending/platforms
+New URL: https://preview.bazel.build/extending/platforms
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/extending/platforms](data/extending/platforms/old.png) | ![https://preview.bazel.build/extending/platforms](data/extending/platforms/new.png) |
+
+- The note callouts in the 'Platform types' and 'More expressive constraints' sections are unstyled and appear as regular text in the new version, missing their colored background and icons.
+
