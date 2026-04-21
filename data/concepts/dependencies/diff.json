@@ -1,0 +1,8 @@
+{
+  "issues": [
+    "The 'Important' and 'Note' callouts (admonitions) are missing their background color and icons.",
+    "All dependency graph diagrams are missing throughout the 'Actual and declared dependencies' section.",
+    "The code block filename headers (e.g., 'a/BUILD', 'b/BUILD') have lost their formatting and are now plain text.",
+    "The 'Recommended' and 'Not recommended' indicators are missing their thumb icons and color-coded text styling."
+  ]
+}

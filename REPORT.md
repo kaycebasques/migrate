@@ -324,3 +324,17 @@ New URL: https://preview.bazel.build/concepts/build-ref
 - The link for 'package_group documentation' at the end of the Targets section has an extraneous leading underscore.
 - Inline code snippets (such as 'BUILD', 'MODULE.bazel', 'REPO.bazel', etc.) have lost their monospace font styling and are now only rendered as bold text, making them harder to distinguish as code elements.
 
+## /concepts/dependencies
+
+Old URL: https://bazel.build/concepts/dependencies
+New URL: https://preview.bazel.build/concepts/dependencies
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/concepts/dependencies](data/concepts/dependencies/old.png) | ![https://preview.bazel.build/concepts/dependencies](data/concepts/dependencies/new.png) |
+
+- The 'Important' and 'Note' callouts (admonitions) are missing their background color and icons.
+- All dependency graph diagrams are missing throughout the 'Actual and declared dependencies' section.
+- The code block filename headers (e.g., 'a/BUILD', 'b/BUILD') have lost their formatting and are now plain text.
+- The 'Recommended' and 'Not recommended' indicators are missing their thumb icons and color-coded text styling.
+
