@@ -773,3 +773,10 @@ New URL: https://preview.bazel.build/extending/legacy-macros
 
 - Unstyled callouts/admonitions: The 'Note' sections regarding '$@' and '$<' have lost their blue background box and star icon styling, appearing as plain text instead.
 
+## /extending/macros
+
+Old URL: https://bazel.build/extending/macros
+New URL: https://preview.bazel.build/extending/macros
+
+OK
+
