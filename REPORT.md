@@ -707,3 +707,20 @@ New URL: https://preview.bazel.build/extending/aspects
 
 OK
 
+## /extending/auto-exec-groups
+
+Old URL: https://bazel.build/extending/auto-exec-groups
+New URL: https://preview.bazel.build/extending/auto-exec-groups
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/extending/auto-exec-groups](data/extending/auto-exec-groups/old.png) | ![https://preview.bazel.build/extending/auto-exec-groups](data/extending/auto-exec-groups/new.png) |
+
+- Missing link for the text '(the error is raised)' in the 'Quick summary' section; it has been replaced by bold text.
+- Missing monospace formatting for 'my_rule' in the 'History', 'Current state', and 'How to enable AEGs inside a particular rule?' sections.
+- Missing monospace formatting for 'First action' and 'Second action' in the 'Current state' section.
+- Missing monospace formatting for 'exec_groups' in the 'Quick summary' section and its related link.
+- Missing monospace formatting for 'toolchain', 'ctx.actions.run_shell', and 'tools' in the body text of the 'Current state' section.
+- Missing monospace formatting for 'tools' and 'toolchain' in the 'Error messages while migrating to AEGs' section.
+- Missing monospace formatting for 'toolchain' in the 'Action declared for non-existent toolchain...' section.
+
