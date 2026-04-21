@@ -559,3 +559,10 @@ New URL: https://preview.bazel.build/docs/android-build-performance
 - There are unnecessary extra spaces before punctuation marks (commas and periods) that follow inline code blocks, such as in 'action is 4 .', 'to 1 or 2 ,', 'To use aapt2 ,', and 'android_local_test .'.
 - The link for 'aapt2' at the beginning of the 'Using AAPT2' section has been removed and is now just plain inline code.
 
+## /docs/android-instrumentation-test
+
+Old URL: https://bazel.build/docs/android-instrumentation-test
+New URL: https://preview.bazel.build/docs/android-instrumentation-test
+
+OK
+
