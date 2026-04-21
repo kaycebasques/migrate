@@ -539,3 +539,10 @@ New URL: https://preview.bazel.build/contribute/statemachine-guide
 
 OK
 
+## /docs
+
+Old URL: https://bazel.build/docs
+New URL: https://preview.bazel.build/docs
+
+ERROR
+
