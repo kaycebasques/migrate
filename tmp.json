@@ -1,6 +1,0 @@
-{
-  "OLD_URL": "https://bazel.build",
-  "NEW_URL": "https://preview.bazel.build",
-  "OLD_SELECTOR": "article.devsite-article",
-  "NEW_SELECTOR": "#content-area"
-}

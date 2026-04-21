@@ -19,3 +19,11 @@ py_binary(
         requirement("beautifulsoup4"),
     ],
 )
+
+py_binary(
+    name = "top_pages",
+    srcs = ["top_pages.py"],
+    data = [
+        "bazel.csv",
+    ],
+)
