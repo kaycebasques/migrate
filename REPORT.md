@@ -886,3 +886,14 @@ New URL: https://preview.bazel.build/external/overview
 - The "On this page" sidebar navigation menu is missing the final two sections: "Shortcomings of the WORKSPACE system" and "External links on Bzlmod".
 - In the "Directory layout" section, the code block contains an erroneous extra space character between "external/" and "canonical_name".
 
+## /external/registry
+
+Old URL: https://bazel.build/external/registry
+New URL: https://preview.bazel.build/external/registry
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/external/registry](data/external/registry/old.png) | ![https://preview.bazel.build/external/registry](data/external/registry/new.png) |
+
+- Unwanted spaces before punctuation (colons, commas, periods) following inline code elements throughout the document.
+
