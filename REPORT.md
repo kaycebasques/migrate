@@ -676,3 +676,14 @@ New URL: https://preview.bazel.build/docs/sandboxing
 
 OK
 
+## /docs/user-manual
+
+Old URL: https://bazel.build/docs/user-manual
+New URL: https://preview.bazel.build/docs/user-manual
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/docs/user-manual](data/docs/user-manual/old.png) | ![https://preview.bazel.build/docs/user-manual](data/docs/user-manual/new.png) |
+
+- Bullet points and colons are missing from several lists describing option values (e.g., under --compilation_mode, --spawn_strategy, --test_output, and --announce_rc), causing them to appear as plain paragraphs instead of clear list items.
+
