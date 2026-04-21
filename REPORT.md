@@ -593,3 +593,16 @@ New URL: https://preview.bazel.build/docs/bazel-and-android
 - Missing external link icons for external links such as 'Codelab: Building Android Apps with Bazel' and 'rules_jvm_external'.
 - Missing 'Bazel' breadcrumb/category label above the main 'Android and Bazel' heading.
 
+## /docs/bazel-and-apple
+
+Old URL: https://bazel.build/docs/bazel-and-apple
+New URL: https://preview.bazel.build/docs/bazel-and-apple
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/docs/bazel-and-apple](data/docs/bazel-and-apple/old.png) | ![https://preview.bazel.build/docs/bazel-and-apple](data/docs/bazel-and-apple/new.png) |
+
+- In the 'Xcode selection' section, the inline code snippet '--xcode_version' is incorrectly split across two lines.
+- The monospaced formatting is missing for the string '@local_config_xcode//:host_available_xcodes' in the final paragraph, appearing as regular bold text instead.
+- Several items that were plain monospaced text in the original (such as those in the 'Modules', 'Configuration fragments', and 'Providers' lists) are now styled as links with underlines and green coloring, which appears to be a migration error.
+
