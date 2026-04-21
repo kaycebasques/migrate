@@ -1131,3 +1131,17 @@ New URL: https://preview.bazel.build/query/quickstart
 
 - Callouts (Note, Caution, Tip) are unstyled and appear as plain text, losing their distinct background colors and icons from the original site.
 
+## /reference
+
+Old URL: https://bazel.build/reference
+New URL: https://preview.bazel.build/reference
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/reference](data/reference/old.png) | ![https://preview.bazel.build/reference](data/reference/new.png) |
+
+- The new page is missing major navigational sections and content from the original Reference landing page, specifically the 'Test encyclopedia', 'Command line reference', 'Query reference', and 'Glossary' sections.
+- The hero section with the green background and illustration from the old site has been removed and not replaced with an equivalent visual element.
+- In the 'Language-agnostic native rules' table, there are leading asterisks (e.g., '* action_listener*') that appear to be unrendered Markdown list bullets.
+- Multiple links within table cells, such as those in the 'Library rules' column for C / C++, are listed without any delimiters like commas or bullet points, making them difficult to distinguish.
+
