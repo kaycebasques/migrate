@@ -856,3 +856,10 @@ New URL: https://preview.bazel.build/external/migration_tool
 
 ERROR
 
+## /external/mod-command
+
+Old URL: https://bazel.build/external/mod-command
+New URL: https://preview.bazel.build/external/mod-command
+
+ERROR
+
