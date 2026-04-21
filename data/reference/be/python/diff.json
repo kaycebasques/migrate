@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "The 'open_in_new' icon name is incorrectly rendered as plain text instead of a graphical icon in the 'View rule source' links for each rule (e.g., 'View rule sourceopen_in_new')."
+  ]
+}

@@ -1273,3 +1273,14 @@ New URL: https://preview.bazel.build/reference/be/protocol-buffer
 - HTML entities such as &quot;, &lt;, and &gt; are incorrectly displayed as literal text instead of being rendered as characters in the attribute descriptions for proto_lang_toolchain and proto_toolchain.
 - An incorrect extra space is introduced in the $(OUT) variable placeholder within the command_line attribute description for proto_lang_toolchain (appearing as '$ (OUT)').
 
+## /reference/be/python
+
+Old URL: https://bazel.build/reference/be/python
+New URL: https://preview.bazel.build/reference/be/python
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/reference/be/python](data/reference/be/python/old.png) | ![https://preview.bazel.build/reference/be/python](data/reference/be/python/new.png) |
+
+- The 'open_in_new' icon name is incorrectly rendered as plain text instead of a graphical icon in the 'View rule source' links for each rule (e.g., 'View rule sourceopen_in_new').
+
