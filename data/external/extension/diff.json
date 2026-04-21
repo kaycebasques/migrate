@@ -1,0 +1,6 @@
+{
+  "issues": [
+    "Unstyled callout: The 'Note' admonition under 'Extension usage' has lost its blue background, icon, and distinct styling.",
+    "Raw HTML tags: The 'Repository names and visibility' section displays raw '<var>' tags instead of rendering them."
+  ]
+}

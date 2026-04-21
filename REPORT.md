@@ -816,3 +816,15 @@ New URL: https://preview.bazel.build/extending/toolchains
 - Callout boxes (e.g., 'Note' and 'Tip' boxes) are missing the colon that should follow the title label (e.g., 'Note Some Bazel rules...' instead of 'Note: Some Bazel rules...').
 - Some inline text formatting has been lost during migration, such as the monospace font for command-line flags like '--extra_toolchains' and italics for emphasized words like 'mandatory'.
 
+## /external/extension
+
+Old URL: https://bazel.build/external/extension
+New URL: https://preview.bazel.build/external/extension
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/external/extension](data/external/extension/old.png) | ![https://preview.bazel.build/external/extension](data/external/extension/new.png) |
+
+- Unstyled callout: The 'Note' admonition under 'Extension usage' has lost its blue background, icon, and distinct styling.
+- Raw HTML tags: The 'Repository names and visibility' section displays raw '<var>' tags instead of rendering them.
+
