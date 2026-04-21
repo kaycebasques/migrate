@@ -181,3 +181,10 @@ New URL: https://preview.bazel.build/basics/task-based-builds
 - The text 'ant dist' in the paragraph preceding the numbered list is missing its monospace code formatting.
 - The shell script code block is missing the '$' prompt characters at the start of each line that were present in the original version.
 
+## /brand
+
+Old URL: https://bazel.build/brand
+New URL: https://preview.bazel.build/brand
+
+OK
+
