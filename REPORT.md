@@ -32,3 +32,10 @@ New URL: https://preview.bazel.build/about
 - All illustrative graphics and diagrams that defined the original page's visual identity are missing.
 - Entire sections from the original page, such as 'FAQ' and 'Build system basics', are missing from the new version of the page.
 
+## /about/faq
+
+Old URL: https://bazel.build/about/faq
+New URL: https://preview.bazel.build/about/faq
+
+OK
+
