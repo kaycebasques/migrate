@@ -311,3 +311,16 @@ New URL: https://preview.bazel.build/concepts/build-files
 - The 'Note' callout (admonition) at the top of the page is unstyled, lacking the background color and icon present in the original.
 - There is broken navigation text ('arrow_backLabelsDependenciesarrow_forward') appearing before the 'File encoding' section, which seems to be a failure to render the previous/next buttons correctly.
 
+## /concepts/build-ref
+
+Old URL: https://bazel.build/concepts/build-ref
+New URL: https://preview.bazel.build/concepts/build-ref
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/concepts/build-ref](data/concepts/build-ref/old.png) | ![https://preview.bazel.build/concepts/build-ref](data/concepts/build-ref/new.png) |
+
+- The 'LABELS' button at the bottom of the page is incorrectly rendered as text 'Labelsarrow_forward', where 'arrow_forward' is likely a Material Design icon name that failed to render as an icon.
+- The link for 'package_group documentation' at the end of the Targets section has an extraneous leading underscore.
+- Inline code snippets (such as 'BUILD', 'MODULE.bazel', 'REPO.bazel', etc.) have lost their monospace font styling and are now only rendered as bold text, making them harder to distinguish as code elements.
+

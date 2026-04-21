@@ -1,0 +1,7 @@
+{
+  "issues": [
+    "The 'LABELS' button at the bottom of the page is incorrectly rendered as text 'Labelsarrow_forward', where 'arrow_forward' is likely a Material Design icon name that failed to render as an icon.",
+    "The link for 'package_group documentation' at the end of the Targets section has an extraneous leading underscore.",
+    "Inline code snippets (such as 'BUILD', 'MODULE.bazel', 'REPO.bazel', etc.) have lost their monospace font styling and are now only rendered as bold text, making them harder to distinguish as code elements."
+  ]
+}
