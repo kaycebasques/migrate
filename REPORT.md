@@ -1065,3 +1065,18 @@ New URL: https://preview.bazel.build/migrate/xcode
 
 - Unstyled callouts (admonitions): The 'Note' sections throughout the page have lost their blue background styling and icons, appearing as plain text in the new version.
 
+## /query/aquery
+
+Old URL: https://bazel.build/query/aquery
+New URL: https://preview.bazel.build/query/aquery
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/query/aquery](data/query/aquery/old.png) | ![https://preview.bazel.build/query/aquery](data/query/aquery/new.png) |
+
+- Unstyled 'Important' callout: missing background, icon, and border styling.
+- Unstyled 'Warning' callout: missing background, icon, and border styling.
+- Unstyled 'Note' callout: missing background, icon, and border styling.
+- Unstyled code block for 'AspectClass(param=value,...)': missing background styling.
+- Unstyled code block in the FAQ section: missing background styling.
+

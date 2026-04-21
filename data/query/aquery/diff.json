@@ -1,0 +1,9 @@
+{
+  "issues": [
+    "Unstyled 'Important' callout: missing background, icon, and border styling.",
+    "Unstyled 'Warning' callout: missing background, icon, and border styling.",
+    "Unstyled 'Note' callout: missing background, icon, and border styling.",
+    "Unstyled code block for 'AspectClass(param=value,...)': missing background styling.",
+    "Unstyled code block in the FAQ section: missing background styling."
+  ]
+}
