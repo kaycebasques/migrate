@@ -74,3 +74,14 @@ New URL: https://preview.bazel.build/advanced/performance/build-performance-brea
 
 OK
 
+## /advanced/performance/build-performance-metrics
+
+Old URL: https://bazel.build/advanced/performance/build-performance-metrics
+New URL: https://preview.bazel.build/advanced/performance/build-performance-metrics
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/advanced/performance/build-performance-metrics](data/advanced/performance/build-performance-metrics/old.png) | ![https://preview.bazel.build/advanced/performance/build-performance-metrics](data/advanced/performance/build-performance-metrics/new.png) |
+
+- In the 'Execution Log' and 'Execution Graph Log' sections, there are incorrect spaces inserted between the '--' and the rest of the flag name (e.g., '-- experimental_execution_log_spawn_metrics').
+
