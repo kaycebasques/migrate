@@ -835,3 +835,10 @@ New URL: https://preview.bazel.build/external/faq
 
 OK
 
+## /external/lockfile
+
+Old URL: https://bazel.build/external/lockfile
+New URL: https://preview.bazel.build/external/lockfile
+
+OK
+
