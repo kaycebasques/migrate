@@ -750,3 +750,15 @@ New URL: https://preview.bazel.build/extending/depsets
 
 OK
 
+## /extending/exec-groups
+
+Old URL: https://bazel.build/extending/exec-groups
+New URL: https://preview.bazel.build/extending/exec-groups
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/extending/exec-groups](data/extending/exec-groups/old.png) | ![https://preview.bazel.build/extending/exec-groups](data/extending/exec-groups/new.png) |
+
+- The callout under the 'Accessing execution groups' section is unstyled, lacking its blue background and star icon.
+- Raw markdown syntax for a link is visible in the text under the 'Accessing execution groups' section: '[ ctx.actions.run ] (/rules/lib/builtins/actions#run)'.
+
