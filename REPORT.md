@@ -1036,3 +1036,10 @@ New URL: https://preview.bazel.build/install/windows
 - Literal "<var>" HTML tags are visible in the text and code blocks throughout the page, indicating a rendering error.
 - The shell prompt ("$") at the beginning of command-line examples has been removed in the new version of the site.
 
+## /migrate
+
+Old URL: https://bazel.build/migrate
+New URL: https://preview.bazel.build/migrate
+
+OK
+
