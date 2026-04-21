@@ -242,3 +242,15 @@ New URL: https://preview.bazel.build/community/partners
 - The partner card for JetBrains is missing from the page.
 - The partner card for Hermetiq is missing from the page.
 
+## /community/recommended-rules
+
+Old URL: https://bazel.build/community/recommended-rules
+New URL: https://preview.bazel.build/community/recommended-rules
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/community/recommended-rules](data/community/recommended-rules/old.png) | ![https://preview.bazel.build/community/recommended-rules](data/community/recommended-rules/new.png) |
+
+- The 'REPORT AN ISSUE' and 'VIEW SOURCE' buttons at the top of the page are missing in the new version.
+- The breadcrumbs have changed from 'Bazel > Community > Programs' in the old version to just 'Basics' in the new version.
+
