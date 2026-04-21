@@ -5,6 +5,7 @@ import json
 from pathlib import Path
 import requests
 import dotenv
+from typing import TypedDict
 from google import genai
 from playwright.sync_api import sync_playwright
 
@@ -135,7 +136,7 @@ def main():
     # It will automatically pick up GEMINI_API_KEY from environment
     client = genai.Client()
     
-    test_paths = paths[10:20]
+    test_paths = paths[20:25]
     print(f"Testing first 3 paths: {test_paths}")
     
     for path in test_paths:
@@ -174,13 +175,22 @@ def main():
                 
                 # Generate content
                 print("Generating content from Gemini...")
+                class Response(TypedDict):
+                    issues: list[str]
+
+                config = genai.types.GenerateContentConfig(
+                    response_mime_type="application/json",
+                    response_schema=Response
+                )
+
                 response = client.models.generate_content(
                     model="gemini-3-flash-preview",
                     contents=[file_old, file_new, prompt],
+                    config=config
                 )
                 
                 print(f"--- Gemini Response for {path} ---")
-                print(response.text)
+                print(response.parsed['issues'])
                 print("----------------------------------")
                 
             except Exception as e:

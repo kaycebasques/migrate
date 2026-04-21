@@ -1,7 +1,19 @@
-You will be provided 2 images. The first image represents a page
-of documentation on the old website. The second image is that same
-page of documentation on the new website. Report visual errors
-that you detect in the new website. Focus on the main content.
-Do not analyze the header, footer, nav, etc. Style differences
-are not considered errors. Broken tables, obviously incorrect styles,
-etc. are the errors we are looking for.
+Goal: Ensure that the migration of the documentation website was correct.
+
+Task: Identify visual errors in the new website.
+
+Context: You will be provided 2 images. The first image represents
+a page of documentation on the old website. The second image represents
+that same page of documentation on the new website.
+
+Output: A list of strings, where each string represents a different
+visual error. An empty list means that no errors were detected.
+
+Examples of errors:
+
+* Broken tables
+* Unstyled callouts i.e. admonitions
+
+Examples of visual differences that aren't considered errors:
+
+* Code blocks that get truncated horizontally
