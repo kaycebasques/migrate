@@ -1024,3 +1024,15 @@ New URL: https://preview.bazel.build/install/ubuntu
 
 - Raw HTML tags (<var>, </var>) are visible in the text and code blocks within the "Step 2: Run the installer" section.
 
+## /install/windows
+
+Old URL: https://bazel.build/install/windows
+New URL: https://preview.bazel.build/install/windows
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/install/windows](data/install/windows/old.png) | ![https://preview.bazel.build/install/windows](data/install/windows/new.png) |
+
+- Literal "<var>" HTML tags are visible in the text and code blocks throughout the page, indicating a rendering error.
+- The shell prompt ("$") at the beginning of command-line examples has been removed in the new version of the site.
+
