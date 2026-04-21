@@ -486,3 +486,10 @@ New URL: https://preview.bazel.build/contribute/docs-style-guide
 - The nested ordered list items in the 'Lists' section are incorrectly rendered with both bullet points and numbers.
 - The 'Yes' and 'No' icons and their associated green and red colors are missing from example sections throughout the page.
 
+## /contribute/maintainers-guide
+
+Old URL: https://bazel.build/contribute/maintainers-guide
+New URL: https://preview.bazel.build/contribute/maintainers-guide
+
+OK
+
