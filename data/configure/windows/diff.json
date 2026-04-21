@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "Multiple code blocks throughout the page are showing raw HTML tags such as '<code class=\"devsite-terminal\" ...>' instead of rendering properly. This occurs in the 'Build C++ with MSVC', 'Build Java', and 'Build Python' sections."
+  ]
+}

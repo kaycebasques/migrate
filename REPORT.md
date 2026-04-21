@@ -409,3 +409,14 @@ New URL: https://preview.bazel.build/configure/integrate-cpp
 - There are extra spaces before punctuation (commas and periods) when they immediately follow a link or code span, such as 'CcInfo ,', 'LinkingContext .', and 'examples .'.
 - There are unnecessary line breaks within the bullet points in the 'Generating command lines and environment variables using the C++ toolchain' section, causing the text to wrap prematurely.
 
+## /configure/windows
+
+Old URL: https://bazel.build/configure/windows
+New URL: https://preview.bazel.build/configure/windows
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/configure/windows](data/configure/windows/old.png) | ![https://preview.bazel.build/configure/windows](data/configure/windows/new.png) |
+
+- Multiple code blocks throughout the page are showing raw HTML tags such as '<code class="devsite-terminal" ...>' instead of rendering properly. This occurs in the 'Build C++ with MSVC', 'Build Java', and 'Build Python' sections.
+
