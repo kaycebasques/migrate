@@ -669,3 +669,10 @@ New URL: https://preview.bazel.build/docs/mobile-install
 
 - The 'Limitations' and 'A brief history of mobile-install' sections are incorrectly nested under 'Results' in the 'On this page' navigation sidebar.
 
+## /docs/sandboxing
+
+Old URL: https://bazel.build/docs/sandboxing
+New URL: https://preview.bazel.build/docs/sandboxing
+
+OK
+
