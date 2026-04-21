@@ -1,6 +1,7 @@
 import time
 import os
 import sys
+import json
 from pathlib import Path
 import requests
 import dotenv
@@ -52,9 +53,11 @@ def check_status(url: str) -> bool:
         print(f"Error checking URL: {e}")
         return False
 
-def capture_screenshot(url: str, output_path: Path):
+def capture_screenshot(url: str, output_path: Path, delete_selectors: list[str] = None):
     """Loads URL in headless Playwright and takes a screenshot."""
     print(f"Loading URL for screenshot: {url}")
+    if delete_selectors is None:
+        delete_selectors = []
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
@@ -62,6 +65,18 @@ def capture_screenshot(url: str, output_path: Path):
             page.goto(url)
             # Wait a few seconds as requested
             time.sleep(5)
+            
+            # Delete elements as requested
+            for selector in delete_selectors:
+                print(f"Deleting elements matching: {selector}")
+                try:
+                    page.evaluate(
+                        "selector => { document.querySelectorAll(selector).forEach(e => e.remove()) }",
+                        selector
+                    )
+                except Exception as e:
+                    print(f"Error deleting {selector}: {e}")
+                    
             page.screenshot(path=str(output_path), full_page=True)
             print(f"Screenshot saved to {output_path}")
         except Exception as e:
@@ -90,6 +105,7 @@ def main():
     urls_file = workspace_dir / 'urls.txt'
     prompt_file = workspace_dir / 'prompt.txt'
     env_file = workspace_dir / '.env'
+    config_file = workspace_dir / 'config.json'
     
     # Load .env
     if env_file.exists():
@@ -100,6 +116,18 @@ def main():
         
     paths = get_url_paths(urls_file)
     prompt = get_prompt(prompt_file)
+    
+    # Load config.json
+    config = {}
+    if config_file.exists():
+        print(f"Loading config from {config_file}")
+        try:
+            with open(config_file, 'r') as f:
+                config = json.load(f)
+        except Exception as e:
+            print(f"Error loading config: {e}")
+    else:
+        print(f"Warning: config.json not found at {config_file}")
     
     data_dir = workspace_dir / 'data'
     
@@ -123,14 +151,14 @@ def main():
         output_dir.mkdir(parents=True, exist_ok=True)
         
         screenshot_path_old = output_dir / 'old.png'
-        capture_screenshot(old_url, screenshot_path_old)
+        capture_screenshot(old_url, screenshot_path_old, config.get('old', {}).get('delete', []))
         
         new_site_valid = check_status(new_url)
         screenshot_path_new = None
         
         if new_site_valid:
             screenshot_path_new = output_dir / 'new.png'
-            capture_screenshot(new_url, screenshot_path_new)
+            capture_screenshot(new_url, screenshot_path_new, config.get('new', {}).get('delete', []))
         else:
             log_error(workspace_dir, path)
             

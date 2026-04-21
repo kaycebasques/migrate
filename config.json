@@ -1,0 +1,19 @@
+{
+  "old": {
+    "delete": [
+      ".devsite-banner",
+      "devsite-book-nav",
+      "devsite-content-footer",
+      "devsite-footer-linkboxes",
+      "devsite-footer-utility",
+      "devsite-header"
+    ]
+  },
+  "new": {
+    "delete": [
+      "#sidebar",
+      "#navbar",
+      ".chat-assistant-floating-input"
+    ]
+  }
+}
