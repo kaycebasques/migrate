@@ -863,3 +863,14 @@ New URL: https://preview.bazel.build/external/mod-command
 
 ERROR
 
+## /external/module
+
+Old URL: https://bazel.build/external/module
+New URL: https://preview.bazel.build/external/module
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/external/module](data/external/module/old.png) | ![https://preview.bazel.build/external/module](data/external/module/new.png) |
+
+- The HTML <var> tags are displayed as literal text instead of being rendered in the 'Repository names and strict deps' section.
+

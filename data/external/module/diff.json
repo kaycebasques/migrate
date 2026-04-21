@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "The HTML <var> tags are displayed as literal text instead of being rendered in the 'Repository names and strict deps' section."
+  ]
+}
