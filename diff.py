@@ -221,11 +221,11 @@ def main():
             
         # Commit changes for this path
         print(f"Committing changes for {path}")
-        subprocess.run(["git", "add", str(output_dir)])
-        result = subprocess.run(["git", "commit", "-m", path], capture_output=True, text=True)
+        subprocess.run(["git", "add", str(output_dir)], cwd=workspace_dir)
+        result = subprocess.run(["git", "commit", "-m", path], capture_output=True, text=True, cwd=workspace_dir)
         if result.returncode != 0:
             print(f"Git commit for {path} result: {result.stdout.strip() or result.stderr.strip()}")
-        result = subprocess.run(["git", "push"], capture_output=True, text=True)
+        result = subprocess.run(["git", "push"], capture_output=True, text=True, cwd=workspace_dir)
 
 if __name__ == "__main__":
     main()
