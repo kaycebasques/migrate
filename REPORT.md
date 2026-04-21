@@ -364,3 +364,10 @@ New URL: https://preview.bazel.build/concepts/platforms
 - The 'Caution' admonition in the 'Platform mappings' section is unstyled, as it lacks the background and border present in other callouts like 'Key Point'.
 - In the 'On this page' navigation sidebar, 'Common platform properties' and 'Platform mappings' are incorrectly indented as sub-items under 'Migrating your rule set', despite being top-level H2 sections in the content.
 
+## /concepts/visibility
+
+Old URL: https://bazel.build/concepts/visibility
+New URL: https://preview.bazel.build/concepts/visibility
+
+OK
+
