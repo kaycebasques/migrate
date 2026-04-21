@@ -1,0 +1,6 @@
+{
+  "issues": [
+    "The 'Note' callout (admonition) at the top of the page is unstyled, lacking the background color and icon present in the original.",
+    "There is broken navigation text ('arrow_backLabelsDependenciesarrow_forward') appearing before the 'File encoding' section, which seems to be a failure to render the previous/next buttons correctly."
+  ]
+}

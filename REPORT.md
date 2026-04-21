@@ -299,3 +299,15 @@ New URL: https://preview.bazel.build/concepts
 - The text 'Labelsarrow_forward' at the bottom of the page appears to be a broken UI element where a Material Icon name has been concatenated with the text string.
 - The page content and title do not match the old version of the page; the original 'Understanding Bazel' landing page featured three main sections ('Read about the build system', 'Understand fundamental concepts', and 'Check releases and updates'), while the new page only includes the 'fundamental concepts' content and has a different title.
 
+## /concepts/build-files
+
+Old URL: https://bazel.build/concepts/build-files
+New URL: https://preview.bazel.build/concepts/build-files
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/concepts/build-files](data/concepts/build-files/old.png) | ![https://preview.bazel.build/concepts/build-files](data/concepts/build-files/new.png) |
+
+- The 'Note' callout (admonition) at the top of the page is unstyled, lacking the background color and icon present in the original.
+- There is broken navigation text ('arrow_backLabelsDependenciesarrow_forward') appearing before the 'File encoding' section, which seems to be a failure to render the previous/next buttons correctly.
+
