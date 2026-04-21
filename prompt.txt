@@ -1,0 +1,7 @@
+You will be provided 2 images. The first image represents a page
+of documentation on the old website. The second image is that same
+page of documentation on the new website. Report visual errors
+that you detect in the new website. Focus on the main content.
+Do not analyze the header, footer, nav, etc. Style differences
+are not considered errors. Broken tables, obviously incorrect styles,
+etc. are the errors we are looking for.
