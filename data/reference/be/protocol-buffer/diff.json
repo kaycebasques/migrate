@@ -1,0 +1,6 @@
+{
+  "issues": [
+    "HTML entities such as &quot;, &lt;, and &gt; are incorrectly displayed as literal text instead of being rendered as characters in the attribute descriptions for proto_lang_toolchain and proto_toolchain.",
+    "An incorrect extra space is introduced in the $(OUT) variable placeholder within the command_line attribute description for proto_lang_toolchain (appearing as '$ (OUT)')."
+  ]
+}

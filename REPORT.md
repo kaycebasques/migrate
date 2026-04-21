@@ -1261,3 +1261,15 @@ New URL: https://preview.bazel.build/reference/be/platforms-and-toolchains
 - Unrendered HTML tags and entities (e.g., &lt;b&gt;, &amp;lcub;) in the bullet points under the 'Example: Execution properties' section for the 'platform' rule.
 - Unrendered HTML tags and entities in the default value for the 'exec_properties' attribute in the 'Arguments' table for the 'platform' rule.
 
+## /reference/be/protocol-buffer
+
+Old URL: https://bazel.build/reference/be/protocol-buffer
+New URL: https://preview.bazel.build/reference/be/protocol-buffer
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/reference/be/protocol-buffer](data/reference/be/protocol-buffer/old.png) | ![https://preview.bazel.build/reference/be/protocol-buffer](data/reference/be/protocol-buffer/new.png) |
+
+- HTML entities such as &quot;, &lt;, and &gt; are incorrectly displayed as literal text instead of being rendered as characters in the attribute descriptions for proto_lang_toolchain and proto_toolchain.
+- An incorrect extra space is introduced in the $(OUT) variable placeholder within the command_line attribute description for proto_lang_toolchain (appearing as '$ (OUT)').
+
