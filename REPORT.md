@@ -1284,3 +1284,15 @@ New URL: https://preview.bazel.build/reference/be/python
 
 - The 'open_in_new' icon name is incorrectly rendered as plain text instead of a graphical icon in the 'View rule source' links for each rule (e.g., 'View rule sourceopen_in_new').
 
+## /reference/be/shell
+
+Old URL: https://bazel.build/reference/be/shell
+New URL: https://preview.bazel.build/reference/be/shell
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/reference/be/shell](data/reference/be/shell/old.png) | ![https://preview.bazel.build/reference/be/shell](data/reference/be/shell/new.png) |
+
+- The 'View rule source' links have an error where the icon name text is concatenated with the link text: 'View rule sourceopen_in_new'.
+- In the attribute tables (e.g., under sh_binary Arguments), the description text for each attribute is concatenated on the same line as the type and requirement information, instead of being on a new line (e.g., 'Name; required A unique name for this target.').
+
