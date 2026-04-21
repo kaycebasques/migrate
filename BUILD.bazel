@@ -2,10 +2,11 @@ load("@rules_python//python:defs.bzl", "py_binary")
 load("@pypi//:requirements.bzl", "requirement")
 
 py_binary(
-    name = "crawl",
-    srcs = ["crawl.py"],
+    name = "diff",
+    srcs = ["diff.py"],
     data = [
         ".env",
+        "urls.txt",
         "@playwright//:chromium",
     ],
     env = {
@@ -17,13 +18,5 @@ py_binary(
         requirement("google-genai"),
         requirement("requests"),
         requirement("beautifulsoup4"),
-    ],
-)
-
-py_binary(
-    name = "top_pages",
-    srcs = ["top_pages.py"],
-    data = [
-        "bazel.csv",
     ],
 )
