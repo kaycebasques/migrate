@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "Literal HTML <var> tags are visible in the text instead of being rendered in the paragraphs describing the --config build flag."
+  ]
+}

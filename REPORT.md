@@ -965,3 +965,14 @@ New URL: https://preview.bazel.build/install/completion
 
 OK
 
+## /install/docker-container
+
+Old URL: https://bazel.build/install/docker-container
+New URL: https://preview.bazel.build/install/docker-container
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/install/docker-container](data/install/docker-container/old.png) | ![https://preview.bazel.build/install/docker-container](data/install/docker-container/new.png) |
+
+- Literal HTML <var> tags are visible in the text instead of being rendered in the paragraphs describing the --config build flag.
+
