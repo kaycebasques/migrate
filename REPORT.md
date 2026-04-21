@@ -188,3 +188,10 @@ New URL: https://preview.bazel.build/brand
 
 OK
 
+## /build/share-variables
+
+Old URL: https://bazel.build/build/share-variables
+New URL: https://preview.bazel.build/build/share-variables
+
+OK
+
