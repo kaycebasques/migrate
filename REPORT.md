@@ -254,3 +254,10 @@ New URL: https://preview.bazel.build/community/recommended-rules
 - The 'REPORT AN ISSUE' and 'VIEW SOURCE' buttons at the top of the page are missing in the new version.
 - The breadcrumbs have changed from 'Bazel > Community > Programs' in the old version to just 'Basics' in the new version.
 
+## /community/remote-execution-services
+
+Old URL: https://bazel.build/community/remote-execution-services
+New URL: https://preview.bazel.build/community/remote-execution-services
+
+OK
+
