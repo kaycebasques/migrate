@@ -731,3 +731,15 @@ New URL: https://preview.bazel.build/extending/concepts
 
 OK
 
+## /extending/config
+
+Old URL: https://bazel.build/extending/config
+New URL: https://preview.bazel.build/extending/config
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/extending/config](data/extending/config/old.png) | ![https://preview.bazel.build/extending/config](data/extending/config/new.png) |
+
+- Stray 'E' character appearing before 'on this page' in both the breadcrumb navigation and the right sidebar title.
+- Unrendered markdown list in the 'Badly behaved builds: a case study' section, where raw asterisks are visible instead of bullet points.
+
