@@ -472,3 +472,17 @@ New URL: https://preview.bazel.build/contribute/docs
 
 OK
 
+## /contribute/docs-style-guide
+
+Old URL: https://bazel.build/contribute/docs-style-guide
+New URL: https://preview.bazel.build/contribute/docs-style-guide
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/contribute/docs-style-guide](data/contribute/docs-style-guide/old.png) | ![https://preview.bazel.build/contribute/docs-style-guide](data/contribute/docs-style-guide/new.png) |
+
+- The 'Note' callout in the 'File type' section is unstyled, appearing as plain text instead of a highlighted box with an icon.
+- The 'Inline code formatting' heading is missing from the 'On this page' navigation sidebar.
+- The nested ordered list items in the 'Lists' section are incorrectly rendered with both bullet points and numbers.
+- The 'Yes' and 'No' icons and their associated green and red colors are missing from example sections throughout the page.
+
