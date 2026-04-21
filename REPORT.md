@@ -500,3 +500,16 @@ New URL: https://preview.bazel.build/contribute/patch-acceptance
 
 OK
 
+## /contribute/policy
+
+Old URL: https://bazel.build/contribute/policy
+New URL: https://preview.bazel.build/contribute/policy
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/contribute/policy](data/contribute/policy/old.png) | ![https://preview.bazel.build/contribute/policy](data/contribute/policy/new.png) |
+
+- The page metadata (frontmatter) such as 'translation: human', 'page_type: lcat', and 'title: 'Contribution policy'' is being incorrectly rendered as visible text at the top of the content area.
+- The main page title has been incorrectly split into 'Contributing' and 'Policy' instead of using the full title 'Contribution policy'.
+- The 'On this page' navigation sidebar incorrectly includes the raw metadata strings in its list of sections.
+
