@@ -39,3 +39,10 @@ New URL: https://preview.bazel.build/about/faq
 
 OK
 
+## /about/intro
+
+Old URL: https://bazel.build/about/intro
+New URL: https://preview.bazel.build/about/intro
+
+OK
+
