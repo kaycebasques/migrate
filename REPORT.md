@@ -112,3 +112,14 @@ New URL: https://preview.bazel.build/advanced/performance/memory
 - The command "bazel clean" in the text has been incorrectly split into two separate code blocks with a space in between, whereas it was a single code block in the original.
 - In the section "Trade build flexibility for memory with Skyfocus (Experimental)", the flag name "--experimental_working_set" has been changed to "--experimental_active_directories" in both the description text and the code examples.
 
+## /basics
+
+Old URL: https://bazel.build/basics
+New URL: https://preview.bazel.build/basics
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/basics](data/basics/old.png) | ![https://preview.bazel.build/basics](data/basics/new.png) |
+
+- The note callout starting with 'Much of this section's content comes from...' is unstyled on the new site, missing its background color and icon.
+
