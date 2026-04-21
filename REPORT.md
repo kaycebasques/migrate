@@ -168,3 +168,16 @@ New URL: https://preview.bazel.build/basics/hermeticity
 - The "Note" callout in the "Troubleshooting non-hermeticity builds" section is missing its styling (blue background and icon) in the new site.
 - Raw HTML tags (<var>) are visible in the code block at the end of the "Troubleshooting non-hermeticity builds" section.
 
+## /basics/task-based-builds
+
+Old URL: https://bazel.build/basics/task-based-builds
+New URL: https://preview.bazel.build/basics/task-based-builds
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/basics/task-based-builds](data/basics/task-based-builds/old.png) | ![https://preview.bazel.build/basics/task-based-builds](data/basics/task-based-builds/new.png) |
+
+- The 'REPORT AN ISSUE' and 'VIEW SOURCE' buttons are missing from the top of the page.
+- The text 'ant dist' in the paragraph preceding the numbered list is missing its monospace code formatting.
+- The shell script code block is missing the '$' prompt characters at the start of each line that were present in the original version.
+

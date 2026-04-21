@@ -1,0 +1,7 @@
+{
+  "issues": [
+    "The 'REPORT AN ISSUE' and 'VIEW SOURCE' buttons are missing from the top of the page.",
+    "The text 'ant dist' in the paragraph preceding the numbered list is missing its monospace code formatting.",
+    "The shell script code block is missing the '$' prompt characters at the start of each line that were present in the original version."
+  ]
+}
