@@ -432,3 +432,15 @@ New URL: https://preview.bazel.build/contribute
 - The "REPORT AN ISSUE" and "VIEW SOURCE" buttons are missing from the top of the page.
 - There are unnecessary extra spaces before periods that follow inline code blocks throughout the page (e.g., after `bazel clean`, `src/main/protobuf`, `src/test/java`, `com.google.devtools.build.lib.bazel.rules`, and `src/main/native`).
 
+## /contribute/breaking-changes
+
+Old URL: https://bazel.build/contribute/breaking-changes
+New URL: https://preview.bazel.build/contribute/breaking-changes
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/contribute/breaking-changes](data/contribute/breaking-changes/old.png) | ![https://preview.bazel.build/contribute/breaking-changes](data/contribute/breaking-changes/new.png) |
+
+- External link icons (box with arrow) are missing from all links that previously had them.
+- Inconsistent link styling: several links are missing underlines or other visual indicators that they are clickable, specifically 'incompatible-change', 'migration-ready', and 'Bazel Rules Authors SIG'.
+
