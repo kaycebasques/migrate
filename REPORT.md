@@ -444,3 +444,10 @@ New URL: https://preview.bazel.build/contribute/breaking-changes
 - External link icons (box with arrow) are missing from all links that previously had them.
 - Inconsistent link styling: several links are missing underlines or other visual indicators that they are clickable, specifically 'incompatible-change', 'migration-ready', and 'Bazel Rules Authors SIG'.
 
+## /contribute/codebase
+
+Old URL: https://bazel.build/contribute/codebase
+New URL: https://preview.bazel.build/contribute/codebase
+
+OK
+
