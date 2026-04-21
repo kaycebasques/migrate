@@ -1,21 +1,10 @@
 {
   "old": {
-    "base_url": "https://bazel.build",
-    "delete": [
-      ".devsite-banner",
-      "devsite-book-nav",
-      "devsite-content-footer",
-      "devsite-footer-linkboxes",
-      "devsite-footer-utility",
-      "devsite-header"
-    ]
+    "base_url": "https://old.example.com",
+    "delete": []
   },
   "new": {
-    "base_url": "https://preview.bazel.build",
-    "delete": [
-      "#sidebar",
-      "#navbar",
-      ".chat-assistant-floating-input"
-    ]
+    "base_url": "https://new.example.com",
+    "delete": []
   }
 }
