@@ -633,3 +633,10 @@ New URL: https://preview.bazel.build/docs/bazel-and-java
 - The 'On this page' table of contents sidebar is incomplete, failing to include several sections that are present on the page, such as 'Multiple versions of Java source code in a single repository' and all the sub-sections under 'Configuring the Java toolchains' (e.g., 'Configuring additional execution toolchains').
 - In the 'Configuring the version of the source code in your repository' section, the placeholder syntax '{ver}' from the original site has been incorrectly changed to '(ver)' in the new site's text.
 
+## /docs/bazel-and-javascript
+
+Old URL: https://bazel.build/docs/bazel-and-javascript
+New URL: https://preview.bazel.build/docs/bazel-and-javascript
+
+OK
+
