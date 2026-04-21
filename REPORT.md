@@ -371,3 +371,10 @@ New URL: https://preview.bazel.build/concepts/visibility
 
 OK
 
+## /configure/attributes
+
+Old URL: https://bazel.build/configure/attributes
+New URL: https://preview.bazel.build/configure/attributes
+
+ERROR
+
