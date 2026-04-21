@@ -1159,3 +1159,14 @@ New URL: https://preview.bazel.build/reference/be/c-cpp
 
 OK
 
+## /reference/be/common-definitions
+
+Old URL: https://bazel.build/reference/be/common-definitions
+New URL: https://preview.bazel.build/reference/be/common-definitions
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/reference/be/common-definitions](data/reference/be/common-definitions/old.png) | ![https://preview.bazel.build/reference/be/common-definitions](data/reference/be/common-definitions/new.png) |
+
+- The table for the 'size' attribute in the 'Attributes common to all test rules (*_test)' section is missing the 'CPU (in cores)' and 'Default timeout' columns.
+

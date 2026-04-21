@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "The table for the 'size' attribute in the 'Attributes common to all test rules (*_test)' section is missing the 'CPU (in cores)' and 'Default timeout' columns."
+  ]
+}
