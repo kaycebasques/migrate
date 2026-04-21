@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "The 'Note' callouts (e.g., in the 'Using cquery options', 'Protocol message output', and 'Files output' sections) are unstyled in the new version, appearing as regular paragraphs instead of highlighted blocks with icons."
+  ]
+}

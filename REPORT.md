@@ -1080,3 +1080,14 @@ New URL: https://preview.bazel.build/query/aquery
 - Unstyled code block for 'AspectClass(param=value,...)': missing background styling.
 - Unstyled code block in the FAQ section: missing background styling.
 
+## /query/cquery
+
+Old URL: https://bazel.build/query/cquery
+New URL: https://preview.bazel.build/query/cquery
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/query/cquery](data/query/cquery/old.png) | ![https://preview.bazel.build/query/cquery](data/query/cquery/new.png) |
+
+- The 'Note' callouts (e.g., in the 'Using cquery options', 'Protocol message output', and 'Files output' sections) are unstyled in the new version, appearing as regular paragraphs instead of highlighted blocks with icons.
+
