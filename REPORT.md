@@ -920,3 +920,10 @@ New URL: https://preview.bazel.build/external/vendor
 
 - Unstyled callouts: Several 'Note' sections (e.g., under 'Build the target offline', 'Configure vendor mode with VENDOR.bazel', 'Understand how vendor mode works', and 'Vendor symlinks') are rendered as plain text instead of the styled blue admonition boxes found on the original site.
 
+## /help
+
+Old URL: https://bazel.build/help
+New URL: https://preview.bazel.build/help
+
+OK
+
