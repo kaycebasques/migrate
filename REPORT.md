@@ -874,3 +874,15 @@ New URL: https://preview.bazel.build/external/module
 
 - The HTML <var> tags are displayed as literal text instead of being rendered in the 'Repository names and strict deps' section.
 
+## /external/overview
+
+Old URL: https://bazel.build/external/overview
+New URL: https://preview.bazel.build/external/overview
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/external/overview](data/external/overview/old.png) | ![https://preview.bazel.build/external/overview](data/external/overview/new.png) |
+
+- The "On this page" sidebar navigation menu is missing the final two sections: "Shortcomings of the WORKSPACE system" and "External links on Bzlmod".
+- In the "Directory layout" section, the code block contains an erroneous extra space character between "external/" and "canonical_name".
+

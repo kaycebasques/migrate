@@ -1,0 +1,6 @@
+{
+  "issues": [
+    "The \"On this page\" sidebar navigation menu is missing the final two sections: \"Shortcomings of the WORKSPACE system\" and \"External links on Bzlmod\".",
+    "In the \"Directory layout\" section, the code block contains an erroneous extra space character between \"external/\" and \"canonical_name\"."
+  ]
+}
