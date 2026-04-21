@@ -897,3 +897,15 @@ New URL: https://preview.bazel.build/external/registry
 
 - Unwanted spaces before punctuation (colons, commas, periods) following inline code elements throughout the document.
 
+## /external/repo
+
+Old URL: https://bazel.build/external/repo
+New URL: https://preview.bazel.build/external/repo
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/external/repo](data/external/repo/old.png) | ![https://preview.bazel.build/external/repo](data/external/repo/new.png) |
+
+- In the 'When is the implementation function executed?' section, the word 'watched' is incorrectly split into 'watch' (formatted as inline code) and 'ed' (formatted as plain text) with a space in between.
+- Extraneous whitespace has been introduced before punctuation marks that follow inline code elements (e.g., 'repository_ctx 's', 'repository_rule .', and '...--all .').
+

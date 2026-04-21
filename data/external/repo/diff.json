@@ -1,0 +1,6 @@
+{
+  "issues": [
+    "In the 'When is the implementation function executed?' section, the word 'watched' is incorrectly split into 'watch' (formatted as inline code) and 'ed' (formatted as plain text) with a space in between.",
+    "Extraneous whitespace has been introduced before punctuation marks that follow inline code elements (e.g., 'repository_ctx 's', 'repository_rule .', and '...--all .')."
+  ]
+}
