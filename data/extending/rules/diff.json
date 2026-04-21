@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "Several callouts (admonitions) that were styled with a blue background and border in the original documentation are unstyled in the new site, appearing as plain text paragraphs (e.g., under the 'Files', 'Requesting output files', and 'Migrating from legacy providers' sections)."
+  ]
+}

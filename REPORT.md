@@ -791,3 +791,14 @@ New URL: https://preview.bazel.build/extending/platforms
 
 - The note callouts in the 'Platform types' and 'More expressive constraints' sections are unstyled and appear as regular text in the new version, missing their colored background and icons.
 
+## /extending/rules
+
+Old URL: https://bazel.build/extending/rules
+New URL: https://preview.bazel.build/extending/rules
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/extending/rules](data/extending/rules/old.png) | ![https://preview.bazel.build/extending/rules](data/extending/rules/new.png) |
+
+- Several callouts (admonitions) that were styled with a blue background and border in the original documentation are unstyled in the new site, appearing as plain text paragraphs (e.g., under the 'Files', 'Requesting output files', and 'Migrating from legacy providers' sections).
+
