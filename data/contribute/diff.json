@@ -1,0 +1,6 @@
+{
+  "issues": [
+    "The \"REPORT AN ISSUE\" and \"VIEW SOURCE\" buttons are missing from the top of the page.",
+    "There are unnecessary extra spaces before periods that follow inline code blocks throughout the page (e.g., after `bazel clean`, `src/main/protobuf`, `src/test/java`, `com.google.devtools.build.lib.bazel.rules`, and `src/main/native`)."
+  ]
+}

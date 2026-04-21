@@ -420,3 +420,15 @@ New URL: https://preview.bazel.build/configure/windows
 
 - Multiple code blocks throughout the page are showing raw HTML tags such as '<code class="devsite-terminal" ...>' instead of rendering properly. This occurs in the 'Build C++ with MSVC', 'Build Java', and 'Build Python' sections.
 
+## /contribute
+
+Old URL: https://bazel.build/contribute
+New URL: https://preview.bazel.build/contribute
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/contribute](data/contribute/old.png) | ![https://preview.bazel.build/contribute](data/contribute/new.png) |
+
+- The "REPORT AN ISSUE" and "VIEW SOURCE" buttons are missing from the top of the page.
+- There are unnecessary extra spaces before periods that follow inline code blocks throughout the page (e.g., after `bazel clean`, `src/main/protobuf`, `src/test/java`, `com.google.devtools.build.lib.bazel.rules`, and `src/main/native`).
+
