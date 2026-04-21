@@ -378,3 +378,15 @@ New URL: https://preview.bazel.build/configure/attributes
 
 ERROR
 
+## /configure/best-practices
+
+Old URL: https://bazel.build/configure/best-practices
+New URL: https://preview.bazel.build/configure/best-practices
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/configure/best-practices](data/configure/best-practices/old.png) | ![https://preview.bazel.build/configure/best-practices](data/configure/best-practices/new.png) |
+
+- Literal HTML tags (<var> and </var>) are visible in the text within the 'Using the .bazelrc file' section.
+- An incorrect paragraph break splits a sentence after the 'bazelrc-preset.bzl' link in the 'Using the .bazelrc file' section.
+
