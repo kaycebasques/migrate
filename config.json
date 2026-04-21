@@ -1,5 +1,6 @@
 {
   "old": {
+    "base_url": "https://bazel.build",
     "delete": [
       ".devsite-banner",
       "devsite-book-nav",
@@ -10,6 +11,7 @@
     ]
   },
   "new": {
+    "base_url": "https://preview.bazel.build",
     "delete": [
       "#sidebar",
       "#navbar",

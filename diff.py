@@ -2,6 +2,7 @@ import time
 import os
 import sys
 import json
+import subprocess
 from pathlib import Path
 import requests
 import dotenv
@@ -9,8 +10,6 @@ from typing import TypedDict
 from google import genai
 from playwright.sync_api import sync_playwright
 
-OLD_BASE_URL = "https://bazel.build"
-NEW_BASE_URL = "https://preview.bazel.build"
 
 def get_workspace_dir() -> Path:
     """Returns the workspace directory or exits if not set."""
@@ -130,25 +129,39 @@ def main():
     else:
         print(f"Warning: config.json not found at {config_file}")
     
+    old_base_url = config.get('old', {}).get('base_url', 'https://bazel.build')
+    new_base_url = config.get('new', {}).get('base_url', 'https://preview.bazel.build')
+    
     data_dir = workspace_dir / 'data'
     
     # Initialize Gemini Client
     # It will automatically pick up GEMINI_API_KEY from environment
     client = genai.Client()
     
-    test_paths = paths[20:25]
-    print(f"Testing first 3 paths: {test_paths}")
-    
-    for path in test_paths:
-        old_url = OLD_BASE_URL + path
-        new_url = NEW_BASE_URL + path
+    for path in paths:
+        rel_path = path.lstrip('/')
+        output_dir = data_dir / rel_path
+        
+        if output_dir.exists():
+            if (output_dir / 'ERROR').exists():
+                print(f"Skipping {path} (Already done with error)")
+                continue
+            if (output_dir / 'NOT_OK').exists():
+                print(f"Skipping {path} (Already NOT_OK)")
+                continue
+            if (output_dir / 'old.png').exists() and (output_dir / 'new.png').exists() and (output_dir / 'diff.json').exists():
+                print(f"Skipping {path} (Already done)")
+                continue
+                
+        old_url = old_base_url + path
+        new_url = new_base_url + path
         
         if not check_status(old_url):
             print(f"Skipping {path} (Old site not 200)")
+            output_dir.mkdir(parents=True, exist_ok=True)
+            (output_dir / 'NOT_OK').touch()
             continue
             
-        rel_path = path.lstrip('/')
-        output_dir = data_dir / rel_path
         output_dir.mkdir(parents=True, exist_ok=True)
         
         screenshot_path_old = output_dir / 'old.png'
@@ -162,6 +175,9 @@ def main():
             capture_screenshot(new_url, screenshot_path_new, config.get('new', {}).get('delete', []))
         else:
             log_error(workspace_dir, path)
+            error_file = output_dir / 'ERROR'
+            print(f"Touching error file: {error_file}")
+            error_file.touch()
             
         # If both screenshots exist, run Gemini analysis
         if screenshot_path_old.exists() and screenshot_path_new and screenshot_path_new.exists():
@@ -193,10 +209,22 @@ def main():
                 print(response.parsed['issues'])
                 print("----------------------------------")
                 
+                diff_json_path = output_dir / 'diff.json'
+                print(f"Saving analysis to {diff_json_path}")
+                with open(diff_json_path, 'w') as f:
+                    json.dump(response.parsed, f, indent=2)
+                
             except Exception as e:
                 print(f"Error during Gemini analysis: {e}")
         else:
             print(f"Skipping analysis for {path} (Missing one or both screenshots)")
+            
+        # Commit changes for this path
+        print(f"Committing changes for {path}")
+        subprocess.run(["git", "add", str(output_dir)])
+        result = subprocess.run(["git", "commit", "-m", path], capture_output=True, text=True)
+        if result.returncode != 0:
+            print(f"Git commit for {path} result: {result.stdout.strip() or result.stderr.strip()}")
 
 if __name__ == "__main__":
     main()
