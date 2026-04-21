@@ -195,3 +195,10 @@ New URL: https://preview.bazel.build/build/share-variables
 
 OK
 
+## /build/style-guide
+
+Old URL: https://bazel.build/build/style-guide
+New URL: https://preview.bazel.build/build/style-guide
+
+OK
+
