@@ -225,6 +225,7 @@ def main():
         result = subprocess.run(["git", "commit", "-m", path], capture_output=True, text=True)
         if result.returncode != 0:
             print(f"Git commit for {path} result: {result.stdout.strip() or result.stderr.strip()}")
+        result = subprocess.run(["git", "push"], capture_output=True, text=True)
 
 if __name__ == "__main__":
     main()
