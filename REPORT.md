@@ -1145,3 +1145,17 @@ New URL: https://preview.bazel.build/reference
 - In the 'Language-agnostic native rules' table, there are leading asterisks (e.g., '* action_listener*') that appear to be unrendered Markdown list bullets.
 - Multiple links within table cells, such as those in the 'Library rules' column for C / C++, are listed without any delimiters like commas or bullet points, making them difficult to distinguish.
 
+## /reference/be/android
+
+Old URL: https://bazel.build/reference/be/android
+New URL: https://preview.bazel.build/reference/be/android
+
+NOT_OK
+
+## /reference/be/c-cpp
+
+Old URL: https://bazel.build/reference/be/c-cpp
+New URL: https://preview.bazel.build/reference/be/c-cpp
+
+OK
+
