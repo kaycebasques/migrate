@@ -828,3 +828,10 @@ New URL: https://preview.bazel.build/external/extension
 - Unstyled callout: The 'Note' admonition under 'Extension usage' has lost its blue background, icon, and distinct styling.
 - Raw HTML tags: The 'Repository names and visibility' section displays raw '<var>' tags instead of rendering them.
 
+## /external/faq
+
+Old URL: https://bazel.build/external/faq
+New URL: https://preview.bazel.build/external/faq
+
+OK
+
