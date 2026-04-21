@@ -1,10 +1,26 @@
 {
   "old": {
-    "base_url": "https://old.example.com",
-    "delete": []
+    "base_url": "https://bazel.build",
+    "delete": [
+      ".devsite-banner",
+      "devsite-book-nav",
+      "devsite-bookmark",
+      "devsite-cookie-notification-bar",
+      "devsite-content-footer",
+      "devsite-feedback",
+      "devsite-footer-linkboxes",
+      "devsite-footer-utility",
+      "devsite-header",
+      "devsite-thumb-rating"
+    ]
   },
   "new": {
-    "base_url": "https://new.example.com",
-    "delete": []
+    "base_url": "https://preview.bazel.build",
+    "delete": [
+      "#footer",
+      "#sidebar",
+      "#navbar",
+      ".chat-assistant-floating-input"
+    ]
   }
 }

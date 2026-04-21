@@ -1,0 +1,10 @@
+{
+  "issues": [
+    "The hero section containing the main heading '{ Fast, Correct } \u2014 Choose two' and the 'Install Bazel' call to action is missing.",
+    "The 'Trusted by industry leaders' social proof section at the bottom of the page is missing.",
+    "Inconsistent capitalization in card titles: 'Release Notes' is in Title Case, while others like 'Get started', 'User's guide', and 'Community updates' are in Sentence Case.",
+    "Inconsistent capitalization in link text: the 'Get Started >' link uses Title Case, whereas other links like 'Read the docs >', 'Search the guide >', and 'View notes >' use Sentence Case.",
+    "The primary illustration for the 'Essential Bazel' section (next to the section title and description in the original site) is missing.",
+    "Inconsistent layout for section descriptions: the 'Essential Bazel' description text is full-width, while the 'What's New?' description text is narrow and left-aligned."
+  ]
+}

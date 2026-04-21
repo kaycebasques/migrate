@@ -1,0 +1,10 @@
+{
+  "issues": [
+    "Punctuation (periods) is incorrectly included in the underlined text of links, specifically in 'install Bazel.' and 'command line.'",
+    "Link styling is inconsistent across the page; some links are underlined, while others (like 'languages', 'Starlark', and 'hermetically') are only indicated by green text.",
+    "The 'On this page' table of contents sidebar has an inconsistent dash bullet for the nested 'Action graph' item, while parent items have no bullets.",
+    "There is a heading hierarchy inconsistency: the 'Action graph' heading in the main body is visually identical in size and weight to top-level headings like 'Bazel build process', despite being nested in the table of contents.",
+    "All illustrative graphics and diagrams that defined the original page's visual identity are missing.",
+    "Entire sections from the original page, such as 'FAQ' and 'Build system basics', are missing from the new version of the page."
+  ]
+}

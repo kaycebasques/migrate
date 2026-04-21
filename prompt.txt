@@ -12,8 +12,27 @@ visual error. An empty list means that no errors were detected.
 Examples of errors:
 
 * Broken tables
+
 * Unstyled callouts i.e. admonitions
 
-Examples of visual differences that aren't considered errors:
+Examples of visual differences that can be ignored:
+
+* You must only flag changes between the old site and new site.
+  If the old site uses inconsistent capitalization in section
+  titles, but the new site has the exact same inconsistent
+  capitalization, then that should be ignored. Our goal here
+  is merely to ensure that the content was migrated over
+  accurately, and that the new site is at least as usable and readable
+  as the old site was.
 
 * Code blocks that get truncated horizontally
+
+* Missing version selectors
+
+* Missing site navigation sidebar, header, and footer (these
+  were intentionally removed before taking the screenshots)
+
+* Minor changes that are not incorrect in themselves. We
+  are not attempting to exactly preserve the styles from the
+  old site onto the new site. E.g. it's OK for the new site
+  to style links differently than the old site.
