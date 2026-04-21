@@ -532,3 +532,10 @@ New URL: https://preview.bazel.build/contribute/search
 
 ERROR
 
+## /contribute/statemachine-guide
+
+Old URL: https://bazel.build/contribute/statemachine-guide
+New URL: https://preview.bazel.build/contribute/statemachine-guide
+
+OK
+
