@@ -1183,3 +1183,14 @@ New URL: https://preview.bazel.build/reference/be/extra-actions
 - The Arguments tables contain multiple instances of text merging without proper spacing between the attribute metadata (e.g., 'required') and the description (e.g., 'requiredA list').
 - The description for the 'cmd' attribute in the 'extra_action' section has severe formatting errors where whitespace is missing between words and sentences, rendering the text nearly unreadable (e.g., 'with(location...)areexpanded.2.Anadditionalpassisappliedtothes').
 
+## /reference/be/functions
+
+Old URL: https://bazel.build/reference/be/functions
+New URL: https://preview.bazel.build/reference/be/functions
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/reference/be/functions](data/reference/be/functions/old.png) | ![https://preview.bazel.build/reference/be/functions](data/reference/be/functions/new.png) |
+
+- Extraneous small square icons (likely missing or incorrectly rendered glyphs) appear at the end of many paragraphs and next to inline code snippets throughout the documentation, causing significant visual clutter and impairing readability.
+
