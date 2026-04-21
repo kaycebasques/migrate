@@ -178,7 +178,7 @@ def main():
                 class Response(TypedDict):
                     issues: list[str]
 
-                config = genai.types.GenerateContentConfig(
+                gemini_config = genai.types.GenerateContentConfig(
                     response_mime_type="application/json",
                     response_schema=Response
                 )
@@ -186,7 +186,7 @@ def main():
                 response = client.models.generate_content(
                     model="gemini-3-flash-preview",
                     contents=[file_old, file_new, prompt],
-                    config=config
+                    config=gemini_config
                 )
                 
                 print(f"--- Gemini Response for {path} ---")
