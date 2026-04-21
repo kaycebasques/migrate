@@ -99,3 +99,16 @@ New URL: https://preview.bazel.build/advanced/performance/json-trace-profile
 
 OK
 
+## /advanced/performance/memory
+
+Old URL: https://bazel.build/advanced/performance/memory
+New URL: https://preview.bazel.build/advanced/performance/memory
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/advanced/performance/memory](data/advanced/performance/memory/old.png) | ![https://preview.bazel.build/advanced/performance/memory](data/advanced/performance/memory/new.png) |
+
+- Extra whitespace has been introduced before punctuation (commas and periods) that follow inline code snippets, such as in "--host_jvm_args ,", "--notrack_incremental_state .", and "dir1 , dir2 ,".
+- The command "bazel clean" in the text has been incorrectly split into two separate code blocks with a space in between, whereas it was a single code block in the original.
+- In the section "Trade build flexibility for memory with Skyfocus (Experimental)", the flag name "--experimental_working_set" has been changed to "--experimental_active_directories" in both the description text and the code examples.
+
