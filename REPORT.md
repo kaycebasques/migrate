@@ -525,3 +525,10 @@ New URL: https://preview.bazel.build/contribute/release-notes
 - In the 'Guidelines' section, the text 'relevant documentation' in the first bullet point is no longer a link.
 - In the 'Guidelines' section, the sixth bullet point contains corrupted text: the example 'X now $newBehavior instead of $oldBehavior' has been rendered as 'X now newBehaviorinsteadofoldBehavior' with missing spaces, missing dollar signs, and incorrect italicization.
 
+## /contribute/search
+
+Old URL: https://bazel.build/contribute/search
+New URL: https://preview.bazel.build/contribute/search
+
+ERROR
+
