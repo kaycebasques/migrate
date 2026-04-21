@@ -566,3 +566,17 @@ New URL: https://preview.bazel.build/docs/android-instrumentation-test
 
 OK
 
+## /docs/android-ndk
+
+Old URL: https://bazel.build/docs/android-ndk
+New URL: https://preview.bazel.build/docs/android-ndk
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/docs/android-ndk](data/docs/android-ndk/old.png) | ![https://preview.bazel.build/docs/android-ndk](data/docs/android-ndk/new.png) |
+
+- Literal HTML tags '<var>' and '</var>' are visible within the first code block of the 'Configuring the target ABI' section.
+- The 'cc_library' and 'cc_binary' rules in the first paragraph of the 'Overview' section are missing code-style formatting.
+- The terms '--android_platforms=//:arm64,//:x86_64' and 'BUILD.bazel' in the body text of the 'Configuring the target ABI' section are missing code-style formatting.
+- Multiple terms in the 'Building a cc_library for Android without using android_binary' section, including 'my/platforms/BUILD', 'bazelrc', 'project/.bazelrc', and the wild-cards '/...' and ':all', are missing code-style formatting.
+
