@@ -268,3 +268,22 @@ New URL: https://preview.bazel.build/community/sig
 
 OK
 
+## /community/update
+
+Old URL: https://bazel.build/community/update
+New URL: https://preview.bazel.build/community/update
+
+NOT_OK
+
+## /community/users
+
+Old URL: https://bazel.build/community/users
+New URL: https://preview.bazel.build/community/users
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/community/users](data/community/users/old.png) | ![https://preview.bazel.build/community/users](data/community/users/new.png) |
+
+- The 'Note' callout at the top of the page is unstyled and missing its icon.
+- There are numerous broken images throughout the 'Companies using Bazel' section, such as for Adobe, Ascend.io, FINDMINE, and LingoChamp.
+

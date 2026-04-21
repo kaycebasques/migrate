@@ -1,0 +1,6 @@
+{
+  "issues": [
+    "The 'Note' callout at the top of the page is unstyled and missing its icon.",
+    "There are numerous broken images throughout the 'Companies using Bazel' section, such as for Adobe, Ascend.io, FINDMINE, and LingoChamp."
+  ]
+}
