@@ -580,3 +580,16 @@ New URL: https://preview.bazel.build/docs/android-ndk
 - The terms '--android_platforms=//:arm64,//:x86_64' and 'BUILD.bazel' in the body text of the 'Configuring the target ABI' section are missing code-style formatting.
 - Multiple terms in the 'Building a cc_library for Android without using android_binary' section, including 'my/platforms/BUILD', 'bazelrc', 'project/.bazelrc', and the wild-cards '/...' and ':all', are missing code-style formatting.
 
+## /docs/bazel-and-android
+
+Old URL: https://bazel.build/docs/bazel-and-android
+New URL: https://preview.bazel.build/docs/bazel-and-android
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/docs/bazel-and-android](data/docs/bazel-and-android/old.png) | ![https://preview.bazel.build/docs/bazel-and-android](data/docs/bazel-and-android/new.png) |
+
+- Missing 'REPORT AN ISSUE' and 'VIEW SOURCE' buttons below the main heading.
+- Missing external link icons for external links such as 'Codelab: Building Android Apps with Bazel' and 'rules_jvm_external'.
+- Missing 'Bazel' breadcrumb/category label above the main 'Android and Bazel' heading.
+
