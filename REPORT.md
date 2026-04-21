@@ -700,3 +700,10 @@ New URL: https://preview.bazel.build/extending
 - There is an extra space before the comma following the first instance of the word "genrule" in the "Macros and rules" section.
 - The new page is missing several navigation items and sections that were present on the original page, such as cards for "Depsets", "Configurations", "Platforms", "Execution groups", and "Toolchains".
 
+## /extending/aspects
+
+Old URL: https://bazel.build/extending/aspects
+New URL: https://preview.bazel.build/extending/aspects
+
+OK
+
