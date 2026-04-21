@@ -983,3 +983,14 @@ New URL: https://preview.bazel.build/install/ide
 
 OK
 
+## /install/os-x
+
+Old URL: https://bazel.build/install/os-x
+New URL: https://preview.bazel.build/install/os-x
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/install/os-x](data/install/os-x/old.png) | ![https://preview.bazel.build/install/os-x](data/install/os-x/new.png) |
+
+- Literal HTML '<var>' tags are displayed within the code blocks in the 'Installing using the binary installer' section (Steps 2, 3, and 4).
+
