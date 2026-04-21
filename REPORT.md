@@ -842,3 +842,10 @@ New URL: https://preview.bazel.build/external/lockfile
 
 OK
 
+## /external/migration
+
+Old URL: https://bazel.build/external/migration
+New URL: https://preview.bazel.build/external/migration
+
+OK
+
