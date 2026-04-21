@@ -640,3 +640,14 @@ New URL: https://preview.bazel.build/docs/bazel-and-javascript
 
 OK
 
+## /docs/cc-toolchain-config-reference
+
+Old URL: https://bazel.build/docs/cc-toolchain-config-reference
+New URL: https://preview.bazel.build/docs/cc-toolchain-config-reference
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/docs/cc-toolchain-config-reference](data/docs/cc-toolchain-config-reference/old.png) | ![https://preview.bazel.build/docs/cc-toolchain-config-reference](data/docs/cc-toolchain-config-reference/new.png) |
+
+- The entire main content of the page is missing, leaving a large blank area below the 'C++ Toolchain Configuration' header.
+
