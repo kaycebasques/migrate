@@ -142,3 +142,10 @@ New URL: https://preview.bazel.build/basics/build-systems
 
 OK
 
+## /basics/dependencies
+
+Old URL: https://bazel.build/basics/dependencies
+New URL: https://preview.bazel.build/basics/dependencies
+
+OK
+
