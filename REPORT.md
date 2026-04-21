@@ -123,3 +123,15 @@ New URL: https://preview.bazel.build/basics
 
 - The note callout starting with 'Much of this section's content comes from...' is unstyled on the new site, missing its background color and icon.
 
+## /basics/artifact-based-builds
+
+Old URL: https://bazel.build/basics/artifact-based-builds
+New URL: https://preview.bazel.build/basics/artifact-based-builds
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/basics/artifact-based-builds](data/basics/artifact-based-builds/old.png) | ![https://preview.bazel.build/basics/artifact-based-builds](data/basics/artifact-based-builds/new.png) |
+
+- Extra spaces are incorrectly introduced between inline code segments and following punctuation marks throughout the page, such as 'MyBinary 's', 'java_library .', and 'java_library ,'.
+- Numerous inline links from the original documentation have been lost in the migration, including links for 'artifact-based build system', 'Blaze', 'Maven', 'distributed', 'highly scalable', and the target attributes 'name', 'srcs', and 'deps'.
+
