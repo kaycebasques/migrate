@@ -546,3 +546,16 @@ New URL: https://preview.bazel.build/docs
 
 ERROR
 
+## /docs/android-build-performance
+
+Old URL: https://bazel.build/docs/android-build-performance
+New URL: https://preview.bazel.build/docs/android-build-performance
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/docs/android-build-performance](data/docs/android-build-performance/old.png) | ![https://preview.bazel.build/docs/android-build-performance](data/docs/android-build-performance/new.png) |
+
+- The numbers '4', '1', and '2' in the paragraph regarding persistent workers have lost their inline code formatting.
+- There are unnecessary extra spaces before punctuation marks (commas and periods) that follow inline code blocks, such as in 'action is 4 .', 'to 1 or 2 ,', 'To use aapt2 ,', and 'android_local_test .'.
+- The link for 'aapt2' at the beginning of the 'Using AAPT2' section has been removed and is now just plain inline code.
+
