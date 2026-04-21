@@ -397,3 +397,15 @@ New URL: https://preview.bazel.build/configure/coverage
 
 OK
 
+## /configure/integrate-cpp
+
+Old URL: https://bazel.build/configure/integrate-cpp
+New URL: https://preview.bazel.build/configure/integrate-cpp
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/configure/integrate-cpp](data/configure/integrate-cpp/old.png) | ![https://preview.bazel.build/configure/integrate-cpp](data/configure/integrate-cpp/new.png) |
+
+- There are extra spaces before punctuation (commas and periods) when they immediately follow a link or code span, such as 'CcInfo ,', 'LinkingContext .', and 'examples .'.
+- There are unnecessary line breaks within the bullet points in the 'Generating command lines and environment variables using the C++ toolchain' section, causing the text to wrap prematurely.
+
