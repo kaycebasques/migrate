@@ -352,3 +352,15 @@ New URL: https://preview.bazel.build/concepts/labels
 - The footer navigation contains raw icon font names ('arrow_back' and 'arrow_forward') rendered as text instead of displaying icons.
 - The 'Wrong' and 'Correct' callouts are missing their respective thumbs-up and thumbs-down icons.
 
+## /concepts/platforms
+
+Old URL: https://bazel.build/concepts/platforms
+New URL: https://preview.bazel.build/concepts/platforms
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/concepts/platforms](data/concepts/platforms/old.png) | ![https://preview.bazel.build/concepts/platforms](data/concepts/platforms/new.png) |
+
+- The 'Caution' admonition in the 'Platform mappings' section is unstyled, as it lacks the background and border present in other callouts like 'Key Point'.
+- In the 'On this page' navigation sidebar, 'Common platform properties' and 'Platform mappings' are incorrectly indented as sub-items under 'Migrating your rule set', despite being top-level H2 sections in the content.
+
