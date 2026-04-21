@@ -927,3 +927,10 @@ New URL: https://preview.bazel.build/help
 
 OK
 
+## /install
+
+Old URL: https://bazel.build/install
+New URL: https://preview.bazel.build/install
+
+OK
+
