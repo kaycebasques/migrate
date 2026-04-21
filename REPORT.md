@@ -909,3 +909,14 @@ New URL: https://preview.bazel.build/external/repo
 - In the 'When is the implementation function executed?' section, the word 'watched' is incorrectly split into 'watch' (formatted as inline code) and 'ed' (formatted as plain text) with a space in between.
 - Extraneous whitespace has been introduced before punctuation marks that follow inline code elements (e.g., 'repository_ctx 's', 'repository_rule .', and '...--all .').
 
+## /external/vendor
+
+Old URL: https://bazel.build/external/vendor
+New URL: https://preview.bazel.build/external/vendor
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/external/vendor](data/external/vendor/old.png) | ![https://preview.bazel.build/external/vendor](data/external/vendor/new.png) |
+
+- Unstyled callouts: Several 'Note' sections (e.g., under 'Build the target offline', 'Configure vendor mode with VENDOR.bazel', 'Understand how vendor mode works', and 'Vendor symlinks') are rendered as plain text instead of the styled blue admonition boxes found on the original site.
+
