@@ -606,3 +606,17 @@ New URL: https://preview.bazel.build/docs/bazel-and-apple
 - The monospaced formatting is missing for the string '@local_config_xcode//:host_available_xcodes' in the final paragraph, appearing as regular bold text instead.
 - Several items that were plain monospaced text in the original (such as those in the 'Modules', 'Configuration fragments', and 'Providers' lists) are now styled as links with underlines and green coloring, which appears to be a migration error.
 
+## /docs/bazel-and-cpp
+
+Old URL: https://bazel.build/docs/bazel-and-cpp
+New URL: https://preview.bazel.build/docs/bazel-and-cpp
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/docs/bazel-and-cpp](data/docs/bazel-and-cpp/old.png) | ![https://preview.bazel.build/docs/bazel-and-cpp](data/docs/bazel-and-cpp/new.png) |
+
+- The 'Toolchain features' section is incorrectly nested as a subsection of 'Best practices' instead of being a top-level section.
+- In the 'Include paths' section, the angle brackets in the '#include <foo/bar/baz.h>' code snippet are incorrectly rendered as HTML entities ('&lt;' and '&gt;').
+- In the 'Include paths' section, the directory shortcuts '.' and '..' are missing their code-style formatting.
+- In the 'BUILD files' section, there is an extra space before the period at the end of the sentence '...[library-name]_test.cc .'.
+
