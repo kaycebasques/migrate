@@ -1,0 +1,6 @@
+{
+  "issues": [
+    "The 'Language-specific native rules' table is missing the 'Test rules' and 'Other rules' columns.",
+    "The 'Rules' column in the 'Language-agnostic native rules' table is incorrectly formatted, with list items displayed horizontally and concatenated with asterisks instead of as a vertical list."
+  ]
+}

@@ -1237,3 +1237,15 @@ New URL: https://preview.bazel.build/reference/be/objective-c
 - Long attribute names are being incorrectly wrapped, breaking words across lines (e.g., 'weak_sdk_frameworks' and 'implementation_deps').
 - The 'View rule source' links have the icon name 'open_in_new' appended directly to the link text without any spacing.
 
+## /reference/be/overview
+
+Old URL: https://bazel.build/reference/be/overview
+New URL: https://preview.bazel.build/reference/be/overview
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/reference/be/overview](data/reference/be/overview/old.png) | ![https://preview.bazel.build/reference/be/overview](data/reference/be/overview/new.png) |
+
+- The 'Language-specific native rules' table is missing the 'Test rules' and 'Other rules' columns.
+- The 'Rules' column in the 'Language-agnostic native rules' table is incorrectly formatted, with list items displayed horizontally and concatenated with asterisks instead of as a vertical list.
+
