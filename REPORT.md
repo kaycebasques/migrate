@@ -92,3 +92,10 @@ New URL: https://preview.bazel.build/advanced/performance/iteration-speed
 
 OK
 
+## /advanced/performance/json-trace-profile
+
+Old URL: https://bazel.build/advanced/performance/json-trace-profile
+New URL: https://preview.bazel.build/advanced/performance/json-trace-profile
+
+OK
+
