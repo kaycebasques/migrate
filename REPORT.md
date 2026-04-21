@@ -651,3 +651,10 @@ New URL: https://preview.bazel.build/docs/cc-toolchain-config-reference
 
 - The entire main content of the page is missing, leaving a large blank area below the 'C++ Toolchain Configuration' header.
 
+## /docs/configurable-attributes
+
+Old URL: https://bazel.build/docs/configurable-attributes
+New URL: https://preview.bazel.build/docs/configurable-attributes
+
+ERROR
+
