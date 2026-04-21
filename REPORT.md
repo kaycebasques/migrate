@@ -802,3 +802,17 @@ New URL: https://preview.bazel.build/extending/rules
 
 - Several callouts (admonitions) that were styled with a blue background and border in the original documentation are unstyled in the new site, appearing as plain text paragraphs (e.g., under the 'Files', 'Requesting output files', and 'Migrating from legacy providers' sections).
 
+## /extending/toolchains
+
+Old URL: https://bazel.build/extending/toolchains
+New URL: https://preview.bazel.build/extending/toolchains
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/extending/toolchains](data/extending/toolchains/old.png) | ![https://preview.bazel.build/extending/toolchains](data/extending/toolchains/new.png) |
+
+- There is excessive vertical whitespace following almost all code blocks, creating large unnatural gaps in the document flow.
+- The syntax highlighting in code blocks has been significantly reduced, with many keywords and identifiers appearing as plain black text instead of being color-coded as in the original site.
+- Callout boxes (e.g., 'Note' and 'Tip' boxes) are missing the colon that should follow the title label (e.g., 'Note Some Bazel rules...' instead of 'Note: Some Bazel rules...').
+- Some inline text formatting has been lost during migration, such as the monospace font for command-line flags like '--extra_toolchains' and italics for emphasized words like 'mandatory'.
+
