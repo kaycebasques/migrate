@@ -1,0 +1,7 @@
+{
+  "issues": [
+    "The attribute name 'linkopts' in the 'objc_library' section contains a stray backslash ('\\linkopts').",
+    "Long attribute names are being incorrectly wrapped, breaking words across lines (e.g., 'weak_sdk_frameworks' and 'implementation_deps').",
+    "The 'View rule source' links have the icon name 'open_in_new' appended directly to the link text without any spacing."
+  ]
+}

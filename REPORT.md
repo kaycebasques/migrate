@@ -1224,3 +1224,16 @@ New URL: https://preview.bazel.build/reference/be/make-variables
 - In the 'Predefined genrule variables' section, the '<' character is incorrectly rendered as the HTML entity '&lt;' in the bullet points and within the Bash code block.
 - In the 'Predefined genrule variables' section, the text within the Note and the sentence following the code block incorrectly displays HTML entities (like '&quot;') instead of intended characters.
 
+## /reference/be/objective-c
+
+Old URL: https://bazel.build/reference/be/objective-c
+New URL: https://preview.bazel.build/reference/be/objective-c
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/reference/be/objective-c](data/reference/be/objective-c/old.png) | ![https://preview.bazel.build/reference/be/objective-c](data/reference/be/objective-c/new.png) |
+
+- The attribute name 'linkopts' in the 'objc_library' section contains a stray backslash ('\linkopts').
+- Long attribute names are being incorrectly wrapped, breaking words across lines (e.g., 'weak_sdk_frameworks' and 'implementation_deps').
+- The 'View rule source' links have the icon name 'open_in_new' appended directly to the link text without any spacing.
+
