@@ -976,3 +976,10 @@ New URL: https://preview.bazel.build/install/docker-container
 
 - Literal HTML <var> tags are visible in the text instead of being rendered in the paragraphs describing the --config build flag.
 
+## /install/ide
+
+Old URL: https://bazel.build/install/ide
+New URL: https://preview.bazel.build/install/ide
+
+OK
+
