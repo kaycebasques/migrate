@@ -60,3 +60,10 @@ New URL: https://preview.bazel.build/about/vision
 
 OK
 
+## /about/why
+
+Old URL: https://bazel.build/about/why
+New URL: https://preview.bazel.build/about/why
+
+OK
+
