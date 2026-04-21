@@ -287,3 +287,15 @@ New URL: https://preview.bazel.build/community/users
 - The 'Note' callout at the top of the page is unstyled and missing its icon.
 - There are numerous broken images throughout the 'Companies using Bazel' section, such as for Adobe, Ascend.io, FINDMINE, and LingoChamp.
 
+## /concepts
+
+Old URL: https://bazel.build/concepts
+New URL: https://preview.bazel.build/concepts
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/concepts](data/concepts/old.png) | ![https://preview.bazel.build/concepts](data/concepts/new.png) |
+
+- The text 'Labelsarrow_forward' at the bottom of the page appears to be a broken UI element where a Material Icon name has been concatenated with the text string.
+- The page content and title do not match the old version of the page; the original 'Understanding Bazel' landing page featured three main sections ('Read about the build system', 'Understand fundamental concepts', and 'Check releases and updates'), while the new page only includes the 'fundamental concepts' content and has a different title.
+

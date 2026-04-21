@@ -1,0 +1,6 @@
+{
+  "issues": [
+    "The text 'Labelsarrow_forward' at the bottom of the page appears to be a broken UI element where a Material Icon name has been concatenated with the text string.",
+    "The page content and title do not match the old version of the page; the original 'Understanding Bazel' landing page featured three main sections ('Read about the build system', 'Understand fundamental concepts', and 'Check releases and updates'), while the new page only includes the 'fundamental concepts' content and has a different title."
+  ]
+}
