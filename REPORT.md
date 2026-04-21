@@ -849,3 +849,10 @@ New URL: https://preview.bazel.build/external/migration
 
 OK
 
+## /external/migration_tool
+
+Old URL: https://bazel.build/external/migration_tool
+New URL: https://preview.bazel.build/external/migration_tool
+
+ERROR
+
