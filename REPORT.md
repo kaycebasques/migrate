@@ -465,3 +465,10 @@ New URL: https://preview.bazel.build/contribute/design-documents
 - The 'On this page' sidebar is missing the 'Rejecting designs' section heading.
 - The 'On this page' sidebar incorrectly includes 'During the review process' as a sub-item under 'Reviewer workflow' while omitting other equivalent sub-headings from the content, such as 'When you receive a new proposal' and 'After approval by all reviewers'.
 
+## /contribute/docs
+
+Old URL: https://bazel.build/contribute/docs
+New URL: https://preview.bazel.build/contribute/docs
+
+OK
+
