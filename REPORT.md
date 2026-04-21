@@ -1120,3 +1120,14 @@ New URL: https://preview.bazel.build/query/language
 - The warning callout in the 'Package definition files: loadfiles' section has incorrect formatting, with the entire paragraph of text being bolded.
 - The bulleted list in the 'Functions' section incorrectly includes the keywords 'except', 'let', and 'set', which were not present in the original functions list.
 
+## /query/quickstart
+
+Old URL: https://bazel.build/query/quickstart
+New URL: https://preview.bazel.build/query/quickstart
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/query/quickstart](data/query/quickstart/old.png) | ![https://preview.bazel.build/query/quickstart](data/query/quickstart/new.png) |
+
+- Callouts (Note, Caution, Tip) are unstyled and appear as plain text, losing their distinct background colors and icons from the original site.
+

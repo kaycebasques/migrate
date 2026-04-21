@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "Callouts (Note, Caution, Tip) are unstyled and appear as plain text, losing their distinct background colors and icons from the original site."
+  ]
+}
