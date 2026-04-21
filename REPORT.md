@@ -493,3 +493,10 @@ New URL: https://preview.bazel.build/contribute/maintainers-guide
 
 OK
 
+## /contribute/patch-acceptance
+
+Old URL: https://bazel.build/contribute/patch-acceptance
+New URL: https://preview.bazel.build/contribute/patch-acceptance
+
+OK
+
