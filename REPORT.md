@@ -46,3 +46,17 @@ New URL: https://preview.bazel.build/about/intro
 
 OK
 
+## /about/roadmap
+
+Old URL: https://bazel.build/about/roadmap
+New URL: https://preview.bazel.build/about/roadmap
+
+NOT_OK
+
+## /about/vision
+
+Old URL: https://bazel.build/about/vision
+New URL: https://preview.bazel.build/about/vision
+
+OK
+
