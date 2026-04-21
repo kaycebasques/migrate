@@ -149,3 +149,10 @@ New URL: https://preview.bazel.build/basics/dependencies
 
 OK
 
+## /basics/distributed-builds
+
+Old URL: https://bazel.build/basics/distributed-builds
+New URL: https://preview.bazel.build/basics/distributed-builds
+
+OK
+
