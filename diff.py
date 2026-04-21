@@ -100,6 +100,62 @@ def log_error(workspace_dir: Path, path: str):
     else:
         print(f"Path {path} already in errors.txt")
 
+def generate_report(workspace_dir: Path, data_dir: Path, old_base_url: str, new_base_url: str):
+    """Generates a summary report in REPORT.md."""
+    print("Generating report...")
+    report_path = workspace_dir / 'REPORT.md'
+    with open(report_path, 'w') as f:
+        f.write("# report\n\n")
+        
+        paths_found = []
+        if data_dir.exists():
+            for root, dirs, files in os.walk(data_dir):
+                if 'ERROR' in files or 'NOT_OK' in files or 'diff.json' in files:
+                    rel_path = os.path.relpath(root, data_dir)
+                    paths_found.append(rel_path)
+        
+        paths_found.sort()
+        
+        for rel_path in paths_found:
+            target_path = '/' + rel_path
+            f.write(f"## {target_path}\n\n")
+            
+            old_url = old_base_url + target_path
+            new_url = new_base_url + target_path
+            
+            f.write(f"Old URL: {old_url}\n")
+            f.write(f"New URL: {new_url}\n\n")
+            
+            output_dir = data_dir / rel_path
+            
+            if (output_dir / 'ERROR').exists():
+                f.write("ERROR\n\n")
+            elif (output_dir / 'NOT_OK').exists():
+                f.write("NOT_OK\n\n")
+            elif (output_dir / 'diff.json').exists():
+                try:
+                    with open(output_dir / 'diff.json', 'r') as df:
+                        data = json.load(df)
+                        issues = data.get('issues', [])
+                except Exception as e:
+                    print(f"Error reading diff.json in {output_dir}: {e}")
+                    issues = []
+                    
+                if not issues:
+                    f.write("OK\n\n")
+                else:
+                    old_img = f"data/{rel_path}/old.png"
+                    new_img = f"data/{rel_path}/new.png"
+                    
+                    f.write("| Old | New |\n")
+                    f.write("| --- | --- |\n")
+                    f.write(f"| ![{old_url}]({old_img}) | ![{new_url}]({new_img}) |\n\n")
+                    
+                    for issue in issues:
+                        f.write(f"- {issue}\n")
+                    f.write("\n")
+
+
 def main():
     workspace_dir = get_workspace_dir()
     urls_file = workspace_dir / 'urls.txt'
@@ -219,9 +275,11 @@ def main():
         else:
             print(f"Skipping analysis for {path} (Missing one or both screenshots)")
             
+        generate_report(workspace_dir, data_dir, old_base_url, new_base_url)
+        
         # Commit changes for this path
         print(f"Committing changes for {path}")
-        subprocess.run(["git", "add", str(output_dir)], cwd=workspace_dir)
+        subprocess.run(["git", "add", str(output_dir), "REPORT.md"], cwd=workspace_dir)
         result = subprocess.run(["git", "commit", "-m", path], capture_output=True, text=True, cwd=workspace_dir)
         if result.returncode != 0:
             print(f"Git commit for {path} result: {result.stdout.strip() or result.stderr.strip()}")
