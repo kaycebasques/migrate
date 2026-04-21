@@ -1212,3 +1212,15 @@ New URL: https://preview.bazel.build/reference/be/java
 
 - Broken documentation macros and placeholders are visible in the text instead of being rendered correctly (e.g., '[*Make variable*]' instead of '%{' and '[reference/make-variable-substitution]' appearing in the middle of sentences).
 
+## /reference/be/make-variables
+
+Old URL: https://bazel.build/reference/be/make-variables
+New URL: https://preview.bazel.build/reference/be/make-variables
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/reference/be/make-variables](data/reference/be/make-variables/old.png) | ![https://preview.bazel.build/reference/be/make-variables](data/reference/be/make-variables/new.png) |
+
+- In the 'Predefined genrule variables' section, the '<' character is incorrectly rendered as the HTML entity '&lt;' in the bullet points and within the Bash code block.
+- In the 'Predefined genrule variables' section, the text within the Note and the sentence following the code block incorrectly displays HTML entities (like '&quot;') instead of intended characters.
+
