@@ -1091,3 +1091,17 @@ New URL: https://preview.bazel.build/query/cquery
 
 - The 'Note' callouts (e.g., in the 'Using cquery options', 'Protocol message output', and 'Files output' sections) are unstyled in the new version, appearing as regular paragraphs instead of highlighted blocks with icons.
 
+## /query/guide
+
+Old URL: https://bazel.build/query/guide
+New URL: https://preview.bazel.build/query/guide
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/query/guide](data/query/guide/old.png) | ![https://preview.bazel.build/query/guide](data/query/guide/new.png) |
+
+- Inline code formatting (monospaced font and background) is missing in several section headers (e.g., 'What packages exist beneath foo ?', 'What rules are defined in the foo package?').
+- Inline code formatting is missing within all 'Note' callouts (e.g., 'dot', 'svg', 'buildfiles' are not styled as code).
+- Inline code formatting is missing in various body paragraphs, such as under 'Reverse dependencies' (e.g., 'rdeps(u, x)', 'x', 'u'), 'Miscellaneous uses' ('bazel query'), and the final 'Misc' section ('85').
+- Extraneous spaces are introduced before question marks in several section headers where they follow an inline code element (e.g., 'What packages exist beneath foo ?').
+
