@@ -261,3 +261,10 @@ New URL: https://preview.bazel.build/community/remote-execution-services
 
 OK
 
+## /community/sig
+
+Old URL: https://bazel.build/community/sig
+New URL: https://preview.bazel.build/community/sig
+
+OK
+
