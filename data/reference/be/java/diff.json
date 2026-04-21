@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "Broken documentation macros and placeholders are visible in the text instead of being rendered correctly (e.g., '[*Make variable*]' instead of '%{' and '[reference/make-variable-substitution]' appearing in the middle of sentences)."
+  ]
+}

@@ -1201,3 +1201,14 @@ New URL: https://preview.bazel.build/reference/be/general
 
 OK
 
+## /reference/be/java
+
+Old URL: https://bazel.build/reference/be/java
+New URL: https://preview.bazel.build/reference/be/java
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/reference/be/java](data/reference/be/java/old.png) | ![https://preview.bazel.build/reference/be/java](data/reference/be/java/new.png) |
+
+- Broken documentation macros and placeholders are visible in the text instead of being rendered correctly (e.g., '[*Make variable*]' instead of '%{' and '[reference/make-variable-substitution]' appearing in the middle of sentences).
+
