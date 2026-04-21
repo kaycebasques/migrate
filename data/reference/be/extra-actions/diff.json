@@ -1,0 +1,7 @@
+{
+  "issues": [
+    "The 'View rule source' links have the icon identifier 'open_in_new' concatenated with the link text.",
+    "The Arguments tables contain multiple instances of text merging without proper spacing between the attribute metadata (e.g., 'required') and the description (e.g., 'requiredA list').",
+    "The description for the 'cmd' attribute in the 'extra_action' section has severe formatting errors where whitespace is missing between words and sentences, rendering the text nearly unreadable (e.g., 'with(location...)areexpanded.2.Anadditionalpassisappliedtothes')."
+  ]
+}

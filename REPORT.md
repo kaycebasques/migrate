@@ -1170,3 +1170,16 @@ New URL: https://preview.bazel.build/reference/be/common-definitions
 
 - The table for the 'size' attribute in the 'Attributes common to all test rules (*_test)' section is missing the 'CPU (in cores)' and 'Default timeout' columns.
 
+## /reference/be/extra-actions
+
+Old URL: https://bazel.build/reference/be/extra-actions
+New URL: https://preview.bazel.build/reference/be/extra-actions
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/reference/be/extra-actions](data/reference/be/extra-actions/old.png) | ![https://preview.bazel.build/reference/be/extra-actions](data/reference/be/extra-actions/new.png) |
+
+- The 'View rule source' links have the icon identifier 'open_in_new' concatenated with the link text.
+- The Arguments tables contain multiple instances of text merging without proper spacing between the attribute metadata (e.g., 'required') and the description (e.g., 'requiredA list').
+- The description for the 'cmd' attribute in the 'extra_action' section has severe formatting errors where whitespace is missing between words and sentences, rendering the text nearly unreadable (e.g., 'with(location...)areexpanded.2.Anadditionalpassisappliedtothes').
+
