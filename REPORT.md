@@ -994,3 +994,22 @@ New URL: https://preview.bazel.build/install/os-x
 
 - Literal HTML '<var>' tags are displayed within the code blocks in the 'Installing using the binary installer' section (Steps 2, 3, and 4).
 
+## /install/redhat
+
+Old URL: https://bazel.build/install/redhat
+New URL: https://preview.bazel.build/install/redhat
+
+NOT_OK
+
+## /install/suse
+
+Old URL: https://bazel.build/install/suse
+New URL: https://preview.bazel.build/install/suse
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/install/suse](data/install/suse/old.png) | ![https://preview.bazel.build/install/suse](data/install/suse/new.png) |
+
+- The raw HTML tags `<var>` and `</var>` are visible in the text within the phrase `bazel<var>version</var>`.
+- The 'REPORT AN ISSUE' and 'VIEW SOURCE' action buttons are missing from the page header area.
+

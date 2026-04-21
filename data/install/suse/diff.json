@@ -1,0 +1,6 @@
+{
+  "issues": [
+    "The raw HTML tags `<var>` and `</var>` are visible in the text within the phrase `bazel<var>version</var>`.",
+    "The 'REPORT AN ISSUE' and 'VIEW SOURCE' action buttons are missing from the page header area."
+  ]
+}
