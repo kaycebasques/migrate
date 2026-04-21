@@ -945,3 +945,16 @@ New URL: https://preview.bazel.build/install/bazelisk
 
 - The inline code block '--incompatible_*' is incorrectly broken across two lines in the 'Recommended migration process' section.
 
+## /install/compile-source
+
+Old URL: https://bazel.build/install/compile-source
+New URL: https://preview.bazel.build/install/compile-source
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/install/compile-source](data/install/compile-source/old.png) | ![https://preview.bazel.build/install/compile-source](data/install/compile-source/new.png) |
+
+- Extra spaces are being inserted after double dashes (--) in code snippets, both inline and within code blocks (e.g., '-- compilation_mode' instead of '--compilation_mode', '-- tool_java_runtime_version' instead of '--tool_java_runtime_version').
+- The 'On this page' sidebar navigation is missing several sections that are present in the document, such as 'Troubleshooting' under Step 1, '2.2. Bootstrap Bazel on Unix', and '2.2. Bootstrap Bazel on Windows'.
+- In sections Step 4a and Step 4b, the inline code spans for output paths are wrapping awkwardly, occasionally breaking after the '(or' text or mid-path.
+
