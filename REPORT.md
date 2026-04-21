@@ -1105,3 +1105,18 @@ New URL: https://preview.bazel.build/query/guide
 - Inline code formatting is missing in various body paragraphs, such as under 'Reverse dependencies' (e.g., 'rdeps(u, x)', 'x', 'u'), 'Miscellaneous uses' ('bazel query'), and the final 'Misc' section ('85').
 - Extraneous spaces are introduced before question marks in several section headers where they follow an inline code element (e.g., 'What packages exist beneath foo ?').
 
+## /query/language
+
+Old URL: https://bazel.build/query/language
+New URL: https://preview.bazel.build/query/language
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/query/language](data/query/language/old.png) | ![https://preview.bazel.build/query/language](data/query/language/new.png) |
+
+- The 'Important' callout regarding the use of parentheses is missing from the end of the 'Algebraic set operations' section.
+- The 'Package definition files: loadfiles' section heading is duplicated.
+- The first instance of the 'Package definition files: loadfiles' heading is followed by incorrect content and a grammar line ('expr ::= loadfiles(expr)') that duplicates the 'rbuildfiles' section content.
+- The warning callout in the 'Package definition files: loadfiles' section has incorrect formatting, with the entire paragraph of text being bolded.
+- The bulleted list in the 'Functions' section incorrectly includes the keywords 'except', 'let', and 'set', which were not present in the original functions list.
+
