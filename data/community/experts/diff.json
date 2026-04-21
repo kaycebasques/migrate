@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "The logo images for Aspect Build, Bitrise, EPAM, SUM Global, and Tweag are broken on the new site, showing only their filenames or alt-text (e.g., 'aspect-logo-2', 'bitrise-logo', 'epam-logo', 'sumglobal-logo', and 'tweag-logo') instead of the actual logos."
+  ]
+}

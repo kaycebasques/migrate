@@ -215,3 +215,14 @@ New URL: https://preview.bazel.build/community
 - The illustrations, green banner, and structured sections (Quicklinks, Contributing, Programs) with navigation cards from the old page are entirely missing in the new version.
 - The page title has been changed from 'Community & Product Partners' to 'Recommended Rules'.
 
+## /community/experts
+
+Old URL: https://bazel.build/community/experts
+New URL: https://preview.bazel.build/community/experts
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/community/experts](data/community/experts/old.png) | ![https://preview.bazel.build/community/experts](data/community/experts/new.png) |
+
+- The logo images for Aspect Build, Bitrise, EPAM, SUM Global, and Tweag are broken on the new site, showing only their filenames or alt-text (e.g., 'aspect-logo-2', 'bitrise-logo', 'epam-logo', 'sumglobal-logo', and 'tweag-logo') instead of the actual logos.
+
