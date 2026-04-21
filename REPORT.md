@@ -1043,3 +1043,14 @@ New URL: https://preview.bazel.build/migrate
 
 OK
 
+## /migrate/maven
+
+Old URL: https://bazel.build/migrate/maven
+New URL: https://preview.bazel.build/migrate/maven
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/migrate/maven](data/migrate/maven/old.png) | ![https://preview.bazel.build/migrate/maven](data/migrate/maven/new.png) |
+
+- Unstyled note callout at the top of the page (missing blue background and icon)
+
