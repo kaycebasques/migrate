@@ -390,3 +390,10 @@ New URL: https://preview.bazel.build/configure/best-practices
 - Literal HTML tags (<var> and </var>) are visible in the text within the 'Using the .bazelrc file' section.
 - An incorrect paragraph break splits a sentence after the 'bazelrc-preset.bzl' link in the 'Using the .bazelrc file' section.
 
+## /configure/coverage
+
+Old URL: https://bazel.build/configure/coverage
+New URL: https://preview.bazel.build/configure/coverage
+
+OK
+
