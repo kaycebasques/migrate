@@ -620,3 +620,16 @@ New URL: https://preview.bazel.build/docs/bazel-and-cpp
 - In the 'Include paths' section, the directory shortcuts '.' and '..' are missing their code-style formatting.
 - In the 'BUILD files' section, there is an extra space before the period at the end of the sentence '...[library-name]_test.cc .'.
 
+## /docs/bazel-and-java
+
+Old URL: https://bazel.build/docs/bazel-and-java
+New URL: https://preview.bazel.build/docs/bazel-and-java
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/docs/bazel-and-java](data/docs/bazel-and-java/old.png) | ![https://preview.bazel.build/docs/bazel-and-java](data/docs/bazel-and-java/new.png) |
+
+- Widespread missing inline code styling: many terms that should be rendered as code (e.g., --java_runtime_version, .bazelrc, src/main/java, BUILD, java_library) are displayed as plain text without the monospaced font and background shading present in the original document.
+- The 'On this page' table of contents sidebar is incomplete, failing to include several sections that are present on the page, such as 'Multiple versions of Java source code in a single repository' and all the sub-sections under 'Configuring the Java toolchains' (e.g., 'Configuring additional execution toolchains').
+- In the 'Configuring the version of the source code in your repository' section, the placeholder syntax '{ver}' from the original site has been incorrectly changed to '(ver)' in the new site's text.
+
