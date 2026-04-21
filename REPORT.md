@@ -1054,3 +1054,14 @@ New URL: https://preview.bazel.build/migrate/maven
 
 - Unstyled note callout at the top of the page (missing blue background and icon)
 
+## /migrate/xcode
+
+Old URL: https://bazel.build/migrate/xcode
+New URL: https://preview.bazel.build/migrate/xcode
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/migrate/xcode](data/migrate/xcode/old.png) | ![https://preview.bazel.build/migrate/xcode](data/migrate/xcode/new.png) |
+
+- Unstyled callouts (admonitions): The 'Note' sections throughout the page have lost their blue background styling and icons, appearing as plain text in the new version.
+
