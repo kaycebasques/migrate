@@ -85,3 +85,10 @@ New URL: https://preview.bazel.build/advanced/performance/build-performance-metr
 
 - In the 'Execution Log' and 'Execution Graph Log' sections, there are incorrect spaces inserted between the '--' and the rest of the flag name (e.g., '-- experimental_execution_log_spawn_metrics').
 
+## /advanced/performance/iteration-speed
+
+Old URL: https://bazel.build/advanced/performance/iteration-speed
+New URL: https://preview.bazel.build/advanced/performance/iteration-speed
+
+OK
+
