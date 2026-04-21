@@ -202,3 +202,16 @@ New URL: https://preview.bazel.build/build/style-guide
 
 OK
 
+## /community
+
+Old URL: https://bazel.build/community
+New URL: https://preview.bazel.build/community
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/community](data/community/old.png) | ![https://preview.bazel.build/community](data/community/new.png) |
+
+- The content of the new page ('Recommended Rules') does not match the content of the old page ('Community & Product Partners').
+- The illustrations, green banner, and structured sections (Quicklinks, Contributing, Programs) with navigation cards from the old page are entirely missing in the new version.
+- The page title has been changed from 'Community & Product Partners' to 'Recommended Rules'.
+
