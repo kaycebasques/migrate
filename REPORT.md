@@ -67,3 +67,10 @@ New URL: https://preview.bazel.build/about/why
 
 OK
 
+## /advanced/performance/build-performance-breakdown
+
+Old URL: https://bazel.build/advanced/performance/build-performance-breakdown
+New URL: https://preview.bazel.build/advanced/performance/build-performance-breakdown
+
+OK
+
