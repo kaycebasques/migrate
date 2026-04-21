@@ -958,3 +958,10 @@ New URL: https://preview.bazel.build/install/compile-source
 - The 'On this page' sidebar navigation is missing several sections that are present in the document, such as 'Troubleshooting' under Step 1, '2.2. Bootstrap Bazel on Unix', and '2.2. Bootstrap Bazel on Windows'.
 - In sections Step 4a and Step 4b, the inline code spans for output paths are wrapping awkwardly, occasionally breaking after the '(or' text or mid-path.
 
+## /install/completion
+
+Old URL: https://bazel.build/install/completion
+New URL: https://preview.bazel.build/install/completion
+
+OK
+
