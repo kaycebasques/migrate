@@ -226,3 +226,19 @@ New URL: https://preview.bazel.build/community/experts
 
 - The logo images for Aspect Build, Bitrise, EPAM, SUM Global, and Tweag are broken on the new site, showing only their filenames or alt-text (e.g., 'aspect-logo-2', 'bitrise-logo', 'epam-logo', 'sumglobal-logo', and 'tweag-logo') instead of the actual logos.
 
+## /community/partners
+
+Old URL: https://bazel.build/community/partners
+New URL: https://preview.bazel.build/community/partners
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/community/partners](data/community/partners/old.png) | ![https://preview.bazel.build/community/partners](data/community/partners/new.png) |
+
+- The logo for Aspect Build is missing and replaced by the text 'aspect-logo-2'.
+- The logo for Bitrise is missing and replaced by text.
+- The logo for Gradle Inc. is missing and replaced by the text 'Develocity'.
+- The logo for Tweag is missing and replaced by the text 'tweag-logo'.
+- The partner card for JetBrains is missing from the page.
+- The partner card for Hermetiq is missing from the page.
+
