@@ -658,3 +658,14 @@ New URL: https://preview.bazel.build/docs/configurable-attributes
 
 ERROR
 
+## /docs/mobile-install
+
+Old URL: https://bazel.build/docs/mobile-install
+New URL: https://preview.bazel.build/docs/mobile-install
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/docs/mobile-install](data/docs/mobile-install/old.png) | ![https://preview.bazel.build/docs/mobile-install](data/docs/mobile-install/new.png) |
+
+- The 'Limitations' and 'A brief history of mobile-install' sections are incorrectly nested under 'Results' in the 'On this page' navigation sidebar.
+
