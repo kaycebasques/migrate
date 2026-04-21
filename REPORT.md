@@ -687,3 +687,16 @@ New URL: https://preview.bazel.build/docs/user-manual
 
 - Bullet points and colons are missing from several lists describing option values (e.g., under --compilation_mode, --spawn_strategy, --test_output, and --announce_rc), causing them to appear as plain paragraphs instead of clear list items.
 
+## /extending
+
+Old URL: https://bazel.build/extending
+New URL: https://preview.bazel.build/extending
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/extending](data/extending/old.png) | ![https://preview.bazel.build/extending](data/extending/new.png) |
+
+- There is an extra space before the period following the first mention of ".bzl" in the first paragraph.
+- There is an extra space before the comma following the first instance of the word "genrule" in the "Macros and rules" section.
+- The new page is missing several navigation items and sections that were present on the original page, such as cards for "Depsets", "Configurations", "Platforms", "Execution groups", and "Toolchains".
+

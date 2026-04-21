@@ -1,0 +1,7 @@
+{
+  "issues": [
+    "There is an extra space before the period following the first mention of \".bzl\" in the first paragraph.",
+    "There is an extra space before the comma following the first instance of the word \"genrule\" in the \"Macros and rules\" section.",
+    "The new page is missing several navigation items and sections that were present on the original page, such as cards for \"Depsets\", \"Configurations\", \"Platforms\", \"Execution groups\", and \"Toolchains\"."
+  ]
+}
