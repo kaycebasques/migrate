@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "Unstyled callouts/admonitions: The 'Note' sections regarding '$@' and '$<' have lost their blue background box and star icon styling, appearing as plain text instead."
+  ]
+}

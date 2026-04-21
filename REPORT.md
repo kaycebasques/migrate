@@ -762,3 +762,14 @@ New URL: https://preview.bazel.build/extending/exec-groups
 - The callout under the 'Accessing execution groups' section is unstyled, lacking its blue background and star icon.
 - Raw markdown syntax for a link is visible in the text under the 'Accessing execution groups' section: '[ ctx.actions.run ] (/rules/lib/builtins/actions#run)'.
 
+## /extending/legacy-macros
+
+Old URL: https://bazel.build/extending/legacy-macros
+New URL: https://preview.bazel.build/extending/legacy-macros
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/extending/legacy-macros](data/extending/legacy-macros/old.png) | ![https://preview.bazel.build/extending/legacy-macros](data/extending/legacy-macros/new.png) |
+
+- Unstyled callouts/admonitions: The 'Note' sections regarding '$@' and '$<' have lost their blue background box and star icon styling, appearing as plain text instead.
+
