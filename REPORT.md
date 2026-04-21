@@ -513,3 +513,15 @@ New URL: https://preview.bazel.build/contribute/policy
 - The main page title has been incorrectly split into 'Contributing' and 'Policy' instead of using the full title 'Contribution policy'.
 - The 'On this page' navigation sidebar incorrectly includes the raw metadata strings in its list of sections.
 
+## /contribute/release-notes
+
+Old URL: https://bazel.build/contribute/release-notes
+New URL: https://preview.bazel.build/contribute/release-notes
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/contribute/release-notes](data/contribute/release-notes/old.png) | ![https://preview.bazel.build/contribute/release-notes](data/contribute/release-notes/new.png) |
+
+- In the 'Guidelines' section, the text 'relevant documentation' in the first bullet point is no longer a link.
+- In the 'Guidelines' section, the sixth bullet point contains corrupted text: the example 'X now $newBehavior instead of $oldBehavior' has been rendered as 'X now newBehaviorinsteadofoldBehavior' with missing spaces, missing dollar signs, and incorrect italicization.
+
