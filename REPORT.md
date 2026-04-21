@@ -135,3 +135,10 @@ New URL: https://preview.bazel.build/basics/artifact-based-builds
 - Extra spaces are incorrectly introduced between inline code segments and following punctuation marks throughout the page, such as 'MyBinary 's', 'java_library .', and 'java_library ,'.
 - Numerous inline links from the original documentation have been lost in the migration, including links for 'artifact-based build system', 'Blaze', 'Maven', 'distributed', 'highly scalable', and the target attributes 'name', 'srcs', and 'deps'.
 
+## /basics/build-systems
+
+Old URL: https://bazel.build/basics/build-systems
+New URL: https://preview.bazel.build/basics/build-systems
+
+OK
+
