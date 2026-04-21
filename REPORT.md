@@ -1194,3 +1194,10 @@ New URL: https://preview.bazel.build/reference/be/functions
 
 - Extraneous small square icons (likely missing or incorrectly rendered glyphs) appear at the end of many paragraphs and next to inline code snippets throughout the documentation, causing significant visual clutter and impairing readability.
 
+## /reference/be/general
+
+Old URL: https://bazel.build/reference/be/general
+New URL: https://preview.bazel.build/reference/be/general
+
+OK
+
