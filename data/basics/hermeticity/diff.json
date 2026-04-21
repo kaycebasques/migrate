@@ -1,0 +1,6 @@
+{
+  "issues": [
+    "The \"Note\" callout in the \"Troubleshooting non-hermeticity builds\" section is missing its styling (blue background and icon) in the new site.",
+    "Raw HTML tags (<var>) are visible in the code block at the end of the \"Troubleshooting non-hermeticity builds\" section."
+  ]
+}

@@ -156,3 +156,15 @@ New URL: https://preview.bazel.build/basics/distributed-builds
 
 OK
 
+## /basics/hermeticity
+
+Old URL: https://bazel.build/basics/hermeticity
+New URL: https://preview.bazel.build/basics/hermeticity
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/basics/hermeticity](data/basics/hermeticity/old.png) | ![https://preview.bazel.build/basics/hermeticity](data/basics/hermeticity/new.png) |
+
+- The "Note" callout in the "Troubleshooting non-hermeticity builds" section is missing its styling (blue background and icon) in the new site.
+- Raw HTML tags (<var>) are visible in the code block at the end of the "Troubleshooting non-hermeticity builds" section.
+
