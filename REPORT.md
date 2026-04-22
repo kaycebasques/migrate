@@ -1928,3 +1928,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/configuration
 - In the short_id section, an extra asterisk appears at the end of the first bullet point: 'patch releases.*'.
 - In the short_id section, the second bullet point is missing its bullet marker, appearing as a continuation of the first item.
 
+## /rules/lib/builtins/ctx
+
+Old URL: https://bazel.build/rules/lib/builtins/ctx
+New URL: https://preview.bazel.build/rules/lib/builtins/ctx
+
+OK
+
