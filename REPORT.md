@@ -9333,3 +9333,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/basics/hermeticity
 
 ERROR
 
+## /versions/7.7.0/build/share-variables
+
+Old URL: https://bazel.build/versions/7.7.0/build/share-variables
+New URL: https://preview.bazel.build/versions/7.7.0/build/share-variables
+
+ERROR
+
