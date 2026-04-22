@@ -15276,3 +15276,10 @@ New URL: https://preview.bazel.build/versions/8.4.0/rules/lib/core/dict
 
 ERROR
 
+## /versions/8.4.0/rules/lib/core/float
+
+Old URL: https://bazel.build/versions/8.4.0/rules/lib/core/float
+New URL: https://preview.bazel.build/versions/8.4.0/rules/lib/core/float
+
+ERROR
+
