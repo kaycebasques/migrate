@@ -1445,3 +1445,16 @@ New URL: https://preview.bazel.build/remote/cache-remote
 - In the 'Ensure re-running the same build/test command produces cache hits' section, step 5a contains a code block with unrendered raw HTML tags and entities (e.g., <var> and &lt;var&gt;).
 - In the 'Comparing the execution logs' section, the code block under step 3 has several formatting issues: it uses em-dashes (—) instead of double-hyphens (--), it is missing the line-continuation backslashes, and it has lost its indentation.
 
+## /remote/caching
+
+Old URL: https://bazel.build/remote/caching
+New URL: https://preview.bazel.build/remote/caching
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/remote/caching](data/remote/caching/old.png) | ![https://preview.bazel.build/remote/caching](data/remote/caching/new.png) |
+
+- Literal HTML tags (e.g., <var>, </var>) are incorrectly rendered as plain text within several code blocks in sections such as 'Google Cloud Storage', 'Read from and write to the remote cache', 'Unix sockets', and 'Disk cache'.
+- Multiple inline code elements (e.g., '.bazelrc', '~', 'build --disk_cache', and '--remote_upload_local_results=false') are missing monospaced styling and appear as regular body text.
+- Syntax highlighting is missing or incomplete in many code blocks; for example, comments and keywords in the 'nginx' configuration block are not color-coded as they were in the original site.
+

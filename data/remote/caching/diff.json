@@ -1,0 +1,7 @@
+{
+  "issues": [
+    "Literal HTML tags (e.g., <var>, </var>) are incorrectly rendered as plain text within several code blocks in sections such as 'Google Cloud Storage', 'Read from and write to the remote cache', 'Unix sockets', and 'Disk cache'.",
+    "Multiple inline code elements (e.g., '.bazelrc', '~', 'build --disk_cache', and '--remote_upload_local_results=false') are missing monospaced styling and appear as regular body text.",
+    "Syntax highlighting is missing or incomplete in many code blocks; for example, comments and keywords in the 'nginx' configuration block are not color-coded as they were in the original site."
+  ]
+}
