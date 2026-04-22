@@ -6841,3 +6841,10 @@ New URL: https://preview.bazel.build/versions/7.1.0/query/quickstart
 
 ERROR
 
+## /versions/7.1.0/reference
+
+Old URL: https://bazel.build/versions/7.1.0/reference
+New URL: https://preview.bazel.build/versions/7.1.0/reference
+
+ERROR
+
