@@ -3425,3 +3425,10 @@ New URL: https://preview.bazel.build/versions/6.0.0/release/versioning
 
 ERROR
 
+## /versions/6.0.0/remote/bep
+
+Old URL: https://bazel.build/versions/6.0.0/remote/bep
+New URL: https://preview.bazel.build/versions/6.0.0/remote/bep
+
+ERROR
+
