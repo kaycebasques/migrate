@@ -1826,3 +1826,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/LinkingContext
 
 OK
 
+## /rules/lib/builtins/Provider
+
+Old URL: https://bazel.build/rules/lib/builtins/Provider
+New URL: https://preview.bazel.build/rules/lib/builtins/Provider
+
+OK
+
