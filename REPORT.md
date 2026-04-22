@@ -4097,3 +4097,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/docs/user-manual
 
 ERROR
 
+## /versions/6.2.0/extending
+
+Old URL: https://bazel.build/versions/6.2.0/extending
+New URL: https://preview.bazel.build/versions/6.2.0/extending
+
+ERROR
+
