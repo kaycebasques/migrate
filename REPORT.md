@@ -15892,3 +15892,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/install/ubuntu
 
 ERROR
 
+## /versions/8.5.0/install/windows
+
+Old URL: https://bazel.build/versions/8.5.0/install/windows
+New URL: https://preview.bazel.build/versions/8.5.0/install/windows
+
+ERROR
+
