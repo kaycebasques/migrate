@@ -2968,3 +2968,10 @@ New URL: https://preview.bazel.build/start/ios-app
 
 OK
 
+## /start/java
+
+Old URL: https://bazel.build/start/java
+New URL: https://preview.bazel.build/start/java
+
+OK
+
