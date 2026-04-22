@@ -2673,3 +2673,14 @@ New URL: https://preview.bazel.build/rules/lib/repo/git
 
 - In the 'ATTRIBUTES' tables for both 'git_repository' and 'new_git_repository', the first column is too narrow, causing attribute names to be split across multiple lines and making them difficult to read (e.g., 'branch' is rendered as 'br', 'an', 'ch').
 
+## /rules/lib/repo/http
+
+Old URL: https://bazel.build/rules/lib/repo/http
+New URL: https://preview.bazel.build/rules/lib/repo/http
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/repo/http](data/rules/lib/repo/http/old.png) | ![https://preview.bazel.build/rules/lib/repo/http](data/rules/lib/repo/http/new.png) |
+
+- The attribute names in the 'ATTRIBUTES' sections for http_archive, http_file, and http_jar are severely truncated to only the first two characters, rendering the tables unreadable.
+

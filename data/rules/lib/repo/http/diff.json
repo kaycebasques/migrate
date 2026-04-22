@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "The attribute names in the 'ATTRIBUTES' sections for http_archive, http_file, and http_jar are severely truncated to only the first two characters, rendering the tables unreadable."
+  ]
+}
