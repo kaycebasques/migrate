@@ -1397,3 +1397,14 @@ New URL: https://preview.bazel.build/release/rule-compatibility
 - The compatibility table headers are misaligned with the columns.
 - The 'REPORT AN ISSUE' and 'VIEW SOURCE' buttons are missing.
 
+## /remote/bep
+
+Old URL: https://bazel.build/remote/bep
+New URL: https://preview.bazel.build/remote/bep
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/remote/bep](data/remote/bep/old.png) | ![https://preview.bazel.build/remote/bep](data/remote/bep/new.png) |
+
+- External link icons (represented by a square with an arrow) are missing from all links that previously featured them throughout the text paragraphs.
+
