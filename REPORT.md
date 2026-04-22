@@ -3173,3 +3173,10 @@ New URL: https://preview.bazel.build/versions/6.0.0/configure/memory
 
 ERROR
 
+## /versions/6.0.0/contribute/design-documents
+
+Old URL: https://bazel.build/versions/6.0.0/contribute/design-documents
+New URL: https://preview.bazel.build/versions/6.0.0/contribute/design-documents
+
+ERROR
+
