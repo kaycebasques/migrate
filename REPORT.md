@@ -3943,3 +3943,10 @@ New URL: https://preview.bazel.build/versions/6.1.0/start/java
 
 ERROR
 
+## /versions/6.2.0/about
+
+Old URL: https://bazel.build/versions/6.2.0/about
+New URL: https://preview.bazel.build/versions/6.2.0/about
+
+ERROR
+
