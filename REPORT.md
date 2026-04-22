@@ -2250,3 +2250,14 @@ New URL: https://preview.bazel.build/rules/lib/core/range
 
 OK
 
+## /rules/lib/core/set
+
+Old URL: https://bazel.build/rules/lib/core/set
+New URL: https://preview.bazel.build/rules/lib/core/set
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/core/set](data/rules/lib/core/set/old.png) | ![https://preview.bazel.build/rules/lib/core/set](data/rules/lib/core/set/new.png) |
+
+- The 'On this page' navigation sidebar is truncated and missing several sections and sub-sections, ending abruptly at 'issubset'.
+
