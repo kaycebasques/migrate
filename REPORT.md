@@ -2915,3 +2915,10 @@ New URL: https://preview.bazel.build/run/scripts
 
 OK
 
+## /s/results
+
+Old URL: https://bazel.build/s/results
+New URL: https://preview.bazel.build/s/results
+
+ERROR
+
