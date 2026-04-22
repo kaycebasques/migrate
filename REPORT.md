@@ -12133,3 +12133,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/configure/best-practices
 
 ERROR
 
+## /versions/8.2.0/configure/coverage
+
+Old URL: https://bazel.build/versions/8.2.0/configure/coverage
+New URL: https://preview.bazel.build/versions/8.2.0/configure/coverage
+
+ERROR
+
