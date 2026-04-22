@@ -12910,3 +12910,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/rules/lib/builtins/repositor
 
 ERROR
 
+## /versions/8.2.0/rules/lib/builtins/repository_os
+
+Old URL: https://bazel.build/versions/8.2.0/rules/lib/builtins/repository_os
+New URL: https://preview.bazel.build/versions/8.2.0/rules/lib/builtins/repository_os
+
+ERROR
+
