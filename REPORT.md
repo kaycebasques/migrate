@@ -8038,3 +8038,10 @@ New URL: https://preview.bazel.build/versions/7.4.0/docs
 
 ERROR
 
+## /versions/7.4.0/extending
+
+Old URL: https://bazel.build/versions/7.4.0/extending
+New URL: https://preview.bazel.build/versions/7.4.0/extending
+
+ERROR
+
