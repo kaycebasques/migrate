@@ -2243,3 +2243,10 @@ New URL: https://preview.bazel.build/rules/lib/core/list
 - The description for the 'x' parameter in the 'index' section is missing the text 'The object to search.'
 - The description for the 'item' parameter in the 'insert' section is missing the text 'The item.'
 
+## /rules/lib/core/range
+
+Old URL: https://bazel.build/rules/lib/core/range
+New URL: https://preview.bazel.build/rules/lib/core/range
+
+OK
+
