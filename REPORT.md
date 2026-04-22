@@ -14079,3 +14079,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/rules/lib/builtins/BuildSett
 
 ERROR
 
+## /versions/8.3.0/rules/lib/builtins/CompilationContext
+
+Old URL: https://bazel.build/versions/8.3.0/rules/lib/builtins/CompilationContext
+New URL: https://preview.bazel.build/versions/8.3.0/rules/lib/builtins/CompilationContext
+
+ERROR
+
