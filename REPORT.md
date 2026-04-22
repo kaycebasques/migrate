@@ -4405,3 +4405,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/rules/performance
 
 ERROR
 
+## /versions/6.2.0/rules/rules-tutorial
+
+Old URL: https://bazel.build/versions/6.2.0/rules/rules-tutorial
+New URL: https://preview.bazel.build/versions/6.2.0/rules/rules-tutorial
+
+ERROR
+
