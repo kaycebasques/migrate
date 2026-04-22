@@ -1954,3 +1954,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/exec_result
 
 OK
 
+## /rules/lib/builtins/extension_metadata
+
+Old URL: https://bazel.build/rules/lib/builtins/extension_metadata
+New URL: https://preview.bazel.build/rules/lib/builtins/extension_metadata
+
+OK
+
