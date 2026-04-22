@@ -1303,3 +1303,17 @@ New URL: https://preview.bazel.build/reference/be/workspace
 
 NOT_OK
 
+## /reference/flag-cheatsheet
+
+Old URL: https://bazel.build/reference/flag-cheatsheet
+New URL: https://preview.bazel.build/reference/flag-cheatsheet
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/reference/flag-cheatsheet](data/reference/flag-cheatsheet/old.png) | ![https://preview.bazel.build/reference/flag-cheatsheet](data/reference/flag-cheatsheet/new.png) |
+
+- Most 'Tip' and 'Note' callouts (admonitions) are missing entirely from the new page.
+- The 'Caution' callout under the 'Startup' section is missing its styling and icon, appearing as plain text.
+- Tables have broken layouts where the 'Flag' column is too narrow, causing extreme and unreadable word wrapping.
+- Double dashes ('--') at the beginning of flag names in the tables have been incorrectly converted to em-dashes ('—').
+

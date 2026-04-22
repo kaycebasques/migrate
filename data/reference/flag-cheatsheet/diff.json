@@ -1,0 +1,8 @@
+{
+  "issues": [
+    "Most 'Tip' and 'Note' callouts (admonitions) are missing entirely from the new page.",
+    "The 'Caution' callout under the 'Startup' section is missing its styling and icon, appearing as plain text.",
+    "Tables have broken layouts where the 'Flag' column is too narrow, causing extreme and unreadable word wrapping.",
+    "Double dashes ('--') at the beginning of flag names in the tables have been incorrectly converted to em-dashes ('\u2014')."
+  ]
+}
