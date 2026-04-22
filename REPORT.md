@@ -5868,3 +5868,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/rules/macro-tutorial
 - In the 'A few remarks' section, inline code styling (monospace font and background highlight) is inconsistently applied; it is missing for terms like 'name', 'genrule', and 'native.' but present for others like 'visibility' and 'tags'.
 - The syntax highlighting in the 'miniature.bzl' code block is inconsistent, as the second line of the docstring ('The generated file...') is rendered in black while the surrounding lines are blue.
 
+## /versions/6.5.0/rules/performance
+
+Old URL: https://bazel.build/versions/6.5.0/rules/performance
+New URL: https://preview.bazel.build/versions/6.5.0/rules/performance
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/rules/performance](data/versions/6.5.0/rules/performance/old.png) | ![https://preview.bazel.build/versions/6.5.0/rules/performance](data/versions/6.5.0/rules/performance/new.png) |
+
+- The callout in the 'Enabling memory tracking' section is unstyled, appearing as plain text between two horizontal rules rather than the original blue-boxed admonition with a star icon.
+
