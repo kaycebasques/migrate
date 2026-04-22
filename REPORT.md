@@ -2428,3 +2428,10 @@ New URL: https://preview.bazel.build/rules/lib/overview
 
 OK
 
+## /rules/lib/providers
+
+Old URL: https://bazel.build/rules/lib/providers
+New URL: https://preview.bazel.build/rules/lib/providers
+
+OK
+
