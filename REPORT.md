@@ -2065,3 +2065,16 @@ New URL: https://preview.bazel.build/rules/lib/builtins/rule
 
 OK
 
+## /rules/lib/builtins/rule_attributes
+
+Old URL: https://bazel.build/rules/lib/builtins/rule_attributes
+New URL: https://preview.bazel.build/rules/lib/builtins/rule_attributes
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/builtins/rule_attributes](data/rules/lib/builtins/rule_attributes/old.png) | ![https://preview.bazel.build/rules/lib/builtins/rule_attributes](data/rules/lib/builtins/rule_attributes/new.png) |
+
+- The 'Members' list is incorrectly nested, with all items from 'exec_groups' onwards appearing as sub-bullets of 'attr'.
+- There is inconsistent bolding in the 'Members' list; 'executable', 'files', and 'toolchains' are bolded while other items are not.
+- Inline code elements (e.g., 'struct', 'executable=True', 'None', 'File', 'allow_single_file') are missing monospaced font formatting throughout the page.
+
