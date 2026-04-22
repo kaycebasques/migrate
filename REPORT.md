@@ -3397,3 +3397,10 @@ New URL: https://preview.bazel.build/versions/6.0.0/reference/be/overview
 
 ERROR
 
+## /versions/6.0.0/reference/command-line-reference
+
+Old URL: https://bazel.build/versions/6.0.0/reference/command-line-reference
+New URL: https://preview.bazel.build/versions/6.0.0/reference/command-line-reference
+
+ERROR
+
