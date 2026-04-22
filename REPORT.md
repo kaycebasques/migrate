@@ -2101,3 +2101,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/struct
 - The text "Dictionary of arguments." is missing from the Description column of the Parameters table.
 - HTML character entities "&lcub;&rcub;" are not correctly rendered as "{}" in the Description column of the Parameters table.
 
+## /rules/lib/builtins/subrule_ctx
+
+Old URL: https://bazel.build/rules/lib/builtins/subrule_ctx
+New URL: https://preview.bazel.build/rules/lib/builtins/subrule_ctx
+
+OK
+
