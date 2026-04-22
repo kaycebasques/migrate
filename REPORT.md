@@ -2261,3 +2261,14 @@ New URL: https://preview.bazel.build/rules/lib/core/set
 
 - The 'On this page' navigation sidebar is truncated and missing several sections and sub-sections, ending abruptly at 'issubset'.
 
+## /rules/lib/core/string
+
+Old URL: https://bazel.build/rules/lib/core/string
+New URL: https://preview.bazel.build/rules/lib/core/string
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/core/string](data/rules/lib/core/string/old.png) | ![https://preview.bazel.build/rules/lib/core/string](data/rules/lib/core/string/new.png) |
+
+- In the 'format' section, HTML entities like '&lbrace;' and '&rbrace;' are displayed as literal text in both the description and the parameters table instead of being rendered as curly braces ('{' and '}').
+

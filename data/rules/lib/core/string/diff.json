@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "In the 'format' section, HTML entities like '&lbrace;' and '&rbrace;' are displayed as literal text in both the description and the parameters table instead of being rendered as curly braces ('{' and '}')."
+  ]
+}
