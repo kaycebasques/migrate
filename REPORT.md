@@ -10229,3 +10229,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/core/dict
 
 ERROR
 
+## /versions/7.7.0/rules/lib/core/float
+
+Old URL: https://bazel.build/versions/7.7.0/rules/lib/core/float
+New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/core/float
+
+ERROR
+
