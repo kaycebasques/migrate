@@ -5706,3 +5706,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/remote/dynamic
 - The execution profile images in the 'When should I use dynamic execution?' section are missing and appear as broken image icons with alt text.
 - Multiple command-line flags (such as --internal_spawn_scheduler and --dynamic_remote_strategy) are incorrectly wrapped, causing the leading double-dashes to be separated from the flag name across two lines.
 
+## /versions/6.5.0/remote/multiplex
+
+Old URL: https://bazel.build/versions/6.5.0/remote/multiplex
+New URL: https://preview.bazel.build/versions/6.5.0/remote/multiplex
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/remote/multiplex](data/versions/6.5.0/remote/multiplex/old.png) | ![https://preview.bazel.build/versions/6.5.0/remote/multiplex](data/versions/6.5.0/remote/multiplex/new.png) |
+
+- The caution callout is unstyled in the new site.
+
