@@ -2328,3 +2328,10 @@ New URL: https://preview.bazel.build/rules/lib/fragments/objc
 
 OK
 
+## /rules/lib/fragments/platform
+
+Old URL: https://bazel.build/rules/lib/fragments/platform
+New URL: https://preview.bazel.build/rules/lib/fragments/platform
+
+OK
+
