@@ -9256,3 +9256,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/tutorials/cpp-use-cases
 
 ERROR
 
+## /versions/7.7.0
+
+Old URL: https://bazel.build/versions/7.7.0
+New URL: https://preview.bazel.build/versions/7.7.0
+
+ERROR
+
