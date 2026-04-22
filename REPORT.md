@@ -2314,3 +2314,10 @@ New URL: https://preview.bazel.build/rules/lib/fragments/cpp
 
 OK
 
+## /rules/lib/fragments/java
+
+Old URL: https://bazel.build/rules/lib/fragments/java
+New URL: https://preview.bazel.build/rules/lib/fragments/java
+
+OK
+
