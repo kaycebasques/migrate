@@ -3474,3 +3474,10 @@ New URL: https://preview.bazel.build/versions/6.0.0/remote/output-directories
 
 ERROR
 
+## /versions/6.0.0/remote/persistent
+
+Old URL: https://bazel.build/versions/6.0.0/remote/persistent
+New URL: https://preview.bazel.build/versions/6.0.0/remote/persistent
+
+ERROR
+
