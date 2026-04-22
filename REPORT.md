@@ -13274,3 +13274,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/about/roadmap
 
 ERROR
 
+## /versions/8.3.0/about/why
+
+Old URL: https://bazel.build/versions/8.3.0/about/why
+New URL: https://preview.bazel.build/versions/8.3.0/about/why
+
+ERROR
+
