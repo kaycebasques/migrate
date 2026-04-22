@@ -5694,3 +5694,15 @@ New URL: https://preview.bazel.build/versions/6.5.0/remote/ci
 - Raw HTML and Markdown syntax is visible in the 'Running the custom container' section, such as '### Running the custom container' and 'posix-terminal'.
 - Literal HTML '<var>' tags are visible in several code blocks and within body text throughout the document, rather than being rendered correctly as placeholders.
 
+## /versions/6.5.0/remote/dynamic
+
+Old URL: https://bazel.build/versions/6.5.0/remote/dynamic
+New URL: https://preview.bazel.build/versions/6.5.0/remote/dynamic
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/remote/dynamic](data/versions/6.5.0/remote/dynamic/old.png) | ![https://preview.bazel.build/versions/6.5.0/remote/dynamic](data/versions/6.5.0/remote/dynamic/new.png) |
+
+- The execution profile images in the 'When should I use dynamic execution?' section are missing and appear as broken image icons with alt text.
+- Multiple command-line flags (such as --internal_spawn_scheduler and --dynamic_remote_strategy) are incorrectly wrapped, causing the leading double-dashes to be separated from the flag name across two lines.
+
