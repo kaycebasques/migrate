@@ -2089,3 +2089,15 @@ New URL: https://preview.bazel.build/rules/lib/builtins/runfiles
 
 - In the 'Parameters' tables for 'merge' and 'merge_all', the description text is missing a line break after the requirement status ('; required'), causing it to be concatenated onto the same line as the parameter metadata.
 
+## /rules/lib/builtins/struct
+
+Old URL: https://bazel.build/rules/lib/builtins/struct
+New URL: https://preview.bazel.build/rules/lib/builtins/struct
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/builtins/struct](data/rules/lib/builtins/struct/old.png) | ![https://preview.bazel.build/rules/lib/builtins/struct](data/rules/lib/builtins/struct/new.png) |
+
+- The text "Dictionary of arguments." is missing from the Description column of the Parameters table.
+- HTML character entities "&lcub;&rcub;" are not correctly rendered as "{}" in the Description column of the Parameters table.
+

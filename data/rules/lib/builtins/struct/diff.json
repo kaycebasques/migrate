@@ -1,0 +1,6 @@
+{
+  "issues": [
+    "The text \"Dictionary of arguments.\" is missing from the Description column of the Parameters table.",
+    "HTML character entities \"&lcub;&rcub;\" are not correctly rendered as \"{}\" in the Description column of the Parameters table."
+  ]
+}
