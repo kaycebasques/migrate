@@ -5409,3 +5409,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/install/docker-container
 - A typo was introduced in the 'Build Abseil project from inside the container' section: 'development' is misspelled as 'developement'.
 - A typo was introduced in the 'Build Abseil project from inside the container' section: 'below' is misspelled as 'bellow'.
 
+## /versions/6.5.0/install/ide
+
+Old URL: https://bazel.build/versions/6.5.0/install/ide
+New URL: https://preview.bazel.build/versions/6.5.0/install/ide
+
+OK
+
