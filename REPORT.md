@@ -1472,3 +1472,14 @@ New URL: https://preview.bazel.build/remote/ci
 - Under 'Building the rbe-ubuntu16-04 container from source', the third point has an empty code block, while the command text is rendered as plain text below it with incorrect formatting.
 - Raw <var> tags are visible in the body text and inside code blocks (e.g., <var>my_tool_package</var>), indicating a parsing error.
 
+## /remote/creating
+
+Old URL: https://bazel.build/remote/creating
+New URL: https://preview.bazel.build/remote/creating
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/remote/creating](data/remote/creating/old.png) | ![https://preview.bazel.build/remote/creating](data/remote/creating/new.png) |
+
+- The 'Note' callout in the 'Work action requirements' section is unstyled in the new website, appearing as a regular paragraph instead of a styled admonition box.
+
