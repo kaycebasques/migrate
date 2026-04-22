@@ -13057,3 +13057,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/rules/lib/overview
 
 ERROR
 
+## /versions/8.2.0/rules/lib/providers/CcInfo
+
+Old URL: https://bazel.build/versions/8.2.0/rules/lib/providers/CcInfo
+New URL: https://preview.bazel.build/versions/8.2.0/rules/lib/providers/CcInfo
+
+ERROR
+
