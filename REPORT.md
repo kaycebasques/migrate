@@ -6379,3 +6379,10 @@ New URL: https://preview.bazel.build/versions/7.0.0/release
 
 ERROR
 
+## /versions/7.0.0/remote/dynamic
+
+Old URL: https://bazel.build/versions/7.0.0/remote/dynamic
+New URL: https://preview.bazel.build/versions/7.0.0/remote/dynamic
+
+ERROR
+
