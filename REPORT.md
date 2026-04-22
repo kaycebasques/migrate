@@ -15514,3 +15514,10 @@ New URL: https://preview.bazel.build/versions/8.4.0/start/java
 
 ERROR
 
+## /versions/8.4.0/tutorials/cpp-use-cases
+
+Old URL: https://bazel.build/versions/8.4.0/tutorials/cpp-use-cases
+New URL: https://preview.bazel.build/versions/8.4.0/tutorials/cpp-use-cases
+
+ERROR
+
