@@ -15073,3 +15073,10 @@ New URL: https://preview.bazel.build/versions/8.4.0/rules/lib/builtins/Directory
 
 ERROR
 
+## /versions/8.4.0/rules/lib/builtins/ExecGroupCollection
+
+Old URL: https://bazel.build/versions/8.4.0/rules/lib/builtins/ExecGroupCollection
+New URL: https://preview.bazel.build/versions/8.4.0/rules/lib/builtins/ExecGroupCollection
+
+ERROR
+
