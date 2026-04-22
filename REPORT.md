@@ -11622,3 +11622,10 @@ New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/builtins/actions
 
 ERROR
 
+## /versions/8.1.0/rules/lib/builtins/configuration
+
+Old URL: https://bazel.build/versions/8.1.0/rules/lib/builtins/configuration
+New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/builtins/configuration
+
+ERROR
+
