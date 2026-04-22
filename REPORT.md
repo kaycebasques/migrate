@@ -10866,3 +10866,10 @@ New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/builtins/CcLinking
 
 ERROR
 
+## /versions/8.0.0/rules/lib/builtins/CompilationContext
+
+Old URL: https://bazel.build/versions/8.0.0/rules/lib/builtins/CompilationContext
+New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/builtins/CompilationContext
+
+ERROR
+
