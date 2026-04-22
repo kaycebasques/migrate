@@ -11286,3 +11286,10 @@ New URL: https://preview.bazel.build/versions/8.0.0/run/build
 
 ERROR
 
+## /versions/8.0.0/start
+
+Old URL: https://bazel.build/versions/8.0.0/start
+New URL: https://preview.bazel.build/versions/8.0.0/start
+
+ERROR
+
