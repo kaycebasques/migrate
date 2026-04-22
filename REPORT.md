@@ -6582,3 +6582,10 @@ New URL: https://preview.bazel.build/versions/7.1.0/community/experts
 
 ERROR
 
+## /versions/7.1.0/community/sig
+
+Old URL: https://bazel.build/versions/7.1.0/community/sig
+New URL: https://preview.bazel.build/versions/7.1.0/community/sig
+
+ERROR
+
