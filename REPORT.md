@@ -2000,3 +2000,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/module_ctx
 - There is an extraneous 'E.' character at the beginning of the 'On this page' title in the right-hand navigation sidebar.
 - The description for the 'facts' parameter in the 'extension_metadata' section has broken layout: part of the descriptive text is incorrectly moved into a separate grey side-box that disrupts the table formatting.
 
+## /rules/lib/builtins/path
+
+Old URL: https://bazel.build/rules/lib/builtins/path
+New URL: https://preview.bazel.build/rules/lib/builtins/path
+
+OK
+
