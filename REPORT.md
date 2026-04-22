@@ -1677,3 +1677,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/Aspect
 
 - The words 'documentation of' are no longer included as part of the link to 'the aspect function'.
 
+## /rules/lib/builtins/Attribute
+
+Old URL: https://bazel.build/rules/lib/builtins/Attribute
+New URL: https://preview.bazel.build/rules/lib/builtins/Attribute
+
+OK
+
