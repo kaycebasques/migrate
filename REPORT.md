@@ -9074,3 +9074,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/rules/lib/core/int
 
 ERROR
 
+## /versions/7.6.0/rules/lib/core/list
+
+Old URL: https://bazel.build/versions/7.6.0/rules/lib/core/list
+New URL: https://preview.bazel.build/versions/7.6.0/rules/lib/core/list
+
+ERROR
+
