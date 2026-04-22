@@ -6000,3 +6000,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/tutorials/ccp-toolchain-conf
 
 OK
 
+## /versions/6.5.0/tutorials/cpp-dependency
+
+Old URL: https://bazel.build/versions/6.5.0/tutorials/cpp-dependency
+New URL: https://preview.bazel.build/versions/6.5.0/tutorials/cpp-dependency
+
+OK
+
