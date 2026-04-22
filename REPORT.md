@@ -2836,3 +2836,14 @@ New URL: https://preview.bazel.build/rules/macro-tutorial
 
 OK
 
+## /rules/performance
+
+Old URL: https://bazel.build/rules/performance
+New URL: https://preview.bazel.build/rules/performance
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/performance](data/rules/performance/old.png) | ![https://preview.bazel.build/rules/performance](data/rules/performance/new.png) |
+
+- The callout under the "Enabling memory tracking" section is unstyled, appearing as a plain paragraph instead of a highlighted admonition with a background and icon.
+

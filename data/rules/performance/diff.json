@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "The callout under the \"Enabling memory tracking\" section is unstyled, appearing as a plain paragraph instead of a highlighted admonition with a background and icon."
+  ]
+}
