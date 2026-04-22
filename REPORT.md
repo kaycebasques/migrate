@@ -1385,3 +1385,15 @@ New URL: https://preview.bazel.build/release/rolling
 
 - All content below the main title is missing, including version headers (10.0.0, 9.0.0, etc.), the lists of releases, the introductory paragraph, and the 'REPORT AN ISSUE'/'VIEW SOURCE' buttons.
 
+## /release/rule-compatibility
+
+Old URL: https://bazel.build/release/rule-compatibility
+New URL: https://preview.bazel.build/release/rule-compatibility
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/release/rule-compatibility](data/release/rule-compatibility/old.png) | ![https://preview.bazel.build/release/rule-compatibility](data/release/rule-compatibility/new.png) |
+
+- The compatibility table headers are misaligned with the columns.
+- The 'REPORT AN ISSUE' and 'VIEW SOURCE' buttons are missing.
+
