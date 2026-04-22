@@ -5849,3 +5849,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/rules/lib/repository_ctx
 
 ERROR
 
+## /versions/6.5.0/rules/lib/starlark-overview
+
+Old URL: https://bazel.build/versions/6.5.0/rules/lib/starlark-overview
+New URL: https://preview.bazel.build/versions/6.5.0/rules/lib/starlark-overview
+
+ERROR
+
