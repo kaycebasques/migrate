@@ -5246,3 +5246,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/contribute/search
 
 ERROR
 
+## /versions/6.5.0/docs
+
+Old URL: https://bazel.build/versions/6.5.0/docs
+New URL: https://preview.bazel.build/versions/6.5.0/docs
+
+ERROR
+
