@@ -5496,3 +5496,16 @@ New URL: https://preview.bazel.build/versions/6.5.0/migrate/xcode
 
 - Unstyled callouts i.e. admonitions
 
+## /versions/6.5.0/query/aquery
+
+Old URL: https://bazel.build/versions/6.5.0/query/aquery
+New URL: https://preview.bazel.build/versions/6.5.0/query/aquery
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/query/aquery](data/versions/6.5.0/query/aquery/old.png) | ![https://preview.bazel.build/versions/6.5.0/query/aquery](data/versions/6.5.0/query/aquery/new.png) |
+
+- Unstyled 'Important' callout under the 'Using aquery functions' section.
+- Unstyled 'Warning' callout under the 'Aquery options' section.
+- Unstyled 'Note' callout under the 'Aquery options' section.
+
