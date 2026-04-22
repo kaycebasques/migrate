@@ -5474,3 +5474,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/migrate
 
 OK
 
+## /versions/6.5.0/migrate/maven
+
+Old URL: https://bazel.build/versions/6.5.0/migrate/maven
+New URL: https://preview.bazel.build/versions/6.5.0/migrate/maven
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/migrate/maven](data/versions/6.5.0/migrate/maven/old.png) | ![https://preview.bazel.build/versions/6.5.0/migrate/maven](data/versions/6.5.0/migrate/maven/new.png) |
+
+- Unstyled callouts
+
