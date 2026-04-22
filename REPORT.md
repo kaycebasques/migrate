@@ -14233,3 +14233,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/rules/lib/builtins/macro
 
 ERROR
 
+## /versions/8.3.0/rules/lib/builtins/module_ctx
+
+Old URL: https://bazel.build/versions/8.3.0/rules/lib/builtins/module_ctx
+New URL: https://preview.bazel.build/versions/8.3.0/rules/lib/builtins/module_ctx
+
+ERROR
+
