@@ -2135,3 +2135,15 @@ New URL: https://preview.bazel.build/rules/lib/builtins/toolchain_type
 
 OK
 
+## /rules/lib/builtins/transition
+
+Old URL: https://bazel.build/rules/lib/builtins/transition
+New URL: https://preview.bazel.build/rules/lib/builtins/transition
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/builtins/transition](data/rules/lib/builtins/transition/old.png) | ![https://preview.bazel.build/rules/lib/builtins/transition](data/rules/lib/builtins/transition/new.png) |
+
+- In the Parameters table, the newline after 'callable; required' for the 'implementation' parameter is missing, causing it to merge with the subsequent sentence.
+- Unwanted extra spaces have been injected into code snippets and around punctuation within the Parameters table descriptions (e.g., 'ctx . attr', 'settings [ \' //foo \' ] = \' bar \'', 'strings ; required').
+
