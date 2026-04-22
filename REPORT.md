@@ -9543,3 +9543,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/contribute/search
 
 ERROR
 
+## /versions/7.7.0/docs
+
+Old URL: https://bazel.build/versions/7.7.0/docs
+New URL: https://preview.bazel.build/versions/7.7.0/docs
+
+ERROR
+
