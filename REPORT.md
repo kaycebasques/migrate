@@ -4955,3 +4955,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/about/faq
 
 - The 'On this page' navigation sidebar in the new site is incomplete and does not include all the headings present in the document.
 
+## /versions/6.5.0/about/intro
+
+Old URL: https://bazel.build/versions/6.5.0/about/intro
+New URL: https://preview.bazel.build/versions/6.5.0/about/intro
+
+OK
+
