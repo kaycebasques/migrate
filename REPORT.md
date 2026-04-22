@@ -15353,3 +15353,10 @@ New URL: https://preview.bazel.build/versions/8.4.0/rules/lib/globals/module
 
 ERROR
 
+## /versions/8.4.0/rules/lib/globals/workspace
+
+Old URL: https://bazel.build/versions/8.4.0/rules/lib/globals/workspace
+New URL: https://preview.bazel.build/versions/8.4.0/rules/lib/globals/workspace
+
+ERROR
+
