@@ -3670,3 +3670,10 @@ New URL: https://preview.bazel.build/versions/6.1.0/community
 
 ERROR
 
+## /versions/6.1.0/community/update
+
+Old URL: https://bazel.build/versions/6.1.0/community/update
+New URL: https://preview.bazel.build/versions/6.1.0/community/update
+
+ERROR
+
