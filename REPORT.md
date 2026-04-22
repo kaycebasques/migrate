@@ -14149,3 +14149,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/rules/lib/builtins/LinkingCo
 
 ERROR
 
+## /versions/8.3.0/rules/lib/builtins/Provider
+
+Old URL: https://bazel.build/versions/8.3.0/rules/lib/builtins/Provider
+New URL: https://preview.bazel.build/versions/8.3.0/rules/lib/builtins/Provider
+
+ERROR
+
