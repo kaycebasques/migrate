@@ -3775,3 +3775,10 @@ New URL: https://preview.bazel.build/versions/6.1.0/install
 
 ERROR
 
+## /versions/6.1.0/install/docker-container
+
+Old URL: https://bazel.build/versions/6.1.0/install/docker-container
+New URL: https://preview.bazel.build/versions/6.1.0/install/docker-container
+
+ERROR
+
