@@ -2634,3 +2634,10 @@ New URL: https://preview.bazel.build/rules/lib/providers/ToolchainInfo
 
 OK
 
+## /rules/lib/providers/file_provider
+
+Old URL: https://bazel.build/rules/lib/providers/file_provider
+New URL: https://preview.bazel.build/rules/lib/providers/file_provider
+
+OK
+
