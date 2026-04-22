@@ -2709,3 +2709,10 @@ New URL: https://preview.bazel.build/rules/lib/repo/utils
 - All code blocks have merged lines due to missing newlines, making them difficult to read (e.g., the load statement and function call are on the same line).
 - The 'Parameters' tables are poorly formatted with very narrow columns for parameter names, causing words to break across lines (e.g., 'patch_cmds_win' is split into 'patch_cmds_w' and 'in', 'override' is split into 'overrid' and 'e').
 
+## /rules/lib/toplevel
+
+Old URL: https://bazel.build/rules/lib/toplevel
+New URL: https://preview.bazel.build/rules/lib/toplevel
+
+OK
+
