@@ -2523,3 +2523,14 @@ New URL: https://preview.bazel.build/rules/lib/providers/DefaultInfo
 - Missing periods at the end of the first line of the 'Description' column for several items in the 'Parameters' table, such as 'files', 'runfiles', and 'data_runfiles'.
 - The layout of the 'Description' column in the 'Parameters' table is inconsistent, with irregular line breaks and spacing between the initial type summary and the subsequent descriptive text compared to the original site.
 
+## /rules/lib/providers/ExecutionInfo
+
+Old URL: https://bazel.build/rules/lib/providers/ExecutionInfo
+New URL: https://preview.bazel.build/rules/lib/providers/ExecutionInfo
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/providers/ExecutionInfo](data/rules/lib/providers/ExecutionInfo/old.png) | ![https://preview.bazel.build/rules/lib/providers/ExecutionInfo](data/rules/lib/providers/ExecutionInfo/new.png) |
+
+- In the Parameters table, the description for 'requirements' contains unrendered HTML entities: '&lcub;&rcub;' instead of '{}'.
+

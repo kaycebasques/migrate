@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "In the Parameters table, the description for 'requirements' contains unrendered HTML entities: '&lcub;&rcub;' instead of '{}'."
+  ]
+}
