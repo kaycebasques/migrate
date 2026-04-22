@@ -6421,3 +6421,10 @@ New URL: https://preview.bazel.build/versions/7.0.0/rules/lib/core/dict
 
 ERROR
 
+## /versions/7.0.0/rules/lib/core/string
+
+Old URL: https://bazel.build/versions/7.0.0/rules/lib/core/string
+New URL: https://preview.bazel.build/versions/7.0.0/rules/lib/core/string
+
+ERROR
+
