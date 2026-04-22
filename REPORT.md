@@ -16123,3 +16123,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/remote/sandbox
 
 ERROR
 
+## /versions/8.5.0/remote/workspace
+
+Old URL: https://bazel.build/versions/8.5.0/remote/workspace
+New URL: https://preview.bazel.build/versions/8.5.0/remote/workspace
+
+ERROR
+
