@@ -1408,3 +1408,14 @@ New URL: https://preview.bazel.build/remote/bep
 
 - External link icons (represented by a square with an arrow) are missing from all links that previously featured them throughout the text paragraphs.
 
+## /remote/bep-examples
+
+Old URL: https://bazel.build/remote/bep-examples
+New URL: https://preview.bazel.build/remote/bep-examples
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/remote/bep-examples](data/remote/bep-examples/old.png) | ![https://preview.bazel.build/remote/bep-examples](data/remote/bep-examples/new.png) |
+
+- The callout/note starting with "Note: The only difference between the IDs..." is unstyled in the new website, missing its background color and icon from the original.
+
