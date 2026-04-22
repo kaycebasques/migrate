@@ -2627,3 +2627,10 @@ New URL: https://preview.bazel.build/rules/lib/providers/TemplateVariableInfo
 
 - The code example contains unrendered HTML entities '&lcub;' and '&rcub;' instead of curly braces.
 
+## /rules/lib/providers/ToolchainInfo
+
+Old URL: https://bazel.build/rules/lib/providers/ToolchainInfo
+New URL: https://preview.bazel.build/rules/lib/providers/ToolchainInfo
+
+OK
+
