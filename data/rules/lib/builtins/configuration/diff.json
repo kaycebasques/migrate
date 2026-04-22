@@ -1,0 +1,7 @@
+{
+  "issues": [
+    "In the coverage_enabled section, an extra underscore has been added before 'ctx.coverage_instrumented'.",
+    "In the short_id section, an extra asterisk appears at the end of the first bullet point: 'patch releases.*'.",
+    "In the short_id section, the second bullet point is missing its bullet marker, appearing as a continuation of the first item."
+  ]
+}

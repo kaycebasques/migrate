@@ -1915,3 +1915,16 @@ New URL: https://preview.bazel.build/rules/lib/builtins/bazel_module_tags
 
 - Smart quotes are used instead of straight quotes in the body text (e.g., “tag instance” instead of "tag instance").
 
+## /rules/lib/builtins/configuration
+
+Old URL: https://bazel.build/rules/lib/builtins/configuration
+New URL: https://preview.bazel.build/rules/lib/builtins/configuration
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/builtins/configuration](data/rules/lib/builtins/configuration/old.png) | ![https://preview.bazel.build/rules/lib/builtins/configuration](data/rules/lib/builtins/configuration/new.png) |
+
+- In the coverage_enabled section, an extra underscore has been added before 'ctx.coverage_instrumented'.
+- In the short_id section, an extra asterisk appears at the end of the first bullet point: 'patch releases.*'.
+- In the short_id section, the second bullet point is missing its bullet marker, appearing as a continuation of the first item.
+
