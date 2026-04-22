@@ -13099,3 +13099,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/rules/lib/toplevel/config
 
 ERROR
 
+## /versions/8.2.0/rules/lib/toplevel/native
+
+Old URL: https://bazel.build/versions/8.2.0/rules/lib/toplevel/native
+New URL: https://preview.bazel.build/versions/8.2.0/rules/lib/toplevel/native
+
+ERROR
+
