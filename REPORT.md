@@ -9501,3 +9501,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/contribute/docs
 
 ERROR
 
+## /versions/7.7.0/contribute/docs-style-guide
+
+Old URL: https://bazel.build/versions/7.7.0/contribute/docs-style-guide
+New URL: https://preview.bazel.build/versions/7.7.0/contribute/docs-style-guide
+
+ERROR
+
