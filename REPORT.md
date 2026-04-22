@@ -13071,3 +13071,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/rules/lib/providers/DefaultI
 
 ERROR
 
+## /versions/8.2.0/rules/lib/repo
+
+Old URL: https://bazel.build/versions/8.2.0/rules/lib/repo
+New URL: https://preview.bazel.build/versions/8.2.0/rules/lib/repo
+
+ERROR
+
