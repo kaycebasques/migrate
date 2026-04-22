@@ -8850,3 +8850,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/reference/be/common-definiti
 
 ERROR
 
+## /versions/7.6.0/reference/be/functions
+
+Old URL: https://bazel.build/versions/7.6.0/reference/be/functions
+New URL: https://preview.bazel.build/versions/7.6.0/reference/be/functions
+
+ERROR
+
