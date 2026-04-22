@@ -5389,3 +5389,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/install/compile-source
 
 - The 'Attention:' callout in the 'Step 1: Download Bazel's sources (distribution archive)' section is unstyled, losing its background color and left border from the original site.
 
+## /versions/6.5.0/install/completion
+
+Old URL: https://bazel.build/versions/6.5.0/install/completion
+New URL: https://preview.bazel.build/versions/6.5.0/install/completion
+
+OK
+
