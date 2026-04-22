@@ -10467,3 +10467,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/run/client-server
 
 ERROR
 
+## /versions/7.7.0/run/scripts
+
+Old URL: https://bazel.build/versions/7.7.0/run/scripts
+New URL: https://preview.bazel.build/versions/7.7.0/run/scripts
+
+ERROR
+
