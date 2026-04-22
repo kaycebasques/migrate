@@ -11363,3 +11363,10 @@ New URL: https://preview.bazel.build/versions/8.1.0/concepts/build-ref
 
 ERROR
 
+## /versions/8.1.0/configure/attributes
+
+Old URL: https://bazel.build/versions/8.1.0/configure/attributes
+New URL: https://preview.bazel.build/versions/8.1.0/configure/attributes
+
+ERROR
+
