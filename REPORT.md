@@ -1765,3 +1765,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/FeatureConfiguration
 
 OK
 
+## /rules/lib/builtins/File
+
+Old URL: https://bazel.build/rules/lib/builtins/File
+New URL: https://preview.bazel.build/rules/lib/builtins/File
+
+OK
+
