@@ -2936,3 +2936,10 @@ New URL: https://preview.bazel.build/start
 - There are unrendered Markdown links in the 'Introduction' section, displaying raw syntax such as '[target](https://bazel.build/reference/glossary#target)' and '[package](https://bazel.build/reference/glossary#package)'.
 - The 'On this page' sidebar navigation is inconsistent; some 'Summary' sections are missing entirely (e.g., 'Summary: stage 1'), while others are nested as sub-items despite being top-level headings in the main text.
 
+## /start/android-app
+
+Old URL: https://bazel.build/start/android-app
+New URL: https://preview.bazel.build/start/android-app
+
+OK
+
