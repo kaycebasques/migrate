@@ -12595,3 +12595,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/remote/cache-remote
 
 ERROR
 
+## /versions/8.2.0/remote/caching
+
+Old URL: https://bazel.build/versions/8.2.0/remote/caching
+New URL: https://preview.bazel.build/versions/8.2.0/remote/caching
+
+ERROR
+
