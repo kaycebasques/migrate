@@ -5150,3 +5150,15 @@ New URL: https://preview.bazel.build/versions/6.5.0/configure/coverage
 
 - In the 'Python' section under 'Prerequisites', the second bullet point includes an internal comment ('// TODO: Upstream an lcov implementation so that this becomes usable') that was not present on the original site.
 
+## /versions/6.5.0/configure/memory
+
+Old URL: https://bazel.build/versions/6.5.0/configure/memory
+New URL: https://preview.bazel.build/versions/6.5.0/configure/memory
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/configure/memory](data/versions/6.5.0/configure/memory/old.png) | ![https://preview.bazel.build/versions/6.5.0/configure/memory](data/versions/6.5.0/configure/memory/new.png) |
+
+- The inline code blocks have extra whitespace around them, causing awkward gaps in the text before punctuation like commas and periods.
+- The code snippet 'host_jvm_args=-Xmx2g' in the first paragraph is missing its leading double-dash ('--') prefix.
+

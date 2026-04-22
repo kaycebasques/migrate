@@ -1,0 +1,6 @@
+{
+  "issues": [
+    "The inline code blocks have extra whitespace around them, causing awkward gaps in the text before punctuation like commas and periods.",
+    "The code snippet 'host_jvm_args=-Xmx2g' in the first paragraph is missing its leading double-dash ('--') prefix."
+  ]
+}
