@@ -10012,3 +10012,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/Args
 
 ERROR
 
+## /versions/7.7.0/rules/lib/builtins/Aspect
+
+Old URL: https://bazel.build/versions/7.7.0/rules/lib/builtins/Aspect
+New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/Aspect
+
+ERROR
+
