@@ -13750,3 +13750,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/migrate/xcode
 
 ERROR
 
+## /versions/8.3.0/query/aquery
+
+Old URL: https://bazel.build/versions/8.3.0/query/aquery
+New URL: https://preview.bazel.build/versions/8.3.0/query/aquery
+
+ERROR
+
