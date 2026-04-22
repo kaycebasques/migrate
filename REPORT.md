@@ -9249,3 +9249,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/tutorials/ccp-toolchain-conf
 
 ERROR
 
+## /versions/7.6.0/tutorials/cpp-use-cases
+
+Old URL: https://bazel.build/versions/7.6.0/tutorials/cpp-use-cases
+New URL: https://preview.bazel.build/versions/7.6.0/tutorials/cpp-use-cases
+
+ERROR
+
