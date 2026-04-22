@@ -14646,3 +14646,10 @@ New URL: https://preview.bazel.build/versions/8.4.0/basics/hermeticity
 
 ERROR
 
+## /versions/8.4.0/build/style-guide
+
+Old URL: https://bazel.build/versions/8.4.0/build/style-guide
+New URL: https://preview.bazel.build/versions/8.4.0/build/style-guide
+
+ERROR
+
