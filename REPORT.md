@@ -1580,3 +1580,15 @@ New URL: https://preview.bazel.build/rules
 - Missing 'REPORT AN ISSUE' and 'VIEW SOURCE' buttons at the top of the page content.
 - Missing external link icons for all links that previously had them (e.g., Docker/OCI, Go, Skylib, awesomebazel.com, GitHub).
 
+## /rules/bzl-style
+
+Old URL: https://bazel.build/rules/bzl-style
+New URL: https://preview.bazel.build/rules/bzl-style
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/bzl-style](data/rules/bzl-style/old.png) | ![https://preview.bazel.build/rules/bzl-style](data/rules/bzl-style/new.png) |
+
+- The 'Important' callout has lost its distinct styling, including the blue background and star icon, and now appears as a generic gray box.
+- There are unwanted spaces around inline code elements, particularly when they are inside parentheses or followed by punctuation (e.g., '( //visibility:private )' instead of '(//visibility:private)' and 'is , which' instead of 'is, which').
+
