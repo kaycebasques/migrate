@@ -2736,3 +2736,10 @@ New URL: https://preview.bazel.build/rules/lib/toplevel/attr
 
 OK
 
+## /rules/lib/toplevel/cc_common
+
+Old URL: https://bazel.build/rules/lib/toplevel/cc_common
+New URL: https://preview.bazel.build/rules/lib/toplevel/cc_common
+
+OK
+
