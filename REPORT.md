@@ -6400,3 +6400,10 @@ New URL: https://preview.bazel.build/versions/7.0.0/remote/rules
 
 ERROR
 
+## /versions/7.0.0/rules/lib/builtins/File
+
+Old URL: https://bazel.build/versions/7.0.0/rules/lib/builtins/File
+New URL: https://preview.bazel.build/versions/7.0.0/rules/lib/builtins/File
+
+ERROR
+
