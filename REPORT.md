@@ -7380,3 +7380,10 @@ New URL: https://preview.bazel.build/versions/7.2.0/reference/be/overview
 
 ERROR
 
+## /versions/7.2.0/reference/be/shell
+
+Old URL: https://bazel.build/versions/7.2.0/reference/be/shell
+New URL: https://preview.bazel.build/versions/7.2.0/reference/be/shell
+
+ERROR
+
