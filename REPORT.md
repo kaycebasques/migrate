@@ -15402,3 +15402,10 @@ New URL: https://preview.bazel.build/versions/8.4.0/rules/lib/repo
 
 ERROR
 
+## /versions/8.4.0/rules/lib/repo/git
+
+Old URL: https://bazel.build/versions/8.4.0/rules/lib/repo/git
+New URL: https://preview.bazel.build/versions/8.4.0/rules/lib/repo/git
+
+ERROR
+
