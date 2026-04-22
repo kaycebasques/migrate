@@ -9088,3 +9088,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/rules/lib/core/string
 
 ERROR
 
+## /versions/7.6.0/rules/lib/globals/all
+
+Old URL: https://bazel.build/versions/7.6.0/rules/lib/globals/all
+New URL: https://preview.bazel.build/versions/7.6.0/rules/lib/globals/all
+
+ERROR
+
