@@ -14289,3 +14289,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/rules/lib/builtins/runfiles
 
 ERROR
 
+## /versions/8.3.0/rules/lib/builtins/struct
+
+Old URL: https://bazel.build/versions/8.3.0/rules/lib/builtins/struct
+New URL: https://preview.bazel.build/versions/8.3.0/rules/lib/builtins/struct
+
+ERROR
+
