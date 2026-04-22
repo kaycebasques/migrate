@@ -5193,3 +5193,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/contribute/codebase
 
 OK
 
+## /versions/6.5.0/contribute/design-documents
+
+Old URL: https://bazel.build/versions/6.5.0/contribute/design-documents
+New URL: https://preview.bazel.build/versions/6.5.0/contribute/design-documents
+
+OK
+
