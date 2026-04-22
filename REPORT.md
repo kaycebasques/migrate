@@ -9816,3 +9816,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/reference/command-line-refer
 
 ERROR
 
+## /versions/7.7.0/reference/glossary
+
+Old URL: https://bazel.build/versions/7.7.0/reference/glossary
+New URL: https://preview.bazel.build/versions/7.7.0/reference/glossary
+
+ERROR
+
