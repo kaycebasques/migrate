@@ -2697,3 +2697,15 @@ New URL: https://preview.bazel.build/rules/lib/repo/local
 - The attribute names in the 'ATTRIBUTES' tables are wrapping awkwardly due to insufficient column width (e.g., 'name' is split into 'nam' and 'e').
 - There are missing spaces after periods in several attribute descriptions (e.g., 'repo.Exactly' and 'specified.The').
 
+## /rules/lib/repo/utils
+
+Old URL: https://bazel.build/rules/lib/repo/utils
+New URL: https://preview.bazel.build/rules/lib/repo/utils
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/repo/utils](data/rules/lib/repo/utils/old.png) | ![https://preview.bazel.build/rules/lib/repo/utils](data/rules/lib/repo/utils/new.png) |
+
+- All code blocks have merged lines due to missing newlines, making them difficult to read (e.g., the load statement and function call are on the same line).
+- The 'Parameters' tables are poorly formatted with very narrow columns for parameter names, causing words to break across lines (e.g., 'patch_cmds_win' is split into 'patch_cmds_w' and 'in', 'override' is split into 'overrid' and 'e').
+
