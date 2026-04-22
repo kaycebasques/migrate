@@ -10978,3 +10978,10 @@ New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/builtins/configura
 
 ERROR
 
+## /versions/8.0.0/rules/lib/builtins/ctx
+
+Old URL: https://bazel.build/versions/8.0.0/rules/lib/builtins/ctx
+New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/builtins/ctx
+
+ERROR
+
