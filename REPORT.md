@@ -11902,3 +11902,10 @@ New URL: https://preview.bazel.build/versions/8.1.0/rules/testing
 
 ERROR
 
+## /versions/8.1.0/start
+
+Old URL: https://bazel.build/versions/8.1.0/start
+New URL: https://preview.bazel.build/versions/8.1.0/start
+
+ERROR
+
