@@ -4433,3 +4433,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/start
 
 ERROR
 
+## /versions/6.2.0/start/android-app
+
+Old URL: https://bazel.build/versions/6.2.0/start/android-app
+New URL: https://preview.bazel.build/versions/6.2.0/start/android-app
+
+ERROR
+
