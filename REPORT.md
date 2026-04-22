@@ -11377,3 +11377,10 @@ New URL: https://preview.bazel.build/versions/8.1.0/contribute
 
 ERROR
 
+## /versions/8.1.0/docs
+
+Old URL: https://bazel.build/versions/8.1.0/docs
+New URL: https://preview.bazel.build/versions/8.1.0/docs
+
+ERROR
+
