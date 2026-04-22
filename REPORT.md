@@ -3047,3 +3047,10 @@ New URL: https://preview.bazel.build/versions/6.0.0/about/roadmap
 
 ERROR
 
+## /versions/6.0.0/about/vision
+
+Old URL: https://bazel.build/versions/6.0.0/about/vision
+New URL: https://preview.bazel.build/versions/6.0.0/about/vision
+
+ERROR
+
