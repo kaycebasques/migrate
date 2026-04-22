@@ -1666,3 +1666,14 @@ New URL: https://preview.bazel.build/rules/lib/builtins/Args
 
 OK
 
+## /rules/lib/builtins/Aspect
+
+Old URL: https://bazel.build/rules/lib/builtins/Aspect
+New URL: https://preview.bazel.build/rules/lib/builtins/Aspect
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/builtins/Aspect](data/rules/lib/builtins/Aspect/old.png) | ![https://preview.bazel.build/rules/lib/builtins/Aspect](data/rules/lib/builtins/Aspect/new.png) |
+
+- The words 'documentation of' are no longer included as part of the link to 'the aspect function'.
+
