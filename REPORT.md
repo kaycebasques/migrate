@@ -13281,3 +13281,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/about/why
 
 ERROR
 
+## /versions/8.3.0/advanced/performance/build-performance-breakdown
+
+Old URL: https://bazel.build/versions/8.3.0/advanced/performance/build-performance-breakdown
+New URL: https://preview.bazel.build/versions/8.3.0/advanced/performance/build-performance-breakdown
+
+ERROR
+
