@@ -15444,3 +15444,10 @@ New URL: https://preview.bazel.build/versions/8.4.0/rules/macro-tutorial
 
 ERROR
 
+## /versions/8.4.0/rules/performance
+
+Old URL: https://bazel.build/versions/8.4.0/rules/performance
+New URL: https://preview.bazel.build/versions/8.4.0/rules/performance
+
+ERROR
+
