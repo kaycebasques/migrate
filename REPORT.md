@@ -2386,3 +2386,10 @@ New URL: https://preview.bazel.build/rules/lib/globals/bzl
 
 OK
 
+## /rules/lib/globals/module
+
+Old URL: https://bazel.build/rules/lib/globals/module
+New URL: https://preview.bazel.build/rules/lib/globals/module
+
+OK
+
