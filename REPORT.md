@@ -4055,3 +4055,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/configure/coverage
 
 ERROR
 
+## /versions/6.2.0/configure/memory
+
+Old URL: https://bazel.build/versions/6.2.0/configure/memory
+New URL: https://preview.bazel.build/versions/6.2.0/configure/memory
+
+ERROR
+
