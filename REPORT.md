@@ -9858,3 +9858,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/remote/bep
 
 ERROR
 
+## /versions/7.7.0/remote/bep-examples
+
+Old URL: https://bazel.build/versions/7.7.0/remote/bep-examples
+New URL: https://preview.bazel.build/versions/7.7.0/remote/bep-examples
+
+ERROR
+
