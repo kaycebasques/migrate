@@ -2167,3 +2167,10 @@ New URL: https://preview.bazel.build/rules/lib/core
 
 OK
 
+## /rules/lib/core/bool
+
+Old URL: https://bazel.build/rules/lib/core/bool
+New URL: https://preview.bazel.build/rules/lib/core/bool
+
+OK
+
