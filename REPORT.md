@@ -5647,3 +5647,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/remote/bep
 
 OK
 
+## /versions/6.5.0/remote/bep-examples
+
+Old URL: https://bazel.build/versions/6.5.0/remote/bep-examples
+New URL: https://preview.bazel.build/versions/6.5.0/remote/bep-examples
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/remote/bep-examples](data/versions/6.5.0/remote/bep-examples/old.png) | ![https://preview.bazel.build/versions/6.5.0/remote/bep-examples](data/versions/6.5.0/remote/bep-examples/new.png) |
+
+- The 'Note' callout in the 'Aspect Results in BEP' section is unstyled in the new website; it appears as plain text instead of being contained within a colored callout box with an icon as it was in the original site.
+
