@@ -3110,3 +3110,10 @@ New URL: https://preview.bazel.build/versions/6.0.0/community/recommended-rules
 
 ERROR
 
+## /versions/6.0.0/community/sig
+
+Old URL: https://bazel.build/versions/6.0.0/community/sig
+New URL: https://preview.bazel.build/versions/6.0.0/community/sig
+
+ERROR
+
