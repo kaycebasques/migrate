@@ -2773,3 +2773,19 @@ New URL: https://preview.bazel.build/rules/lib/toplevel/coverage_common
 - The function signature for 'instrumented_files_info' is missing its parameters (the content after the function name is truncated or missing).
 - In the 'Parameters' table, the description text for each parameter is run together with the type and default value information on the same line, whereas the original used line breaks for better readability.
 
+## /rules/lib/toplevel/java_common
+
+Old URL: https://bazel.build/rules/lib/toplevel/java_common
+New URL: https://preview.bazel.build/rules/lib/toplevel/java_common
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/toplevel/java_common](data/rules/lib/toplevel/java_common/old.png) | ![https://preview.bazel.build/rules/lib/toplevel/java_common](data/rules/lib/toplevel/java_common/new.png) |
+
+- In the parameter tables (e.g., under 'compile', 'pack_sources'), the parameter type and default value information is merged with the description text on the same line, whereas it was previously on its own line.
+- Unnecessary spaces have been added before semicolons in parameter types, such as 'File ; or None ;' instead of 'File; or None;'.
+- In the 'pack_sources' section description, there is a stray period at the beginning of the sentence: '.At least one of parameters output_jar or output_source_jar is required.'
+- In the 'run_ijar' section description, the word 'recompiles' is incorrectly split into two parts ('recom piles') with the second part styled as a link.
+- In the 'stamp_jar' section, there is an extra space before the period following 'JavaInfo#compile_jar'.
+- In the 'compile' parameter table, the description for 'output_source_jar' is missing the single quotes around '{output_jar}-src.jar' that were present in the original.
+
