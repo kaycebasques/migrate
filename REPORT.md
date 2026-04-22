@@ -5922,3 +5922,18 @@ New URL: https://preview.bazel.build/versions/6.5.0/run/build
 
 - Unstyled callouts i.e. admonitions
 
+## /versions/6.5.0/run/client-server
+
+Old URL: https://bazel.build/versions/6.5.0/run/client-server
+New URL: https://preview.bazel.build/versions/6.5.0/run/client-server
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/run/client-server](data/versions/6.5.0/run/client-server/old.png) | ![https://preview.bazel.build/versions/6.5.0/run/client-server](data/versions/6.5.0/run/client-server/new.png) |
+
+- The command prompt ($) is missing from the code block.
+- The code block is missing syntax highlighting (red text for PID and time).
+- There is incorrect extra spacing within inline code snippets, such as 'ps - e f' instead of 'ps -e f' and 'bazel ( dirname )' instead of 'bazel(dirname)'.
+- There are extra spaces before punctuation marks, such as in ') .' and ') ,'.
+- The placeholder word 'dirname' is missing its italicization.
+

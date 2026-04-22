@@ -1,0 +1,9 @@
+{
+  "issues": [
+    "The command prompt ($) is missing from the code block.",
+    "The code block is missing syntax highlighting (red text for PID and time).",
+    "There is incorrect extra spacing within inline code snippets, such as 'ps - e f' instead of 'ps -e f' and 'bazel ( dirname )' instead of 'bazel(dirname)'.",
+    "There are extra spaces before punctuation marks, such as in ') .' and ') ,'.",
+    "The placeholder word 'dirname' is missing its italicization."
+  ]
+}
