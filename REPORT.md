@@ -5782,3 +5782,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/rules/bzl-style
 
 - The 'Important' admonition is unstyled; it has lost its background color, border, and icon, making it indistinguishable from regular paragraph text.
 
+## /versions/6.5.0/rules/deploying
+
+Old URL: https://bazel.build/versions/6.5.0/rules/deploying
+New URL: https://preview.bazel.build/versions/6.5.0/rules/deploying
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/rules/deploying](data/versions/6.5.0/rules/deploying/old.png) | ![https://preview.bazel.build/versions/6.5.0/rules/deploying](data/versions/6.5.0/rules/deploying/new.png) |
+
+- The 'On this page' sidebar has incorrect nesting: headings from 'WORKSPACE' through 'FAQs' are incorrectly nested as sub-items of 'Repository content', and the 'Why can't we add our rule to the main Bazel GitHub repository?' sub-heading is incorrectly displayed as a top-level item.
+

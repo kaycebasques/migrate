@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "The 'On this page' sidebar has incorrect nesting: headings from 'WORKSPACE' through 'FAQs' are incorrectly nested as sub-items of 'Repository content', and the 'Why can't we add our rule to the main Bazel GitHub repository?' sub-heading is incorrectly displayed as a top-level item."
+  ]
+}
