@@ -7212,3 +7212,10 @@ New URL: https://preview.bazel.build/versions/7.2.0/extending/concepts
 
 ERROR
 
+## /versions/7.2.0/extending/config
+
+Old URL: https://bazel.build/versions/7.2.0/extending/config
+New URL: https://preview.bazel.build/versions/7.2.0/extending/config
+
+ERROR
+
