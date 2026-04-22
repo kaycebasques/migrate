@@ -8668,3 +8668,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/extending/platforms
 
 ERROR
 
+## /versions/7.6.0/extending/repo
+
+Old URL: https://bazel.build/versions/7.6.0/extending/repo
+New URL: https://preview.bazel.build/versions/7.6.0/extending/repo
+
+ERROR
+
