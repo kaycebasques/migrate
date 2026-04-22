@@ -5286,3 +5286,15 @@ New URL: https://preview.bazel.build/versions/6.5.0/extending/aspects
 
 OK
 
+## /versions/6.5.0/extending/concepts
+
+Old URL: https://bazel.build/versions/6.5.0/extending/concepts
+New URL: https://preview.bazel.build/versions/6.5.0/extending/concepts
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/extending/concepts](data/versions/6.5.0/extending/concepts/old.png) | ![https://preview.bazel.build/versions/6.5.0/extending/concepts](data/versions/6.5.0/extending/concepts/new.png) |
+
+- Extra whitespace is incorrectly inserted before punctuation marks (periods and commas) that follow inline code blocks or links (e.g., after 'genrule', 'custom verbs', 'rules concepts', 'repository rules', and '.bzl style guide').
+- Unwanted leading whitespace inside the parentheses for the inline code element '( load() statements)'.
+

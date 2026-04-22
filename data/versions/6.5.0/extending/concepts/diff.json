@@ -1,0 +1,6 @@
+{
+  "issues": [
+    "Extra whitespace is incorrectly inserted before punctuation marks (periods and commas) that follow inline code blocks or links (e.g., after 'genrule', 'custom verbs', 'rules concepts', 'repository rules', and '.bzl style guide').",
+    "Unwanted leading whitespace inside the parentheses for the inline code element '( load() statements)'."
+  ]
+}
