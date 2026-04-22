@@ -14100,3 +14100,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/rules/lib/builtins/DottedVer
 
 ERROR
 
+## /versions/8.3.0/rules/lib/builtins/ExecGroupCollection
+
+Old URL: https://bazel.build/versions/8.3.0/rules/lib/builtins/ExecGroupCollection
+New URL: https://preview.bazel.build/versions/8.3.0/rules/lib/builtins/ExecGroupCollection
+
+ERROR
+
