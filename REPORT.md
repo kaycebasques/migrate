@@ -14583,3 +14583,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/tutorials/ccp-toolchain-conf
 
 ERROR
 
+## /versions/8.3.0/tutorials/cpp-dependency
+
+Old URL: https://bazel.build/versions/8.3.0/tutorials/cpp-dependency
+New URL: https://preview.bazel.build/versions/8.3.0/tutorials/cpp-dependency
+
+ERROR
+
