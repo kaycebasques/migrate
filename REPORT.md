@@ -10348,3 +10348,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/providers/ObjcProv
 
 ERROR
 
+## /versions/7.7.0/rules/lib/providers/PyInfo
+
+Old URL: https://bazel.build/versions/7.7.0/rules/lib/providers/PyInfo
+New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/providers/PyInfo
+
+ERROR
+
