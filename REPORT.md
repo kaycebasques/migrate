@@ -11783,3 +11783,10 @@ New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/core/tuple
 
 ERROR
 
+## /versions/8.1.0/rules/lib/fragments/apple
+
+Old URL: https://bazel.build/versions/8.1.0/rules/lib/fragments/apple
+New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/fragments/apple
+
+ERROR
+
