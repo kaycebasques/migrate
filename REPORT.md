@@ -16522,3 +16522,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/rules/lib/providers/OutputGr
 
 ERROR
 
+## /versions/8.5.0/rules/lib/repo
+
+Old URL: https://bazel.build/versions/8.5.0/rules/lib/repo
+New URL: https://preview.bazel.build/versions/8.5.0/rules/lib/repo
+
+ERROR
+
