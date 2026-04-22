@@ -4944,3 +4944,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/about
 - Inconsistent vertical spacing between list items across different sections; the 'Benefits' list items are much more spaced out than those in 'Using Bazel'.
 - Inconsistent punctuation following bolded item headers in the 'Using Bazel' list (e.g., steps 1 and 4 use periods, while steps 2 and 3 use commas).
 
+## /versions/6.5.0/about/faq
+
+Old URL: https://bazel.build/versions/6.5.0/about/faq
+New URL: https://preview.bazel.build/versions/6.5.0/about/faq
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/about/faq](data/versions/6.5.0/about/faq/old.png) | ![https://preview.bazel.build/versions/6.5.0/about/faq](data/versions/6.5.0/about/faq/new.png) |
+
+- The 'On this page' navigation sidebar in the new site is incomplete and does not include all the headings present in the document.
+
