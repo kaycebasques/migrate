@@ -1,0 +1,6 @@
+{
+  "issues": [
+    "In the 'libraries' section, there is a stray space between the code-formatted 'LibraryToLink' and the following period.",
+    "In the 'libraries' section, the link to GitHub issue #8118 is missing."
+  ]
+}
