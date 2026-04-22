@@ -4853,3 +4853,10 @@ New URL: https://preview.bazel.build/versions/6.4.0/reference/command-line-refer
 
 ERROR
 
+## /versions/6.4.0/remote/ci
+
+Old URL: https://bazel.build/versions/6.4.0/remote/ci
+New URL: https://preview.bazel.build/versions/6.4.0/remote/ci
+
+ERROR
+
