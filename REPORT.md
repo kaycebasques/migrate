@@ -11027,3 +11027,10 @@ New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/builtins/root
 
 ERROR
 
+## /versions/8.0.0/rules/lib/builtins/rule
+
+Old URL: https://bazel.build/versions/8.0.0/rules/lib/builtins/rule
+New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/builtins/rule
+
+ERROR
+
