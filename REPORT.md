@@ -2861,3 +2861,10 @@ New URL: https://preview.bazel.build/rules/testing
 
 OK
 
+## /rules/verbs-tutorial
+
+Old URL: https://bazel.build/rules/verbs-tutorial
+New URL: https://preview.bazel.build/rules/verbs-tutorial
+
+OK
+
