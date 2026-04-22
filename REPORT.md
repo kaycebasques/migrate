@@ -10803,3 +10803,10 @@ New URL: https://preview.bazel.build/versions/8.0.0/reference/glossary
 
 ERROR
 
+## /versions/8.0.0/release
+
+Old URL: https://bazel.build/versions/8.0.0/release
+New URL: https://preview.bazel.build/versions/8.0.0/release
+
+ERROR
+
