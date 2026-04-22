@@ -8752,3 +8752,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/install/os-x
 
 ERROR
 
+## /versions/7.6.0/install/suse
+
+Old URL: https://bazel.build/versions/7.6.0/install/suse
+New URL: https://preview.bazel.build/versions/7.6.0/install/suse
+
+ERROR
+
