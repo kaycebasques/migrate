@@ -4974,3 +4974,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/about/roadmap
 - Missing horizontal rules that were previously used to separate major sections like 'Overview', 'Q4 — Bazel 6.0 Release', and 'Future development'.
 - Incorrect spacing around inline code blocks in the first 'Bzlmod: external dependency management system' section, resulting in extra spaces before commas and inside parentheses (e.g., '( rules\_jvm\_external , rules\_go ... )' instead of '(rules\_jvm\_external, rules\_go...)').
 
+## /versions/6.5.0/about/vision
+
+Old URL: https://bazel.build/versions/6.5.0/about/vision
+New URL: https://preview.bazel.build/versions/6.5.0/about/vision
+
+OK
+
