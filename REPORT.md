@@ -13134,3 +13134,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/rules/testing
 
 ERROR
 
+## /versions/8.2.0/rules/verbs-tutorial
+
+Old URL: https://bazel.build/versions/8.2.0/rules/verbs-tutorial
+New URL: https://preview.bazel.build/versions/8.2.0/rules/verbs-tutorial
+
+ERROR
+
