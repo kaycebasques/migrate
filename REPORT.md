@@ -10166,3 +10166,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/repositor
 
 ERROR
 
+## /versions/7.7.0/rules/lib/builtins/repository_os
+
+Old URL: https://bazel.build/versions/7.7.0/rules/lib/builtins/repository_os
+New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/repository_os
+
+ERROR
+
