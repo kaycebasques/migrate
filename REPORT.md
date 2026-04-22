@@ -5416,3 +5416,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/install/ide
 
 OK
 
+## /versions/6.5.0/install/os-x
+
+Old URL: https://bazel.build/versions/6.5.0/install/os-x
+New URL: https://preview.bazel.build/versions/6.5.0/install/os-x
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/install/os-x](data/versions/6.5.0/install/os-x/old.png) | ![https://preview.bazel.build/versions/6.5.0/install/os-x](data/versions/6.5.0/install/os-x/new.png) |
+
+- Code blocks in Step 2, Step 3, and Step 4 contain unrendered and literal <var> tags around variable names.
+
