@@ -2789,3 +2789,17 @@ New URL: https://preview.bazel.build/rules/lib/toplevel/java_common
 - In the 'stamp_jar' section, there is an extra space before the period following 'JavaInfo#compile_jar'.
 - In the 'compile' parameter table, the description for 'output_source_jar' is missing the single quotes around '{output_jar}-src.jar' that were present in the original.
 
+## /rules/lib/toplevel/native
+
+Old URL: https://bazel.build/rules/lib/toplevel/native
+New URL: https://preview.bazel.build/rules/lib/toplevel/native
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/toplevel/native](data/rules/lib/toplevel/native/old.png) | ![https://preview.bazel.build/rules/lib/toplevel/native](data/rules/lib/toplevel/native/new.png) |
+
+- In the "glob" parameters table, the parameter name "exclude_directories" is incorrectly word-wrapped across two lines.
+- The "On this page" sidebar navigation is incomplete, missing the "repository_name" and "subpackages" sections.
+- In the "repository_name" section, the "Experimental" and "Deprecated" notices are merged into a single paragraph and contain an extra dash character.
+- In several parameter tables (such as for "glob", "package_relative_label", and "subpackages"), the default value or required status is merged into the same line as the description text, reducing readability.
+
