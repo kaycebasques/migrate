@@ -1,0 +1,7 @@
+{
+  "issues": [
+    "The 'On this page' sidebar on the right is incomplete and missing the final five sections of the page: 'preprocessor_executable', 'static_runtime_lib', 'strip_executable', 'sysroot', and 'target_gnu_system_name'.",
+    "The 'Parameters' sections have lost their table formatting, including row borders and header background colors, which makes the information less structured than on the old site.",
+    "In the 'sysroot' section's description text, an extra space has been introduced before the final period: '... returns `None` .'"
+  ]
+}

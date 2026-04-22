@@ -2465,3 +2465,16 @@ New URL: https://preview.bazel.build/rules/lib/providers/CcToolchainConfigInfo
 
 OK
 
+## /rules/lib/providers/CcToolchainInfo
+
+Old URL: https://bazel.build/rules/lib/providers/CcToolchainInfo
+New URL: https://preview.bazel.build/rules/lib/providers/CcToolchainInfo
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/providers/CcToolchainInfo](data/rules/lib/providers/CcToolchainInfo/old.png) | ![https://preview.bazel.build/rules/lib/providers/CcToolchainInfo](data/rules/lib/providers/CcToolchainInfo/new.png) |
+
+- The 'On this page' sidebar on the right is incomplete and missing the final five sections of the page: 'preprocessor_executable', 'static_runtime_lib', 'strip_executable', 'sysroot', and 'target_gnu_system_name'.
+- The 'Parameters' sections have lost their table formatting, including row borders and header background colors, which makes the information less structured than on the old site.
+- In the 'sysroot' section's description text, an extra space has been introduced before the final period: '... returns `None` .'
+
