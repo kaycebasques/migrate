@@ -2208,3 +2208,10 @@ New URL: https://preview.bazel.build/rules/lib/core/function
 
 OK
 
+## /rules/lib/core/int
+
+Old URL: https://bazel.build/rules/lib/core/int
+New URL: https://preview.bazel.build/rules/lib/core/int
+
+OK
+
