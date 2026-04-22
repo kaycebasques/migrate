@@ -7485,3 +7485,10 @@ New URL: https://preview.bazel.build/versions/7.2.0/rules/lib/overview
 
 ERROR
 
+## /versions/7.2.0/rules/lib/providers/PyInfo
+
+Old URL: https://bazel.build/versions/7.2.0/rules/lib/providers/PyInfo
+New URL: https://preview.bazel.build/versions/7.2.0/rules/lib/providers/PyInfo
+
+ERROR
+
