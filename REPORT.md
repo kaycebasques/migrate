@@ -2279,3 +2279,10 @@ New URL: https://preview.bazel.build/rules/lib/core/tuple
 
 OK
 
+## /rules/lib/fragments
+
+Old URL: https://bazel.build/rules/lib/fragments
+New URL: https://preview.bazel.build/rules/lib/fragments
+
+OK
+
