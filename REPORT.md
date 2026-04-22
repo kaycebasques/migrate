@@ -5311,3 +5311,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/extending/config
 - The TOC entry 'Defining 12+ transitions' contains a typo (missing colon), it should be 'Defining 1:2+ transitions' to match the corresponding section header.
 - There is a stray 'E.' character appearing before the 'On this page' heading in the right sidebar navigation.
 
+## /versions/6.5.0/extending/macros
+
+Old URL: https://bazel.build/versions/6.5.0/extending/macros
+New URL: https://preview.bazel.build/versions/6.5.0/extending/macros
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/extending/macros](data/versions/6.5.0/extending/macros/old.png) | ![https://preview.bazel.build/versions/6.5.0/extending/macros](data/versions/6.5.0/extending/macros/new.png) |
+
+- The Note callouts (admonitions) are unstyled on the new website; they are missing their background colors and icons.
+
