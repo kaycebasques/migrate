@@ -4391,3 +4391,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/rules/lib/cc_common
 
 ERROR
 
+## /versions/6.2.0/rules/lib/starlark-overview
+
+Old URL: https://bazel.build/versions/6.2.0/rules/lib/starlark-overview
+New URL: https://preview.bazel.build/versions/6.2.0/rules/lib/starlark-overview
+
+ERROR
+
