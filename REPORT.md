@@ -1961,3 +1961,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/extension_metadata
 
 OK
 
+## /rules/lib/builtins/fragments
+
+Old URL: https://bazel.build/rules/lib/builtins/fragments
+New URL: https://preview.bazel.build/rules/lib/builtins/fragments
+
+OK
+
