@@ -11741,3 +11741,10 @@ New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/core/float
 
 ERROR
 
+## /versions/8.1.0/rules/lib/core/function
+
+Old URL: https://bazel.build/versions/8.1.0/rules/lib/core/function
+New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/core/function
+
+ERROR
+
