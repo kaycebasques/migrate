@@ -1,0 +1,7 @@
+{
+  "issues": [
+    "The 'Best practices' section heading is missing from the main content area in the new site.",
+    "The admonition starting with 'Note: --cpu=x64_arm64_windows' in the 'Build C++ with MSVC' section is unstyled and appears as plain text.",
+    "Multiple code blocks (specifically in the C++, Java, and Python example sections) have had their separate command and output lines merged into a single line, and the shell prompts have been removed."
+  ]
+}

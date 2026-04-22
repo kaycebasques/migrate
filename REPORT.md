@@ -5162,3 +5162,16 @@ New URL: https://preview.bazel.build/versions/6.5.0/configure/memory
 - The inline code blocks have extra whitespace around them, causing awkward gaps in the text before punctuation like commas and periods.
 - The code snippet 'host_jvm_args=-Xmx2g' in the first paragraph is missing its leading double-dash ('--') prefix.
 
+## /versions/6.5.0/configure/windows
+
+Old URL: https://bazel.build/versions/6.5.0/configure/windows
+New URL: https://preview.bazel.build/versions/6.5.0/configure/windows
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/configure/windows](data/versions/6.5.0/configure/windows/old.png) | ![https://preview.bazel.build/versions/6.5.0/configure/windows](data/versions/6.5.0/configure/windows/new.png) |
+
+- The 'Best practices' section heading is missing from the main content area in the new site.
+- The admonition starting with 'Note: --cpu=x64_arm64_windows' in the 'Build C++ with MSVC' section is unstyled and appears as plain text.
+- Multiple code blocks (specifically in the C++, Java, and Python example sections) have had their separate command and output lines merged into a single line, and the shell prompts have been removed.
+
