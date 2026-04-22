@@ -2194,3 +2194,10 @@ New URL: https://preview.bazel.build/rules/lib/core/dict
 - The list describing ways to construct a dictionary has incorrect nesting: points 3 and 4 are rendered as sub-bullets under point 2.
 - The 'Parameters' tables throughout the page (e.g., for 'get', 'pop', 'setdefault', and 'update') are broken, with column content merged and table styling missing.
 
+## /rules/lib/core/float
+
+Old URL: https://bazel.build/rules/lib/core/float
+New URL: https://preview.bazel.build/rules/lib/core/float
+
+OK
+
