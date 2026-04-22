@@ -3768,3 +3768,10 @@ New URL: https://preview.bazel.build/versions/6.1.0/extending/repo
 
 ERROR
 
+## /versions/6.1.0/install
+
+Old URL: https://bazel.build/versions/6.1.0/install
+New URL: https://preview.bazel.build/versions/6.1.0/install
+
+ERROR
+
