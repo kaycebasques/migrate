@@ -10089,3 +10089,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/Target
 
 ERROR
 
+## /versions/7.7.0/rules/lib/builtins/ToolchainContext
+
+Old URL: https://bazel.build/versions/7.7.0/rules/lib/builtins/ToolchainContext
+New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/ToolchainContext
+
+ERROR
+
