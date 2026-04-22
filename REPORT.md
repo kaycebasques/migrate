@@ -1296,3 +1296,10 @@ New URL: https://preview.bazel.build/reference/be/shell
 - The 'View rule source' links have an error where the icon name text is concatenated with the link text: 'View rule sourceopen_in_new'.
 - In the attribute tables (e.g., under sh_binary Arguments), the description text for each attribute is concatenated on the same line as the type and requirement information, instead of being on a new line (e.g., 'Name; required A unique name for this target.').
 
+## /reference/be/workspace
+
+Old URL: https://bazel.build/reference/be/workspace
+New URL: https://preview.bazel.build/reference/be/workspace
+
+NOT_OK
+
