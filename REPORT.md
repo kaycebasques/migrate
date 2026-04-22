@@ -2975,3 +2975,14 @@ New URL: https://preview.bazel.build/start/java
 
 OK
 
+## /tutorials/ccp-toolchain-config
+
+Old URL: https://bazel.build/tutorials/ccp-toolchain-config
+New URL: https://preview.bazel.build/tutorials/ccp-toolchain-config
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/tutorials/ccp-toolchain-config](data/tutorials/ccp-toolchain-config/old.png) | ![https://preview.bazel.build/tutorials/ccp-toolchain-config](data/tutorials/ccp-toolchain-config/new.png) |
+
+- The 'Note' callout at the beginning of the 'Configure the C++ toolchain' section is missing its admonition styling, such as the blue background and information icon found in the original.
+

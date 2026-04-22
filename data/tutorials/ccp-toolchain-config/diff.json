@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "The 'Note' callout at the beginning of the 'Configure the C++ toolchain' section is missing its admonition styling, such as the blue background and information icon found in the original."
+  ]
+}
