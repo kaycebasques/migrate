@@ -16723,3 +16723,16 @@ New URL: https://preview.bazel.build/versions/9.0.0/install/bazelisk
 
 - The '--incompatible_*' code snippet is incorrectly split into two separate segments and spans across two lines.
 
+## /versions/9.0.0/release
+
+Old URL: https://bazel.build/versions/9.0.0/release
+New URL: https://preview.bazel.build/versions/9.0.0/release
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/9.0.0/release](data/versions/9.0.0/release/old.png) | ![https://preview.bazel.build/versions/9.0.0/release](data/versions/9.0.0/release/new.png) |
+
+- The note callout under the "Support matrix" section is unstyled, missing its blue background, border, and star icon.
+- Raw markdown link syntax is visible for "downstream test pipeline" in step 5 of the "Release procedure & policies" section.
+- The link for "bisect feature" in the "Report regressions" section is incorrectly rendered, with the raw URL visible in parentheses and the link text not being styled as a hyperlink.
+

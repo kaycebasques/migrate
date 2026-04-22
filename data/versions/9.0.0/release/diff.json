@@ -1,0 +1,7 @@
+{
+  "issues": [
+    "The note callout under the \"Support matrix\" section is unstyled, missing its blue background, border, and star icon.",
+    "Raw markdown link syntax is visible for \"downstream test pipeline\" in step 5 of the \"Release procedure & policies\" section.",
+    "The link for \"bisect feature\" in the \"Report regressions\" section is incorrectly rendered, with the raw URL visible in parentheses and the link text not being styled as a hyperlink."
+  ]
+}
