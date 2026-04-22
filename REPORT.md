@@ -7695,3 +7695,10 @@ New URL: https://preview.bazel.build/versions/7.3.0/extending/concepts
 
 ERROR
 
+## /versions/7.3.0/extending/macros
+
+Old URL: https://bazel.build/versions/7.3.0/extending/macros
+New URL: https://preview.bazel.build/versions/7.3.0/extending/macros
+
+ERROR
+
