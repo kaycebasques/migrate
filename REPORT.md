@@ -1698,3 +1698,16 @@ New URL: https://preview.bazel.build/rules/lib/builtins/CcCompilationOutputs
 
 OK
 
+## /rules/lib/builtins/CcLinkingOutputs
+
+Old URL: https://bazel.build/rules/lib/builtins/CcLinkingOutputs
+New URL: https://preview.bazel.build/rules/lib/builtins/CcLinkingOutputs
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/builtins/CcLinkingOutputs](data/rules/lib/builtins/CcLinkingOutputs/old.png) | ![https://preview.bazel.build/rules/lib/builtins/CcLinkingOutputs](data/rules/lib/builtins/CcLinkingOutputs/new.png) |
+
+- Inline code snippets (e.g., 'LibraryToLink', 'None') in the description sections are incorrectly causing line breaks, appearing on their own lines instead of inline with the surrounding text.
+- The 'REPORT AN ISSUE' and 'VIEW SOURCE' buttons are missing from the top of the page content.
+- Cross-links on types within code signatures and descriptions (e.g., 'File', 'LibraryToLink') have been lost and appear as plain text.
+
