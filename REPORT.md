@@ -4370,3 +4370,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/remote/rules
 
 ERROR
 
+## /versions/6.2.0/rules/bzl-style
+
+Old URL: https://bazel.build/versions/6.2.0/rules/bzl-style
+New URL: https://preview.bazel.build/versions/6.2.0/rules/bzl-style
+
+ERROR
+
