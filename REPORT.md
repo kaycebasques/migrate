@@ -2716,3 +2716,16 @@ New URL: https://preview.bazel.build/rules/lib/toplevel
 
 OK
 
+## /rules/lib/toplevel/apple_common
+
+Old URL: https://bazel.build/rules/lib/toplevel/apple_common
+New URL: https://preview.bazel.build/rules/lib/toplevel/apple_common
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/toplevel/apple_common](data/rules/lib/toplevel/apple_common/old.png) | ![https://preview.bazel.build/rules/lib/toplevel/apple_common](data/rules/lib/toplevel/apple_common/new.png) |
+
+- In the 'apple_host_system_env' parameters table, the word 'required' is merged into the description text without proper separation.
+- In the 'dotted_version' parameters table, 'string; required' is merged into the description text without proper separation.
+- In the 'target_apple_env' parameters table, the descriptions for both 'xcode_config' and 'platform' are missing.
+
