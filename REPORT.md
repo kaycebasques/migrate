@@ -1531,3 +1531,15 @@ New URL: https://preview.bazel.build/remote/rbe
 
 OK
 
+## /remote/rules
+
+Old URL: https://bazel.build/remote/rules
+New URL: https://preview.bazel.build/remote/rules
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/remote/rules](data/remote/rules/old.png) | ![https://preview.bazel.build/remote/rules](data/remote/rules/new.png) |
+
+- In the 'Invoking build tools through toolchain rules' section, the link for Scala is improperly rendered, displaying raw markdown syntax including the full URL: '[Scala](https://github.com/bazelbuild/rules_scala/blob/master/scala/scala_toolchain.bzl)'.
+- In the 'Invoking build tools through toolchain rules' section, the links for 'Rust' and 'Go' are missing and rendered as plain text.
+
