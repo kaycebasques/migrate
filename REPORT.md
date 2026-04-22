@@ -1426,3 +1426,10 @@ New URL: https://preview.bazel.build/remote/bep-glossary
 
 OK
 
+## /remote/cache-local
+
+Old URL: https://bazel.build/remote/cache-local
+New URL: https://preview.bazel.build/remote/cache-local
+
+OK
+
