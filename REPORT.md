@@ -15724,3 +15724,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/contribute/policy
 
 ERROR
 
+## /versions/8.5.0/contribute/search
+
+Old URL: https://bazel.build/versions/8.5.0/contribute/search
+New URL: https://preview.bazel.build/versions/8.5.0/contribute/search
+
+ERROR
+
