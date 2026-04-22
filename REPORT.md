@@ -9963,3 +9963,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/remote/workspace
 
 ERROR
 
+## /versions/7.7.0/rules
+
+Old URL: https://bazel.build/versions/7.7.0/rules
+New URL: https://preview.bazel.build/versions/7.7.0/rules
+
+ERROR
+
