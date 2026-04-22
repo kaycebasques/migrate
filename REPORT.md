@@ -15927,3 +15927,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/query/aquery
 
 ERROR
 
+## /versions/8.5.0/query/cquery
+
+Old URL: https://bazel.build/versions/8.5.0/query/cquery
+New URL: https://preview.bazel.build/versions/8.5.0/query/cquery
+
+ERROR
+
