@@ -13309,3 +13309,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/advanced/performance/json-tr
 
 ERROR
 
+## /versions/8.3.0/advanced/performance/memory
+
+Old URL: https://bazel.build/versions/8.3.0/advanced/performance/memory
+New URL: https://preview.bazel.build/versions/8.3.0/advanced/performance/memory
+
+ERROR
+
