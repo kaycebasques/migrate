@@ -2888,3 +2888,10 @@ New URL: https://preview.bazel.build/run/bazelrc
 - The 'Option precedence' heading is missing from the 'On this page' table of contents in the right sidebar.
 - The list under 'The inheritance (specificity) graph is:' has a nesting error; the final bullet point beginning with 'coverage, fetch, and vendor' should be nested under the previous point.
 
+## /run/build
+
+Old URL: https://bazel.build/run/build
+New URL: https://preview.bazel.build/run/build
+
+OK
+
