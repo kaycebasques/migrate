@@ -13358,3 +13358,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/community/experts
 
 ERROR
 
+## /versions/8.3.0/community/partners
+
+Old URL: https://bazel.build/versions/8.3.0/community/partners
+New URL: https://preview.bazel.build/versions/8.3.0/community/partners
+
+ERROR
+
