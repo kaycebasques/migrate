@@ -7184,3 +7184,10 @@ New URL: https://preview.bazel.build/versions/7.2.0/docs
 
 ERROR
 
+## /versions/7.2.0/docs/user-manual
+
+Old URL: https://bazel.build/versions/7.2.0/docs/user-manual
+New URL: https://preview.bazel.build/versions/7.2.0/docs/user-manual
+
+ERROR
+
