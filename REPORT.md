@@ -15990,3 +15990,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/reference/glossary
 
 ERROR
 
+## /versions/8.5.0/reference/test-encyclopedia
+
+Old URL: https://bazel.build/versions/8.5.0/reference/test-encyclopedia
+New URL: https://preview.bazel.build/versions/8.5.0/reference/test-encyclopedia
+
+ERROR
+
