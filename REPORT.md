@@ -15479,3 +15479,10 @@ New URL: https://preview.bazel.build/versions/8.4.0/rules/windows
 
 ERROR
 
+## /versions/8.4.0/start
+
+Old URL: https://bazel.build/versions/8.4.0/start
+New URL: https://preview.bazel.build/versions/8.4.0/start
+
+ERROR
+
