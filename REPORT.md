@@ -5226,3 +5226,16 @@ New URL: https://preview.bazel.build/versions/6.5.0/contribute/patch-acceptance
 
 OK
 
+## /versions/6.5.0/contribute/policy
+
+Old URL: https://bazel.build/versions/6.5.0/contribute/policy
+New URL: https://preview.bazel.build/versions/6.5.0/contribute/policy
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/contribute/policy](data/versions/6.5.0/contribute/policy/old.png) | ![https://preview.bazel.build/versions/6.5.0/contribute/policy](data/versions/6.5.0/contribute/policy/new.png) |
+
+- The page title has been incorrectly changed from 'Contribution policy' to 'Policy'.
+- Metadata fields (translation: human, page_type: lcat, title: 'Contribution policy') are being rendered as plain text content on the page.
+- The 'On this page' navigation sidebar incorrectly includes entries for the leaked metadata fields.
+

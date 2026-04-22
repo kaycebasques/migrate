@@ -1,0 +1,7 @@
+{
+  "issues": [
+    "The page title has been incorrectly changed from 'Contribution policy' to 'Policy'.",
+    "Metadata fields (translation: human, page_type: lcat, title: 'Contribution policy') are being rendered as plain text content on the page.",
+    "The 'On this page' navigation sidebar incorrectly includes entries for the leaked metadata fields."
+  ]
+}
