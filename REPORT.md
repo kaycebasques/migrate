@@ -10103,3 +10103,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/actions
 
 ERROR
 
+## /versions/7.7.0/rules/lib/builtins/bazel_module_tags
+
+Old URL: https://bazel.build/versions/7.7.0/rules/lib/builtins/bazel_module_tags
+New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/bazel_module_tags
+
+ERROR
+
