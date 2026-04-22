@@ -5793,3 +5793,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/rules/deploying
 
 - The 'On this page' sidebar has incorrect nesting: headings from 'WORKSPACE' through 'FAQs' are incorrectly nested as sub-items of 'Repository content', and the 'Why can't we add our rule to the main Bazel GitHub repository?' sub-heading is incorrectly displayed as a top-level item.
 
+## /versions/6.5.0/rules/language
+
+Old URL: https://bazel.build/versions/6.5.0/rules/language
+New URL: https://preview.bazel.build/versions/6.5.0/rules/language
+
+OK
+
