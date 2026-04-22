@@ -15857,3 +15857,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/install/completion
 
 ERROR
 
+## /versions/8.5.0/install/docker-container
+
+Old URL: https://bazel.build/versions/8.5.0/install/docker-container
+New URL: https://preview.bazel.build/versions/8.5.0/install/docker-container
+
+ERROR
+
