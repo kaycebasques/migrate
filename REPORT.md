@@ -2496,3 +2496,17 @@ New URL: https://preview.bazel.build/rules/lib/providers/ConstraintValueInfo
 
 - The separate paragraph starting with 'Note: This API is experimental...' has been merged into the preceding paragraph.
 
+## /rules/lib/providers/DebugPackageInfo
+
+Old URL: https://bazel.build/rules/lib/providers/DebugPackageInfo
+New URL: https://preview.bazel.build/rules/lib/providers/DebugPackageInfo
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/providers/DebugPackageInfo](data/rules/lib/providers/DebugPackageInfo/old.png) | ![https://preview.bazel.build/rules/lib/providers/DebugPackageInfo](data/rules/lib/providers/DebugPackageInfo/new.png) |
+
+- In the "Parameters" table, the parameter description text is not separated from the type and requirement information by a line break, unlike in the original version.
+- Double hyphens in command-line flags have been incorrectly converted to em-dashes (e.g., "—fission=no" instead of "--fission=no") in both the "Parameters" table and the "dwp_file" section.
+- There is inconsistent and incorrect spacing around semicolons in the "Parameters" table descriptions for "stripped_file" and "dwp_file" (e.g., "File; or None ; default is None").
+- An unrendered template tag "{@url ...}" appears in the introductory paragraph.
+

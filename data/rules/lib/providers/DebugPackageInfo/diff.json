@@ -1,0 +1,8 @@
+{
+  "issues": [
+    "In the \"Parameters\" table, the parameter description text is not separated from the type and requirement information by a line break, unlike in the original version.",
+    "Double hyphens in command-line flags have been incorrectly converted to em-dashes (e.g., \"\u2014fission=no\" instead of \"--fission=no\") in both the \"Parameters\" table and the \"dwp_file\" section.",
+    "There is inconsistent and incorrect spacing around semicolons in the \"Parameters\" table descriptions for \"stripped_file\" and \"dwp_file\" (e.g., \"File; or None ; default is None\").",
+    "An unrendered template tag \"{@url ...}\" appears in the introductory paragraph."
+  ]
+}
