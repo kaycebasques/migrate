@@ -2662,3 +2662,14 @@ New URL: https://preview.bazel.build/rules/lib/repo/cache
 
 OK
 
+## /rules/lib/repo/git
+
+Old URL: https://bazel.build/rules/lib/repo/git
+New URL: https://preview.bazel.build/rules/lib/repo/git
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/repo/git](data/rules/lib/repo/git/old.png) | ![https://preview.bazel.build/rules/lib/repo/git](data/rules/lib/repo/git/new.png) |
+
+- In the 'ATTRIBUTES' tables for both 'git_repository' and 'new_git_repository', the first column is too narrow, causing attribute names to be split across multiple lines and making them difficult to read (e.g., 'branch' is rendered as 'br', 'an', 'ch').
+

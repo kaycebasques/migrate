@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "In the 'ATTRIBUTES' tables for both 'git_repository' and 'new_git_repository', the first column is too narrow, causing attribute names to be split across multiple lines and making them difficult to read (e.g., 'branch' is rendered as 'br', 'an', 'ch')."
+  ]
+}
