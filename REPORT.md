@@ -4573,3 +4573,10 @@ New URL: https://preview.bazel.build/versions/6.3.0/install/bazelisk
 
 ERROR
 
+## /versions/6.3.0/install/os-x
+
+Old URL: https://bazel.build/versions/6.3.0/install/os-x
+New URL: https://preview.bazel.build/versions/6.3.0/install/os-x
+
+ERROR
+
