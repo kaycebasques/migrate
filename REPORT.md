@@ -5095,3 +5095,17 @@ New URL: https://preview.bazel.build/versions/6.5.0/concepts/build-ref
 
 - The footer link 'Labelsarrow_forward' contains the literal text 'arrow_forward' instead of rendering an icon.
 
+## /versions/6.5.0/concepts/dependencies
+
+Old URL: https://bazel.build/versions/6.5.0/concepts/dependencies
+New URL: https://preview.bazel.build/versions/6.5.0/concepts/dependencies
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/concepts/dependencies](data/versions/6.5.0/concepts/dependencies/old.png) | ![https://preview.bazel.build/versions/6.5.0/concepts/dependencies](data/versions/6.5.0/concepts/dependencies/new.png) |
+
+- The "Important" and "Note" callout boxes are unstyled and missing their respective icons.
+- Raw "<strong>" HTML tags are visible inside the code block under the "3. Divergence between declared and actual dependency graphs" section.
+- The "Not recommended" and "Recommended" list items in the "Using labels to reference directories" section are missing their thumbs-down and thumbs-up icons.
+- The bottom navigation links at the end of the page are incorrectly formatted, displaying raw icon text strings like "arrow_back" and "arrow_forward".
+
