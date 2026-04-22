@@ -4300,3 +4300,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/reference/be/protocol-buffer
 
 ERROR
 
+## /versions/6.2.0/reference/glossary
+
+Old URL: https://bazel.build/versions/6.2.0/reference/glossary
+New URL: https://preview.bazel.build/versions/6.2.0/reference/glossary
+
+ERROR
+
