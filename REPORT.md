@@ -7898,3 +7898,10 @@ New URL: https://preview.bazel.build/versions/7.3.0/rules/language
 
 ERROR
 
+## /versions/7.3.0/rules/lib/globals/all
+
+Old URL: https://bazel.build/versions/7.3.0/rules/lib/globals/all
+New URL: https://preview.bazel.build/versions/7.3.0/rules/lib/globals/all
+
+ERROR
+
