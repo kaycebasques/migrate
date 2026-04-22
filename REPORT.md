@@ -6701,3 +6701,10 @@ New URL: https://preview.bazel.build/versions/7.1.0/extending/config
 
 ERROR
 
+## /versions/7.1.0/extending/macros
+
+Old URL: https://bazel.build/versions/7.1.0/extending/macros
+New URL: https://preview.bazel.build/versions/7.1.0/extending/macros
+
+ERROR
+
