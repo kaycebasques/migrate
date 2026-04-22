@@ -9130,3 +9130,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/rules/lib/providers/DefaultI
 
 ERROR
 
+## /versions/7.6.0/rules/lib/repo/git
+
+Old URL: https://bazel.build/versions/7.6.0/rules/lib/repo/git
+New URL: https://preview.bazel.build/versions/7.6.0/rules/lib/repo/git
+
+ERROR
+
