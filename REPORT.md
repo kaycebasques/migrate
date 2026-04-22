@@ -9676,3 +9676,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/install/docker-container
 
 ERROR
 
+## /versions/7.7.0/install/ide
+
+Old URL: https://bazel.build/versions/7.7.0/install/ide
+New URL: https://preview.bazel.build/versions/7.7.0/install/ide
+
+ERROR
+
