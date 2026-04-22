@@ -6225,3 +6225,10 @@ New URL: https://preview.bazel.build/versions/7.0.0/extending/platforms
 
 ERROR
 
+## /versions/7.0.0/extending/rules
+
+Old URL: https://bazel.build/versions/7.0.0/extending/rules
+New URL: https://preview.bazel.build/versions/7.0.0/extending/rules
+
+ERROR
+
