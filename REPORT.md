@@ -2078,3 +2078,14 @@ New URL: https://preview.bazel.build/rules/lib/builtins/rule_attributes
 - There is inconsistent bolding in the 'Members' list; 'executable', 'files', and 'toolchains' are bolded while other items are not.
 - Inline code elements (e.g., 'struct', 'executable=True', 'None', 'File', 'allow_single_file') are missing monospaced font formatting throughout the page.
 
+## /rules/lib/builtins/runfiles
+
+Old URL: https://bazel.build/rules/lib/builtins/runfiles
+New URL: https://preview.bazel.build/rules/lib/builtins/runfiles
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/builtins/runfiles](data/rules/lib/builtins/runfiles/old.png) | ![https://preview.bazel.build/rules/lib/builtins/runfiles](data/rules/lib/builtins/runfiles/new.png) |
+
+- In the 'Parameters' tables for 'merge' and 'merge_all', the description text is missing a line break after the requirement status ('; required'), causing it to be concatenated onto the same line as the parameter metadata.
+

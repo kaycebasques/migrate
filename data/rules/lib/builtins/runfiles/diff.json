@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "In the 'Parameters' tables for 'merge' and 'merge_all', the description text is missing a line break after the requirement status ('; required'), causing it to be concatenated onto the same line as the parameter metadata."
+  ]
+}
