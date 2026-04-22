@@ -15843,3 +15843,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/install/bazelisk
 
 ERROR
 
+## /versions/8.5.0/install/compile-source
+
+Old URL: https://bazel.build/versions/8.5.0/install/compile-source
+New URL: https://preview.bazel.build/versions/8.5.0/install/compile-source
+
+ERROR
+
