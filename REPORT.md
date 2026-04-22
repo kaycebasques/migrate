@@ -8584,3 +8584,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/contribute/docs
 
 ERROR
 
+## /versions/7.6.0/contribute/maintainers-guide
+
+Old URL: https://bazel.build/versions/7.6.0/contribute/maintainers-guide
+New URL: https://preview.bazel.build/versions/7.6.0/contribute/maintainers-guide
+
+ERROR
+
