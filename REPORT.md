@@ -1847,3 +1847,16 @@ New URL: https://preview.bazel.build/rules/lib/builtins/SymlinkEntry
 
 OK
 
+## /rules/lib/builtins/Target
+
+Old URL: https://bazel.build/rules/lib/builtins/Target
+New URL: https://preview.bazel.build/rules/lib/builtins/Target
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/builtins/Target](data/rules/lib/builtins/Target/old.png) | ![https://preview.bazel.build/rules/lib/builtins/Target](data/rules/lib/builtins/Target/new.png) |
+
+- In the 'label' section, the description text 'The identifier of the target.' is on the same line as the code snippet, whereas it was on a new line in the original site.
+- Multiple hyperlinks are missing in the new site: 'label' and 'label_list' in the introductory paragraph, and the 'Label' type in the 'label' section are no longer clickable links.
+- Unnecessary extra whitespace has been introduced around inline code blocks when they are enclosed in parentheses, such as '( label or label_list )', '( target[DefaultInfo] )', and '( SomeInfo in target )'.
+
