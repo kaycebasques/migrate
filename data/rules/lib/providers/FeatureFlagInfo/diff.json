@@ -1,0 +1,6 @@
+{
+  "issues": [
+    "The 'Parameters' table for 'is_valid_value' is missing a line break in the 'Description' column, causing the type information ('string; required') to be merged into the same line as the parameter's descriptive text.",
+    "Types within the code block signatures (such as 'string' and 'bool') are no longer hyperlinked, whereas they were links in the original documentation."
+  ]
+}

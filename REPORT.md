@@ -2534,3 +2534,15 @@ New URL: https://preview.bazel.build/rules/lib/providers/ExecutionInfo
 
 - In the Parameters table, the description for 'requirements' contains unrendered HTML entities: '&lcub;&rcub;' instead of '{}'.
 
+## /rules/lib/providers/FeatureFlagInfo
+
+Old URL: https://bazel.build/rules/lib/providers/FeatureFlagInfo
+New URL: https://preview.bazel.build/rules/lib/providers/FeatureFlagInfo
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/providers/FeatureFlagInfo](data/rules/lib/providers/FeatureFlagInfo/old.png) | ![https://preview.bazel.build/rules/lib/providers/FeatureFlagInfo](data/rules/lib/providers/FeatureFlagInfo/new.png) |
+
+- The 'Parameters' table for 'is_valid_value' is missing a line break in the 'Description' column, causing the type information ('string; required') to be merged into the same line as the parameter's descriptive text.
+- Types within the code block signatures (such as 'string' and 'bool') are no longer hyperlinked, whereas they were links in the original documentation.
+
