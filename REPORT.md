@@ -10187,3 +10187,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/rule_attr
 
 ERROR
 
+## /versions/7.7.0/rules/lib/builtins/runfiles
+
+Old URL: https://bazel.build/versions/7.7.0/rules/lib/builtins/runfiles
+New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/runfiles
+
+ERROR
+
