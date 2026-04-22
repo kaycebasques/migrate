@@ -1458,3 +1458,17 @@ New URL: https://preview.bazel.build/remote/caching
 - Multiple inline code elements (e.g., '.bazelrc', '~', 'build --disk_cache', and '--remote_upload_local_results=false') are missing monospaced styling and appear as regular body text.
 - Syntax highlighting is missing or incomplete in many code blocks; for example, comments and keywords in the 'nginx' configuration block are not color-coded as they were in the original site.
 
+## /remote/ci
+
+Old URL: https://bazel.build/remote/ci
+New URL: https://preview.bazel.build/remote/ci
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/remote/ci](data/remote/ci/old.png) | ![https://preview.bazel.build/remote/ci](data/remote/ci/new.png) |
+
+- The heading 'Running the custom container' is improperly rendered, displaying raw HTML tags: <h3>id="run-custom-container">.
+- A section of the 'Running the custom container' instructions contains raw, unrendered Markdown syntax, including backticks and the 'posix-terminal' language identifier.
+- Under 'Building the rbe-ubuntu16-04 container from source', the third point has an empty code block, while the command text is rendered as plain text below it with incorrect formatting.
+- Raw <var> tags are visible in the body text and inside code blocks (e.g., <var>my_tool_package</var>), indicating a parsing error.
+

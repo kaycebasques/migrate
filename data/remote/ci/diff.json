@@ -1,0 +1,8 @@
+{
+  "issues": [
+    "The heading 'Running the custom container' is improperly rendered, displaying raw HTML tags: <h3>id=\"run-custom-container\">.",
+    "A section of the 'Running the custom container' instructions contains raw, unrendered Markdown syntax, including backticks and the 'posix-terminal' language identifier.",
+    "Under 'Building the rbe-ubuntu16-04 container from source', the third point has an empty code block, while the command text is rendered as plain text below it with incorrect formatting.",
+    "Raw <var> tags are visible in the body text and inside code blocks (e.g., <var>my_tool_package</var>), indicating a parsing error."
+  ]
+}
