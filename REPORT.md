@@ -3908,3 +3908,10 @@ New URL: https://preview.bazel.build/versions/6.1.0/rules/rules-tutorial
 
 ERROR
 
+## /versions/6.1.0/run/bazelrc
+
+Old URL: https://bazel.build/versions/6.1.0/run/bazelrc
+New URL: https://preview.bazel.build/versions/6.1.0/run/bazelrc
+
+ERROR
+
