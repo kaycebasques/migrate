@@ -9599,3 +9599,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/extending/exec-groups
 
 ERROR
 
+## /versions/7.7.0/extending/macros
+
+Old URL: https://bazel.build/versions/7.7.0/extending/macros
+New URL: https://preview.bazel.build/versions/7.7.0/extending/macros
+
+ERROR
+
