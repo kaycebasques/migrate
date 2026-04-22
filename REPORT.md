@@ -8472,3 +8472,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/build/share-variables
 
 ERROR
 
+## /versions/7.6.0/build/style-guide
+
+Old URL: https://bazel.build/versions/7.6.0/build/style-guide
+New URL: https://preview.bazel.build/versions/7.6.0/build/style-guide
+
+ERROR
+
