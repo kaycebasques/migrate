@@ -1758,3 +1758,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/Facts
 - Line breaks are missing within the cells of the 'Parameters' table, causing text that should be on separate lines to be merged (e.g., 'required' and 'The key to look up').
 - Extra spaces have been introduced before punctuation marks (periods, commas, and parentheses) that follow inline code blocks in the introductory paragraph.
 
+## /rules/lib/builtins/FeatureConfiguration
+
+Old URL: https://bazel.build/rules/lib/builtins/FeatureConfiguration
+New URL: https://preview.bazel.build/rules/lib/builtins/FeatureConfiguration
+
+OK
+
