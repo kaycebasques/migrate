@@ -2648,3 +2648,10 @@ New URL: https://preview.bazel.build/rules/lib/providers/java_output_jars
 
 OK
 
+## /rules/lib/repo
+
+Old URL: https://bazel.build/rules/lib/repo
+New URL: https://preview.bazel.build/rules/lib/repo
+
+OK
+
