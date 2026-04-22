@@ -16214,3 +16214,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/rules/lib/builtins/FeatureCo
 
 ERROR
 
+## /versions/8.5.0/rules/lib/builtins/File
+
+Old URL: https://bazel.build/versions/8.5.0/rules/lib/builtins/File
+New URL: https://preview.bazel.build/versions/8.5.0/rules/lib/builtins/File
+
+ERROR
+
