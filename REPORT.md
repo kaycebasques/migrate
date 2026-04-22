@@ -3999,3 +3999,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/community
 
 ERROR
 
+## /versions/6.2.0/community/sig
+
+Old URL: https://bazel.build/versions/6.2.0/community/sig
+New URL: https://preview.bazel.build/versions/6.2.0/community/sig
+
+ERROR
+
