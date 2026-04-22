@@ -12182,3 +12182,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/contribute/docs
 
 ERROR
 
+## /versions/8.2.0/contribute/docs-style-guide
+
+Old URL: https://bazel.build/versions/8.2.0/contribute/docs-style-guide
+New URL: https://preview.bazel.build/versions/8.2.0/contribute/docs-style-guide
+
+ERROR
+
