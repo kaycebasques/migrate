@@ -1483,3 +1483,10 @@ New URL: https://preview.bazel.build/remote/creating
 
 - The 'Note' callout in the 'Work action requirements' section is unstyled in the new website, appearing as a regular paragraph instead of a styled admonition box.
 
+## /remote/dynamic
+
+Old URL: https://bazel.build/remote/dynamic
+New URL: https://preview.bazel.build/remote/dynamic
+
+OK
+
