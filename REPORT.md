@@ -1800,3 +1800,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/LibraryToLink
 
 OK
 
+## /rules/lib/builtins/License
+
+Old URL: https://bazel.build/rules/lib/builtins/License
+New URL: https://preview.bazel.build/rules/lib/builtins/License
+
+OK
+
