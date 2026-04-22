@@ -4734,3 +4734,10 @@ New URL: https://preview.bazel.build/versions/6.4.0/concepts/platforms
 
 ERROR
 
+## /versions/6.4.0/docs
+
+Old URL: https://bazel.build/versions/6.4.0/docs
+New URL: https://preview.bazel.build/versions/6.4.0/docs
+
+ERROR
+
