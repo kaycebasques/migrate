@@ -5640,3 +5640,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/release/versioning
 
 - The roadmap diagram (Figure 1) is missing and replaced by the text placeholder '[Roadmap]' in the new version.
 
+## /versions/6.5.0/remote/bep
+
+Old URL: https://bazel.build/versions/6.5.0/remote/bep
+New URL: https://preview.bazel.build/versions/6.5.0/remote/bep
+
+OK
+
