@@ -5956,3 +5956,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/start
 - Markdown links are not being correctly parsed throughout the page, leaving raw markdown syntax (brackets and parentheses) visible to the user.
 - Markdown image syntax is not being rendered in the 'Summary: stage 1' section, leaving the raw source text visible instead of an image.
 
+## /versions/6.5.0/start/android-app
+
+Old URL: https://bazel.build/versions/6.5.0/start/android-app
+New URL: https://preview.bazel.build/versions/6.5.0/start/android-app
+
+OK
+
