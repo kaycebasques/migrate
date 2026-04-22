@@ -8185,3 +8185,10 @@ New URL: https://preview.bazel.build/versions/7.4.0/start/cpp
 
 ERROR
 
+## /versions/7.4.0/tutorials/cpp-use-cases
+
+Old URL: https://bazel.build/versions/7.4.0/tutorials/cpp-use-cases
+New URL: https://preview.bazel.build/versions/7.4.0/tutorials/cpp-use-cases
+
+ERROR
+
