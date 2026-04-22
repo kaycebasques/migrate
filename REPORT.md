@@ -8598,3 +8598,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/contribute/patch-acceptance
 
 ERROR
 
+## /versions/7.6.0/contribute/policy
+
+Old URL: https://bazel.build/versions/7.6.0/contribute/policy
+New URL: https://preview.bazel.build/versions/7.6.0/contribute/policy
+
+ERROR
+
