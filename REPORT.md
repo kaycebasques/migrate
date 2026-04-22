@@ -1860,3 +1860,15 @@ New URL: https://preview.bazel.build/rules/lib/builtins/Target
 - Multiple hyperlinks are missing in the new site: 'label' and 'label_list' in the introductory paragraph, and the 'Label' type in the 'label' section are no longer clickable links.
 - Unnecessary extra whitespace has been introduced around inline code blocks when they are enclosed in parentheses, such as '( label or label_list )', '( target[DefaultInfo] )', and '( SomeInfo in target )'.
 
+## /rules/lib/builtins/TemplateDict
+
+Old URL: https://bazel.build/rules/lib/builtins/TemplateDict
+New URL: https://preview.bazel.build/rules/lib/builtins/TemplateDict
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/builtins/TemplateDict](data/rules/lib/builtins/TemplateDict/old.png) | ![https://preview.bazel.build/rules/lib/builtins/TemplateDict](data/rules/lib/builtins/TemplateDict/new.png) |
+
+- Missing line breaks between parameter metadata (type and requirement) and descriptions in the 'Parameters' tables.
+- Extraneous spaces before punctuation in parameter descriptions, specifically before the comma after 'map_each', before the period after 'string.join()', and before the semicolon in the 'format_joined' row.
+
