@@ -7891,3 +7891,10 @@ New URL: https://preview.bazel.build/versions/7.3.0/remote/rules
 
 ERROR
 
+## /versions/7.3.0/rules/language
+
+Old URL: https://bazel.build/versions/7.3.0/rules/language
+New URL: https://preview.bazel.build/versions/7.3.0/rules/language
+
+ERROR
+
