@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "The inline code '--incompatible_*' in the 'Recommended migration process' section is incorrectly split into two separate code spans and broken across two lines."
+  ]
+}

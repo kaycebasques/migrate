@@ -5367,3 +5367,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/install
 
 OK
 
+## /versions/6.5.0/install/bazelisk
+
+Old URL: https://bazel.build/versions/6.5.0/install/bazelisk
+New URL: https://preview.bazel.build/versions/6.5.0/install/bazelisk
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/install/bazelisk](data/versions/6.5.0/install/bazelisk/old.png) | ![https://preview.bazel.build/versions/6.5.0/install/bazelisk](data/versions/6.5.0/install/bazelisk/new.png) |
+
+- The inline code '--incompatible_*' in the 'Recommended migration process' section is incorrectly split into two separate code spans and broken across two lines.
+
