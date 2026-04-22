@@ -6715,3 +6715,10 @@ New URL: https://preview.bazel.build/versions/7.1.0/extending/rules
 
 ERROR
 
+## /versions/7.1.0/external/overview
+
+Old URL: https://bazel.build/versions/7.1.0/external/overview
+New URL: https://preview.bazel.build/versions/7.1.0/external/overview
+
+ERROR
+
