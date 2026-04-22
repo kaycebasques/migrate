@@ -11937,3 +11937,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/about
 
 ERROR
 
+## /versions/8.2.0/about/faq
+
+Old URL: https://bazel.build/versions/8.2.0/about/faq
+New URL: https://preview.bazel.build/versions/8.2.0/about/faq
+
+ERROR
+
