@@ -10145,3 +10145,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/fragments
 
 ERROR
 
+## /versions/7.7.0/rules/lib/builtins/module_ctx
+
+Old URL: https://bazel.build/versions/7.7.0/rules/lib/builtins/module_ctx
+New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/module_ctx
+
+ERROR
+
