@@ -1897,3 +1897,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/apple_platform
 
 OK
 
+## /rules/lib/builtins/bazel_module
+
+Old URL: https://bazel.build/rules/lib/builtins/bazel_module
+New URL: https://preview.bazel.build/rules/lib/builtins/bazel_module
+
+OK
+
