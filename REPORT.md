@@ -5539,3 +5539,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/query/quickstart
 
 - Several callouts (admonitions) that had a blue star icon and distinct styling in the original version (e.g., under the sections 'Tracing the dependency chain between two packages', 'What package dependencies exist...', and 'What depends on...') have lost their formatting and appear as plain text in the new version.
 
+## /versions/6.5.0/reference
+
+Old URL: https://bazel.build/versions/6.5.0/reference
+New URL: https://preview.bazel.build/versions/6.5.0/reference
+
+ERROR
+
