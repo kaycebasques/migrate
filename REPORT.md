@@ -9053,3 +9053,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/rules/lib/builtins/struct
 
 ERROR
 
+## /versions/7.6.0/rules/lib/core/bool
+
+Old URL: https://bazel.build/versions/7.6.0/rules/lib/core/bool
+New URL: https://preview.bazel.build/versions/7.6.0/rules/lib/core/bool
+
+ERROR
+
