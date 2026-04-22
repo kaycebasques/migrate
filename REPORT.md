@@ -12903,3 +12903,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/rules/lib/builtins/path
 
 ERROR
 
+## /versions/8.2.0/rules/lib/builtins/repository_ctx
+
+Old URL: https://bazel.build/versions/8.2.0/rules/lib/builtins/repository_ctx
+New URL: https://preview.bazel.build/versions/8.2.0/rules/lib/builtins/repository_ctx
+
+ERROR
+
