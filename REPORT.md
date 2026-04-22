@@ -1524,3 +1524,10 @@ New URL: https://preview.bazel.build/remote/persistent
 
 - In the 'Using persistent workers' section, the first code block incorrectly displays literal '<var>' and '</var>' tags around 'my:target'.
 
+## /remote/rbe
+
+Old URL: https://bazel.build/remote/rbe
+New URL: https://preview.bazel.build/remote/rbe
+
+OK
+
