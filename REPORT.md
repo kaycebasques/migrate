@@ -5020,3 +5020,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/community/experts
 
 ERROR
 
+## /versions/6.5.0/community/recommended-rules
+
+Old URL: https://bazel.build/versions/6.5.0/community/recommended-rules
+New URL: https://preview.bazel.build/versions/6.5.0/community/recommended-rules
+
+OK
+
