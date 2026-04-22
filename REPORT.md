@@ -16417,3 +16417,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/rules/lib/core/int
 
 ERROR
 
+## /versions/8.5.0/rules/lib/core/list
+
+Old URL: https://bazel.build/versions/8.5.0/rules/lib/core/list
+New URL: https://preview.bazel.build/versions/8.5.0/rules/lib/core/list
+
+ERROR
+
