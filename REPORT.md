@@ -1567,3 +1567,16 @@ New URL: https://preview.bazel.build/remote/workspace
 
 - The note callout in the 'Finding non-hermetic rules' section has lost its styling (blue background and star icon) and is now plain text.
 
+## /rules
+
+Old URL: https://bazel.build/rules
+New URL: https://preview.bazel.build/rules
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules](data/rules/old.png) | ![https://preview.bazel.build/rules](data/rules/new.png) |
+
+- Inconsistent bolding of links throughout the page: links in the 'Recommended rules' list and some in-text links (e.g., 'define new rules', 'requirements for recommended rules') are bolded, while others (e.g., links in the 'Native rules' section, 'Skylib', 'awesomebazel.com', 'GitHub') are not.
+- Missing 'REPORT AN ISSUE' and 'VIEW SOURCE' buttons at the top of the page content.
+- Missing external link icons for all links that previously had them (e.g., Docker/OCI, Go, Skylib, awesomebazel.com, GitHub).
+
