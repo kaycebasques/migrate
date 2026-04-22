@@ -5186,3 +5186,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/contribute
 
 - Extra spaces have been introduced before punctuation marks (specifically periods) following links and inline code blocks (e.g., "bazel clean .", "on Slack .", "src/main/protobuf .", "src/test/java .", etc.).
 
+## /versions/6.5.0/contribute/codebase
+
+Old URL: https://bazel.build/versions/6.5.0/contribute/codebase
+New URL: https://preview.bazel.build/versions/6.5.0/contribute/codebase
+
+OK
+
