@@ -16116,3 +16116,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/remote/rules
 
 ERROR
 
+## /versions/8.5.0/remote/sandbox
+
+Old URL: https://bazel.build/versions/8.5.0/remote/sandbox
+New URL: https://preview.bazel.build/versions/8.5.0/remote/sandbox
+
+ERROR
+
