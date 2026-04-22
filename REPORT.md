@@ -2379,3 +2379,10 @@ New URL: https://preview.bazel.build/rules/lib/globals/build
 - In the 'Parameters' tables, long parameter names are incorrectly broken mid-word due to narrow column widths (e.g., 'exclude_directories' is broken into 'exclude_directorie' and 's' in the 'glob' section, and 'allow_empty' is broken into 'allow_empt' and 'y' in the 'subpackages' section).
 - The 'On this page' navigation sidebar incorrectly includes 'Parameters' sub-links for sections that do not actually have a Parameters section (e.g., existing_rules, module_name, module_version, package_default_visibility, package_name, repo_name, and repository_name).
 
+## /rules/lib/globals/bzl
+
+Old URL: https://bazel.build/rules/lib/globals/bzl
+New URL: https://preview.bazel.build/rules/lib/globals/bzl
+
+OK
+
