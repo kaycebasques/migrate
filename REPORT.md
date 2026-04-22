@@ -2108,3 +2108,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/subrule_ctx
 
 OK
 
+## /rules/lib/builtins/tag_class
+
+Old URL: https://bazel.build/rules/lib/builtins/tag_class
+New URL: https://preview.bazel.build/rules/lib/builtins/tag_class
+
+OK
+
