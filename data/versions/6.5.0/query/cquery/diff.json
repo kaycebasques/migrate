@@ -1,0 +1,6 @@
+{
+  "issues": [
+    "In several code blocks, the '<' character is incorrectly rendered as the HTML entity '&lt;'. This can be seen in the introductory example under 'Configurable query (cquery)', the 'Using cquery options' section, and the 'Non-deterministic output' section.",
+    "In some genrule examples, such as those under 'Using cquery options' and 'Non-deterministic output', the '$<' variable is incorrectly rendered as '&lt;', resulting in the loss of the '$' character."
+  ]
+}

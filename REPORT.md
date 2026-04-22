@@ -5509,3 +5509,15 @@ New URL: https://preview.bazel.build/versions/6.5.0/query/aquery
 - Unstyled 'Warning' callout under the 'Aquery options' section.
 - Unstyled 'Note' callout under the 'Aquery options' section.
 
+## /versions/6.5.0/query/cquery
+
+Old URL: https://bazel.build/versions/6.5.0/query/cquery
+New URL: https://preview.bazel.build/versions/6.5.0/query/cquery
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/query/cquery](data/versions/6.5.0/query/cquery/old.png) | ![https://preview.bazel.build/versions/6.5.0/query/cquery](data/versions/6.5.0/query/cquery/new.png) |
+
+- In several code blocks, the '<' character is incorrectly rendered as the HTML entity '&lt;'. This can be seen in the introductory example under 'Configurable query (cquery)', the 'Using cquery options' section, and the 'Non-deterministic output' section.
+- In some genrule examples, such as those under 'Using cquery options' and 'Non-deterministic output', the '$<' variable is incorrectly rendered as '&lt;', resulting in the loss of the '$' character.
+
