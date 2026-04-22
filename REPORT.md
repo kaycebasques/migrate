@@ -5128,3 +5128,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/configure/attributes
 
 ERROR
 
+## /versions/6.5.0/configure/best-practices
+
+Old URL: https://bazel.build/versions/6.5.0/configure/best-practices
+New URL: https://preview.bazel.build/versions/6.5.0/configure/best-practices
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/configure/best-practices](data/versions/6.5.0/configure/best-practices/old.png) | ![https://preview.bazel.build/versions/6.5.0/configure/best-practices](data/versions/6.5.0/configure/best-practices/new.png) |
+
+- Literal HTML tags (<var>) are visible in the text under the 'Using the .bazelrc file' section.
+

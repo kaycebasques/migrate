@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "Literal HTML tags (<var>) are visible in the text under the 'Using the .bazelrc file' section."
+  ]
+}
