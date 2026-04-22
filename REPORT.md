@@ -8892,3 +8892,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/release
 
 ERROR
 
+## /versions/7.6.0/remote/bep
+
+Old URL: https://bazel.build/versions/7.6.0/remote/bep
+New URL: https://preview.bazel.build/versions/7.6.0/remote/bep
+
+ERROR
+
