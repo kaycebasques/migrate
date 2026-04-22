@@ -13715,3 +13715,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/install/suse
 
 ERROR
 
+## /versions/8.3.0/install/ubuntu
+
+Old URL: https://bazel.build/versions/8.3.0/install/ubuntu
+New URL: https://preview.bazel.build/versions/8.3.0/install/ubuntu
+
+ERROR
+
