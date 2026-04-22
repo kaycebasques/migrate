@@ -11790,3 +11790,10 @@ New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/fragments/apple
 
 ERROR
 
+## /versions/8.1.0/rules/lib/globals/all
+
+Old URL: https://bazel.build/versions/8.1.0/rules/lib/globals/all
+New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/globals/all
+
+ERROR
+
