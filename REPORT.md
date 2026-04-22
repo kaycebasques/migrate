@@ -11041,3 +11041,10 @@ New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/builtins/rule_attr
 
 ERROR
 
+## /versions/8.0.0/rules/lib/builtins/runfiles
+
+Old URL: https://bazel.build/versions/8.0.0/rules/lib/builtins/runfiles
+New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/builtins/runfiles
+
+ERROR
+
