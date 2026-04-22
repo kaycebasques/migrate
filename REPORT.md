@@ -8416,3 +8416,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/about/roadmap
 
 ERROR
 
+## /versions/7.6.0/about/vision
+
+Old URL: https://bazel.build/versions/7.6.0/about/vision
+New URL: https://preview.bazel.build/versions/7.6.0/about/vision
+
+ERROR
+
