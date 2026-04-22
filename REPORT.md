@@ -7338,3 +7338,10 @@ New URL: https://preview.bazel.build/versions/7.2.0/migrate/maven
 
 ERROR
 
+## /versions/7.2.0/query/aquery
+
+Old URL: https://bazel.build/versions/7.2.0/query/aquery
+New URL: https://preview.bazel.build/versions/7.2.0/query/aquery
+
+ERROR
+
