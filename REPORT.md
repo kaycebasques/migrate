@@ -3243,3 +3243,10 @@ New URL: https://preview.bazel.build/versions/6.0.0/extending/exec-groups
 
 ERROR
 
+## /versions/6.0.0/extending/macros
+
+Old URL: https://bazel.build/versions/6.0.0/extending/macros
+New URL: https://preview.bazel.build/versions/6.0.0/extending/macros
+
+ERROR
+
