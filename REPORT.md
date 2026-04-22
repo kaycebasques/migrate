@@ -7415,3 +7415,10 @@ New URL: https://preview.bazel.build/versions/7.2.0/remote/output-directories
 
 ERROR
 
+## /versions/7.2.0/remote/rbe
+
+Old URL: https://bazel.build/versions/7.2.0/remote/rbe
+New URL: https://preview.bazel.build/versions/7.2.0/remote/rbe
+
+ERROR
+
