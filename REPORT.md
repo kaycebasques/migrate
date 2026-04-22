@@ -9144,3 +9144,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/rules/lib/repo/http
 
 ERROR
 
+## /versions/7.6.0/rules/lib/toplevel/attr
+
+Old URL: https://bazel.build/versions/7.6.0/rules/lib/toplevel/attr
+New URL: https://preview.bazel.build/versions/7.6.0/rules/lib/toplevel/attr
+
+ERROR
+
