@@ -10761,3 +10761,10 @@ New URL: https://preview.bazel.build/versions/8.0.0/reference/be/overview
 
 ERROR
 
+## /versions/8.0.0/reference/be/python
+
+Old URL: https://bazel.build/versions/8.0.0/reference/be/python
+New URL: https://preview.bazel.build/versions/8.0.0/reference/be/python
+
+ERROR
+
