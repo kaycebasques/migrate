@@ -4992,3 +4992,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/basics
 
 - The "Note" callout is unstyled and missing its icon and background color.
 
+## /versions/6.5.0/build/share-variables
+
+Old URL: https://bazel.build/versions/6.5.0/build/share-variables
+New URL: https://preview.bazel.build/versions/6.5.0/build/share-variables
+
+OK
+
