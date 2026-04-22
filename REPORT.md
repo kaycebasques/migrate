@@ -10313,3 +10313,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/providers/CcInfo
 
 ERROR
 
+## /versions/7.7.0/rules/lib/providers/DebugPackageInfo
+
+Old URL: https://bazel.build/versions/7.7.0/rules/lib/providers/DebugPackageInfo
+New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/providers/DebugPackageInfo
+
+ERROR
+
