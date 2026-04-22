@@ -16690,3 +16690,18 @@ New URL: https://preview.bazel.build/versions/9.0.0
 
 OK
 
+## /versions/9.0.0/extending
+
+Old URL: https://bazel.build/versions/9.0.0/extending
+New URL: https://preview.bazel.build/versions/9.0.0/extending
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/9.0.0/extending](data/versions/9.0.0/extending/old.png) | ![https://preview.bazel.build/versions/9.0.0/extending](data/versions/9.0.0/extending/new.png) |
+
+- The landing page's hero image, card-based navigation grid, and sub-navigation menu from the original site have been entirely replaced with a standard documentation article layout.
+- The page title has changed from 'Extending Bazel' to 'Extension Overview', representing a significant discrepancy if these are meant to be the same page.
+- There are stray spaces appearing before punctuation marks (periods and commas) when they follow inline code-styled text or links, such as in '.bzl .', 'genrule ,', and '.bzl style guide .'.
+- The term 'BUILD' is inconsistently styled as plain text in the first paragraph, whereas it is consistently code-styled throughout the rest of the document.
+- There is awkward and inconsistent spacing inside parentheses that contain code blocks, notably in the phrase '( `load()` statements)' where there are stray spaces around the internal code element.
+
