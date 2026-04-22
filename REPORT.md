@@ -6007,3 +6007,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/tutorials/cpp-dependency
 
 OK
 
+## /versions/6.5.0/tutorials/cpp-labels
+
+Old URL: https://bazel.build/versions/6.5.0/tutorials/cpp-labels
+New URL: https://preview.bazel.build/versions/6.5.0/tutorials/cpp-labels
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/tutorials/cpp-labels](data/versions/6.5.0/tutorials/cpp-labels/old.png) | ![https://preview.bazel.build/versions/6.5.0/tutorials/cpp-labels](data/versions/6.5.0/tutorials/cpp-labels/new.png) |
+
+- Extra whitespace is present before punctuation marks following inline code blocks in several instances (e.g., at the end of the first and third paragraphs).
+
