@@ -15822,3 +15822,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/extending/toolchains
 
 ERROR
 
+## /versions/8.5.0/help
+
+Old URL: https://bazel.build/versions/8.5.0/help
+New URL: https://preview.bazel.build/versions/8.5.0/help
+
+ERROR
+
