@@ -3502,3 +3502,10 @@ New URL: https://preview.bazel.build/versions/6.0.0/remote/sandbox
 
 ERROR
 
+## /versions/6.0.0/rules/deploying
+
+Old URL: https://bazel.build/versions/6.0.0/rules/deploying
+New URL: https://preview.bazel.build/versions/6.0.0/rules/deploying
+
+ERROR
+
