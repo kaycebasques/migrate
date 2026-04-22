@@ -15689,3 +15689,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/configure/windows
 
 ERROR
 
+## /versions/8.5.0/contribute
+
+Old URL: https://bazel.build/versions/8.5.0/contribute
+New URL: https://preview.bazel.build/versions/8.5.0/contribute
+
+ERROR
+
