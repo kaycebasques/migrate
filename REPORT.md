@@ -4776,3 +4776,10 @@ New URL: https://preview.bazel.build/versions/6.4.0/install
 
 ERROR
 
+## /versions/6.4.0/install/ide
+
+Old URL: https://bazel.build/versions/6.4.0/install/ide
+New URL: https://preview.bazel.build/versions/6.4.0/install/ide
+
+ERROR
+
