@@ -4615,3 +4615,10 @@ New URL: https://preview.bazel.build/versions/6.3.0/remote/caching
 
 ERROR
 
+## /versions/6.3.0/remote/ci
+
+Old URL: https://bazel.build/versions/6.3.0/remote/ci
+New URL: https://preview.bazel.build/versions/6.3.0/remote/ci
+
+ERROR
+
