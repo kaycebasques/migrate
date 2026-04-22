@@ -3313,3 +3313,10 @@ New URL: https://preview.bazel.build/versions/6.0.0/install/os-x
 
 ERROR
 
+## /versions/6.0.0/install/redhat
+
+Old URL: https://bazel.build/versions/6.0.0/install/redhat
+New URL: https://preview.bazel.build/versions/6.0.0/install/redhat
+
+ERROR
+
