@@ -12203,3 +12203,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/contribute/patch-acceptance
 
 ERROR
 
+## /versions/8.2.0/contribute/policy
+
+Old URL: https://bazel.build/versions/8.2.0/contribute/policy
+New URL: https://preview.bazel.build/versions/8.2.0/contribute/policy
+
+ERROR
+
