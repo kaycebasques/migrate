@@ -5739,3 +5739,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/remote/persistent
 
 - The first code block under the "Using persistent workers" section contains unrendered HTML tags: 'bazel build //<var>my:target</var> --strategy=Javac=worker,local'.
 
+## /versions/6.5.0/remote/rbe
+
+Old URL: https://bazel.build/versions/6.5.0/remote/rbe
+New URL: https://preview.bazel.build/versions/6.5.0/remote/rbe
+
+OK
+
