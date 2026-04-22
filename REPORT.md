@@ -2553,3 +2553,10 @@ New URL: https://preview.bazel.build/rules/lib/providers/FilesToRunProvider
 
 OK
 
+## /rules/lib/providers/InstrumentedFilesInfo
+
+Old URL: https://bazel.build/rules/lib/providers/InstrumentedFilesInfo
+New URL: https://preview.bazel.build/rules/lib/providers/InstrumentedFilesInfo
+
+OK
+
