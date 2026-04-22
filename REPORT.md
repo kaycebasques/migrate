@@ -4293,3 +4293,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/reference/be/overview
 
 ERROR
 
+## /versions/6.2.0/reference/be/protocol-buffer
+
+Old URL: https://bazel.build/versions/6.2.0/reference/be/protocol-buffer
+New URL: https://preview.bazel.build/versions/6.2.0/reference/be/protocol-buffer
+
+ERROR
+
