@@ -13190,3 +13190,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/start/android-app
 
 ERROR
 
+## /versions/8.2.0/start/cpp
+
+Old URL: https://bazel.build/versions/8.2.0/start/cpp
+New URL: https://preview.bazel.build/versions/8.2.0/start/cpp
+
+ERROR
+
