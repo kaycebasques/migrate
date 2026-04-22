@@ -11055,3 +11055,10 @@ New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/builtins/struct
 
 ERROR
 
+## /versions/8.0.0/rules/lib/builtins/tag_class
+
+Old URL: https://bazel.build/versions/8.0.0/rules/lib/builtins/tag_class
+New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/builtins/tag_class
+
+ERROR
+
