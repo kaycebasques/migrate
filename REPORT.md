@@ -9606,3 +9606,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/extending/macros
 
 ERROR
 
+## /versions/7.7.0/extending/platforms
+
+Old URL: https://bazel.build/versions/7.7.0/extending/platforms
+New URL: https://preview.bazel.build/versions/7.7.0/extending/platforms
+
+ERROR
+
