@@ -4981,3 +4981,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/about/vision
 
 OK
 
+## /versions/6.5.0/basics
+
+Old URL: https://bazel.build/versions/6.5.0/basics
+New URL: https://preview.bazel.build/versions/6.5.0/basics
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/basics](data/versions/6.5.0/basics/old.png) | ![https://preview.bazel.build/versions/6.5.0/basics](data/versions/6.5.0/basics/new.png) |
+
+- The "Note" callout is unstyled and missing its icon and background color.
+
