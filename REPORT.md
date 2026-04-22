@@ -2293,3 +2293,10 @@ New URL: https://preview.bazel.build/rules/lib/fragments/apple
 
 OK
 
+## /rules/lib/fragments/bazel_android
+
+Old URL: https://bazel.build/rules/lib/fragments/bazel_android
+New URL: https://preview.bazel.build/rules/lib/fragments/bazel_android
+
+OK
+
