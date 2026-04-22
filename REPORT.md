@@ -5346,3 +5346,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/extending/repo
 - Extra whitespace has been incorrectly introduced before closing punctuation (periods and parentheses) in several locations throughout the document, particularly following inline code or links (e.g., 'WORKSPACE file .', 'new_local_repository .', 'bazel sync --configure .', and 'mypkg/label.txt ) .').
 - An extra word 'and' was added to the text in the final bullet point of the 'When is the implementation function executed?' section ('...//mypkg:label.txt and not mypkg/label.txt').
 
+## /versions/6.5.0/extending/rules
+
+Old URL: https://bazel.build/versions/6.5.0/extending/rules
+New URL: https://preview.bazel.build/versions/6.5.0/extending/rules
+
+OK
+
