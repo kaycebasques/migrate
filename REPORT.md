@@ -10306,3 +10306,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/overview
 
 ERROR
 
+## /versions/7.7.0/rules/lib/providers/CcInfo
+
+Old URL: https://bazel.build/versions/7.7.0/rules/lib/providers/CcInfo
+New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/providers/CcInfo
+
+ERROR
+
