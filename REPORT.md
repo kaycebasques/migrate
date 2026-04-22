@@ -8577,3 +8577,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/contribute
 
 ERROR
 
+## /versions/7.6.0/contribute/docs
+
+Old URL: https://bazel.build/versions/7.6.0/contribute/docs
+New URL: https://preview.bazel.build/versions/7.6.0/contribute/docs
+
+ERROR
+
