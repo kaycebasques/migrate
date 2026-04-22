@@ -5856,3 +5856,15 @@ New URL: https://preview.bazel.build/versions/6.5.0/rules/lib/starlark-overview
 
 ERROR
 
+## /versions/6.5.0/rules/macro-tutorial
+
+Old URL: https://bazel.build/versions/6.5.0/rules/macro-tutorial
+New URL: https://preview.bazel.build/versions/6.5.0/rules/macro-tutorial
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/rules/macro-tutorial](data/versions/6.5.0/rules/macro-tutorial/old.png) | ![https://preview.bazel.build/versions/6.5.0/rules/macro-tutorial](data/versions/6.5.0/rules/macro-tutorial/new.png) |
+
+- In the 'A few remarks' section, inline code styling (monospace font and background highlight) is inconsistently applied; it is missing for terms like 'name', 'genrule', and 'native.' but present for others like 'visibility' and 'tags'.
+- The syntax highlighting in the 'miniature.bzl' code block is inconsistent, as the second line of the docstring ('The generated file...') is rendered in black while the surrounding lines are blue.
+

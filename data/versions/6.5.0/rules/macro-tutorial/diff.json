@@ -1,0 +1,6 @@
+{
+  "issues": [
+    "In the 'A few remarks' section, inline code styling (monospace font and background highlight) is inconsistently applied; it is missing for terms like 'name', 'genrule', and 'native.' but present for others like 'visibility' and 'tags'.",
+    "The syntax highlighting in the 'miniature.bzl' code block is inconsistent, as the second line of the docstring ('The generated file...') is rendered in black while the surrounding lines are blue."
+  ]
+}
