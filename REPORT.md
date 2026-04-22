@@ -2007,3 +2007,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/path
 
 OK
 
+## /rules/lib/builtins/propagation_ctx
+
+Old URL: https://bazel.build/rules/lib/builtins/propagation_ctx
+New URL: https://preview.bazel.build/rules/lib/builtins/propagation_ctx
+
+OK
+
