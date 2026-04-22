@@ -2407,3 +2407,10 @@ New URL: https://preview.bazel.build/rules/lib/globals/repo
 - The link for '_package()' in the 'repo' parameters table is styled inconsistently in black text, while other links on the page are green.
 - In the 'ignore_directories' parameters table, the link for 'strings' incorrectly includes the trailing semicolon.
 
+## /rules/lib/globals/vendor
+
+Old URL: https://bazel.build/rules/lib/globals/vendor
+New URL: https://preview.bazel.build/rules/lib/globals/vendor
+
+OK
+
