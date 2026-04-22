@@ -14751,3 +14751,10 @@ New URL: https://preview.bazel.build/versions/8.4.0/extending/auto-exec-groups
 
 ERROR
 
+## /versions/8.4.0/extending/concepts
+
+Old URL: https://bazel.build/versions/8.4.0/extending/concepts
+New URL: https://preview.bazel.build/versions/8.4.0/extending/concepts
+
+ERROR
+
