@@ -2986,3 +2986,10 @@ New URL: https://preview.bazel.build/tutorials/ccp-toolchain-config
 
 - The 'Note' callout at the beginning of the 'Configure the C++ toolchain' section is missing its admonition styling, such as the blue background and information icon found in the original.
 
+## /tutorials/cpp-dependency
+
+Old URL: https://bazel.build/tutorials/cpp-dependency
+New URL: https://preview.bazel.build/tutorials/cpp-dependency
+
+OK
+
