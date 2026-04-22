@@ -5322,3 +5322,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/extending/macros
 
 - The Note callouts (admonitions) are unstyled on the new website; they are missing their background colors and icons.
 
+## /versions/6.5.0/extending/platforms
+
+Old URL: https://bazel.build/versions/6.5.0/extending/platforms
+New URL: https://preview.bazel.build/versions/6.5.0/extending/platforms
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/extending/platforms](data/versions/6.5.0/extending/platforms/old.png) | ![https://preview.bazel.build/versions/6.5.0/extending/platforms](data/versions/6.5.0/extending/platforms/new.png) |
+
+- Unstyled callouts (admonitions) for notes. Specifically, the blue boxed notes with star icons in the old site have lost their distinctive styling in the new site.
+
