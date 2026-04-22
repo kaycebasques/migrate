@@ -3138,3 +3138,10 @@ New URL: https://preview.bazel.build/versions/6.0.0/concepts/build-files
 
 ERROR
 
+## /versions/6.0.0/concepts/build-ref
+
+Old URL: https://bazel.build/versions/6.0.0/concepts/build-ref
+New URL: https://preview.bazel.build/versions/6.0.0/concepts/build-ref
+
+ERROR
+
