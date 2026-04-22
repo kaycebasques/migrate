@@ -3922,3 +3922,10 @@ New URL: https://preview.bazel.build/versions/6.1.0/run/build
 
 ERROR
 
+## /versions/6.1.0/start
+
+Old URL: https://bazel.build/versions/6.1.0/start
+New URL: https://preview.bazel.build/versions/6.1.0/start
+
+ERROR
+
