@@ -6092,3 +6092,10 @@ New URL: https://preview.bazel.build/versions/7.0.0/build/style-guide
 
 ERROR
 
+## /versions/7.0.0/community
+
+Old URL: https://bazel.build/versions/7.0.0/community
+New URL: https://preview.bazel.build/versions/7.0.0/community
+
+ERROR
+
