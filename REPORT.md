@@ -5253,3 +5253,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/docs
 
 ERROR
 
+## /versions/6.5.0/docs/user-manual
+
+Old URL: https://bazel.build/versions/6.5.0/docs/user-manual
+New URL: https://preview.bazel.build/versions/6.5.0/docs/user-manual
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/docs/user-manual](data/versions/6.5.0/docs/user-manual/old.png) | ![https://preview.bazel.build/versions/6.5.0/docs/user-manual](data/versions/6.5.0/docs/user-manual/new.png) |
+
+- The main content area of the new website is missing nearly all of the text, code blocks, and headings that are present in the original version, resulting in a mostly blank page.
+
