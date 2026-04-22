@@ -2014,3 +2014,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/propagation_ctx
 
 OK
 
+## /rules/lib/builtins/repo_metadata
+
+Old URL: https://bazel.build/rules/lib/builtins/repo_metadata
+New URL: https://preview.bazel.build/rules/lib/builtins/repo_metadata
+
+OK
+
