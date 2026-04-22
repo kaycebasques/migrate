@@ -14667,3 +14667,10 @@ New URL: https://preview.bazel.build/versions/8.4.0/community/update
 
 ERROR
 
+## /versions/8.4.0/concepts/build-files
+
+Old URL: https://bazel.build/versions/8.4.0/concepts/build-files
+New URL: https://preview.bazel.build/versions/8.4.0/concepts/build-files
+
+ERROR
+
