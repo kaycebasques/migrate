@@ -2321,3 +2321,10 @@ New URL: https://preview.bazel.build/rules/lib/fragments/java
 
 OK
 
+## /rules/lib/fragments/objc
+
+Old URL: https://bazel.build/rules/lib/fragments/objc
+New URL: https://preview.bazel.build/rules/lib/fragments/objc
+
+OK
+
