@@ -5047,3 +5047,18 @@ New URL: https://preview.bazel.build/versions/6.5.0/community/sig
 - Technical terms and links that were previously styled as monospace code (e.g., 'bazelbuild', 'bazel-discuss', 'bazelbuild/community', 'SIG-request-template.md') are now displayed in the standard sans-serif font.
 - There is an unnecessary extra space before the period following the term 'bazelbuild' at the end of the first paragraph.
 
+## /versions/6.5.0/community/update
+
+Old URL: https://bazel.build/versions/6.5.0/community/update
+New URL: https://preview.bazel.build/versions/6.5.0/community/update
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/community/update](data/versions/6.5.0/community/update/old.png) | ![https://preview.bazel.build/versions/6.5.0/community/update](data/versions/6.5.0/community/update/new.png) |
+
+- The table containing the community updates is missing.
+- The 'REPORT AN ISSUE' and 'VIEW SOURCE' buttons are missing.
+- The breadcrumb navigation (Bazel > Community > Programs) is missing.
+- The version selector links are missing.
+- The introductory text 'Join Bazel developer relations engineers for the monthly community update livestream, or catch up on past ones.' is missing.
+

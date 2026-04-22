@@ -1,0 +1,9 @@
+{
+  "issues": [
+    "The table containing the community updates is missing.",
+    "The 'REPORT AN ISSUE' and 'VIEW SOURCE' buttons are missing.",
+    "The breadcrumb navigation (Bazel > Community > Programs) is missing.",
+    "The version selector links are missing.",
+    "The introductory text 'Join Bazel developer relations engineers for the monthly community update livestream, or catch up on past ones.' is missing."
+  ]
+}
