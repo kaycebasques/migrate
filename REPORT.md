@@ -11412,3 +11412,10 @@ New URL: https://preview.bazel.build/versions/8.1.0/extending/rules
 
 ERROR
 
+## /versions/8.1.0/help
+
+Old URL: https://bazel.build/versions/8.1.0/help
+New URL: https://preview.bazel.build/versions/8.1.0/help
+
+ERROR
+
