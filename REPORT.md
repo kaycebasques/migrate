@@ -2367,3 +2367,15 @@ New URL: https://preview.bazel.build/rules/lib/globals/all
 
 - The Parameters tables in the new site are missing punctuation (semicolons and periods) and appropriate spacing between parameter metadata (type, required/default status) and the descriptive text, causing the information to run together.
 
+## /rules/lib/globals/build
+
+Old URL: https://bazel.build/rules/lib/globals/build
+New URL: https://preview.bazel.build/rules/lib/globals/build
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/globals/build](data/rules/lib/globals/build/old.png) | ![https://preview.bazel.build/rules/lib/globals/build](data/rules/lib/globals/build/new.png) |
+
+- In the 'Parameters' tables, long parameter names are incorrectly broken mid-word due to narrow column widths (e.g., 'exclude_directories' is broken into 'exclude_directorie' and 's' in the 'glob' section, and 'allow_empty' is broken into 'allow_empt' and 'y' in the 'subpackages' section).
+- The 'On this page' navigation sidebar incorrectly includes 'Parameters' sub-links for sections that do not actually have a Parameters section (e.g., existing_rules, module_name, module_version, package_default_visibility, package_name, repo_name, and repository_name).
+
