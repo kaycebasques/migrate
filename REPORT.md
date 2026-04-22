@@ -2335,3 +2335,10 @@ New URL: https://preview.bazel.build/rules/lib/fragments/platform
 
 OK
 
+## /rules/lib/fragments/proto
+
+Old URL: https://bazel.build/rules/lib/fragments/proto
+New URL: https://preview.bazel.build/rules/lib/fragments/proto
+
+OK
+
