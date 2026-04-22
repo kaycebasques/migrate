@@ -13904,3 +13904,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/remote/bep-examples
 
 ERROR
 
+## /versions/8.3.0/remote/bep-glossary
+
+Old URL: https://bazel.build/versions/8.3.0/remote/bep-glossary
+New URL: https://preview.bazel.build/versions/8.3.0/remote/bep-glossary
+
+ERROR
+
