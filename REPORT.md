@@ -10418,3 +10418,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/performance
 
 ERROR
 
+## /versions/7.7.0/rules/rules-tutorial
+
+Old URL: https://bazel.build/versions/7.7.0/rules/rules-tutorial
+New URL: https://preview.bazel.build/versions/7.7.0/rules/rules-tutorial
+
+ERROR
+
