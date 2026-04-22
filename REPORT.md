@@ -7135,3 +7135,10 @@ New URL: https://preview.bazel.build/versions/7.2.0/concepts/build-ref
 
 ERROR
 
+## /versions/7.2.0/concepts/dependencies
+
+Old URL: https://bazel.build/versions/7.2.0/concepts/dependencies
+New URL: https://preview.bazel.build/versions/7.2.0/concepts/dependencies
+
+ERROR
+
