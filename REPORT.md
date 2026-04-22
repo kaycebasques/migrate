@@ -11888,3 +11888,10 @@ New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/toplevel/native
 
 ERROR
 
+## /versions/8.1.0/rules/rules-tutorial
+
+Old URL: https://bazel.build/versions/8.1.0/rules/rules-tutorial
+New URL: https://preview.bazel.build/versions/8.1.0/rules/rules-tutorial
+
+ERROR
+
