@@ -6197,3 +6197,10 @@ New URL: https://preview.bazel.build/versions/7.0.0/extending/aspects
 
 ERROR
 
+## /versions/7.0.0/extending/concepts
+
+Old URL: https://bazel.build/versions/7.0.0/extending/concepts
+New URL: https://preview.bazel.build/versions/7.0.0/extending/concepts
+
+ERROR
+
