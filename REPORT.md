@@ -16207,3 +16207,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/rules/lib/builtins/BuildSett
 
 ERROR
 
+## /versions/8.5.0/rules/lib/builtins/FeatureConfiguration
+
+Old URL: https://bazel.build/versions/8.5.0/rules/lib/builtins/FeatureConfiguration
+New URL: https://preview.bazel.build/versions/8.5.0/rules/lib/builtins/FeatureConfiguration
+
+ERROR
+
