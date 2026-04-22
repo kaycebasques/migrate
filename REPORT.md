@@ -1935,3 +1935,15 @@ New URL: https://preview.bazel.build/rules/lib/builtins/ctx
 
 OK
 
+## /rules/lib/builtins/depset
+
+Old URL: https://bazel.build/rules/lib/builtins/depset
+New URL: https://preview.bazel.build/rules/lib/builtins/depset
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/builtins/depset](data/rules/lib/builtins/depset/old.png) | ![https://preview.bazel.build/rules/lib/builtins/depset](data/rules/lib/builtins/depset/new.png) |
+
+- Literal underscores are appearing around some links in the text (e.g., "_type(x)_" and "_to_list()_"), likely as a result of unparsed formatting characters.
+- There is incorrect spacing before punctuation following some inline code or link elements, such as an extra space before the period in "True ." and before the hyphen in "'default' -ordered".
+
