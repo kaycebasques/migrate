@@ -11636,3 +11636,10 @@ New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/builtins/ctx
 
 ERROR
 
+## /versions/8.1.0/rules/lib/builtins/depset
+
+Old URL: https://bazel.build/versions/8.1.0/rules/lib/builtins/depset
+New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/builtins/depset
+
+ERROR
+
