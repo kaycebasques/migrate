@@ -9228,3 +9228,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/start/cpp
 
 ERROR
 
+## /versions/7.6.0/start/ios-app
+
+Old URL: https://bazel.build/versions/7.6.0/start/ios-app
+New URL: https://preview.bazel.build/versions/7.6.0/start/ios-app
+
+ERROR
+
