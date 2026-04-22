@@ -7611,3 +7611,10 @@ New URL: https://preview.bazel.build/versions/7.3.0/community/update
 
 ERROR
 
+## /versions/7.3.0/community/users
+
+Old URL: https://bazel.build/versions/7.3.0/community/users
+New URL: https://preview.bazel.build/versions/7.3.0/community/users
+
+ERROR
+
