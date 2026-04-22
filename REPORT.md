@@ -10264,3 +10264,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/core/string
 
 ERROR
 
+## /versions/7.7.0/rules/lib/core/tuple
+
+Old URL: https://bazel.build/versions/7.7.0/rules/lib/core/tuple
+New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/core/tuple
+
+ERROR
+
