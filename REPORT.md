@@ -10908,3 +10908,10 @@ New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/builtins/Label
 
 ERROR
 
+## /versions/8.0.0/rules/lib/builtins/LinkerInput
+
+Old URL: https://bazel.build/versions/8.0.0/rules/lib/builtins/LinkerInput
+New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/builtins/LinkerInput
+
+ERROR
+
