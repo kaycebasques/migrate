@@ -8010,3 +8010,10 @@ New URL: https://preview.bazel.build/versions/7.4.0/about/intro
 
 ERROR
 
+## /versions/7.4.0/basics
+
+Old URL: https://bazel.build/versions/7.4.0/basics
+New URL: https://preview.bazel.build/versions/7.4.0/basics
+
+ERROR
+
