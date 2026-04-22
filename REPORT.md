@@ -11769,3 +11769,10 @@ New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/core/set
 
 ERROR
 
+## /versions/8.1.0/rules/lib/core/string
+
+Old URL: https://bazel.build/versions/8.1.0/rules/lib/core/string
+New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/core/string
+
+ERROR
+
