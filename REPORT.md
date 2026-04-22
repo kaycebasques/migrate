@@ -2803,3 +2803,10 @@ New URL: https://preview.bazel.build/rules/lib/toplevel/native
 - In the "repository_name" section, the "Experimental" and "Deprecated" notices are merged into a single paragraph and contain an extra dash character.
 - In several parameter tables (such as for "glob", "package_relative_label", and "subpackages"), the default value or required status is merged into the same line as the description text, reducing readability.
 
+## /rules/lib/toplevel/platform_common
+
+Old URL: https://bazel.build/rules/lib/toplevel/platform_common
+New URL: https://preview.bazel.build/rules/lib/toplevel/platform_common
+
+OK
+
