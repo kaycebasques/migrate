@@ -12175,3 +12175,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/contribute/design-documents
 
 ERROR
 
+## /versions/8.2.0/contribute/docs
+
+Old URL: https://bazel.build/versions/8.2.0/contribute/docs
+New URL: https://preview.bazel.build/versions/8.2.0/contribute/docs
+
+ERROR
+
