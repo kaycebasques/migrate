@@ -12623,3 +12623,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/remote/dynamic
 
 ERROR
 
+## /versions/8.2.0/remote/multiplex
+
+Old URL: https://bazel.build/versions/8.2.0/remote/multiplex
+New URL: https://preview.bazel.build/versions/8.2.0/remote/multiplex
+
+ERROR
+
