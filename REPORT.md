@@ -5746,3 +5746,15 @@ New URL: https://preview.bazel.build/versions/6.5.0/remote/rbe
 
 OK
 
+## /versions/6.5.0/remote/rules
+
+Old URL: https://bazel.build/versions/6.5.0/remote/rules
+New URL: https://preview.bazel.build/versions/6.5.0/remote/rules
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/remote/rules](data/versions/6.5.0/remote/rules/old.png) | ![https://preview.bazel.build/versions/6.5.0/remote/rules](data/versions/6.5.0/remote/rules/new.png) |
+
+- The link for 'Scala' in the 'Invoking build tools through toolchain rules' section is not rendered correctly and appears as raw Markdown text.
+- Multiple links that were present in the old version (Rust, Go, bash, cuda, python, and BUILD FILES) are missing in the new version, appearing as plain text instead.
+

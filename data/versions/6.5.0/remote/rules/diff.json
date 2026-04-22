@@ -1,0 +1,6 @@
+{
+  "issues": [
+    "The link for 'Scala' in the 'Invoking build tools through toolchain rules' section is not rendered correctly and appears as raw Markdown text.",
+    "Multiple links that were present in the old version (Rust, Go, bash, cuda, python, and BUILD FILES) are missing in the new version, appearing as plain text instead."
+  ]
+}
