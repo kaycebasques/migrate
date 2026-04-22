@@ -1335,3 +1335,15 @@ New URL: https://preview.bazel.build/reference/skyframe
 
 OK
 
+## /reference/test-encyclopedia
+
+Old URL: https://bazel.build/reference/test-encyclopedia
+New URL: https://preview.bazel.build/reference/test-encyclopedia
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/reference/test-encyclopedia](data/reference/test-encyclopedia/old.png) | ![https://preview.bazel.build/reference/test-encyclopedia](data/reference/test-encyclopedia/new.png) |
+
+- The note callout in the 'Tag conventions' section is unstyled and missing its background color and icon compared to the original site.
+- Throughout the document (e.g., in 'Tag conventions', 'Runfiles', 'Execution platform', and the 'Initial conditions' table), link URLs are being explicitly displayed in parentheses next to the link text instead of being hidden behind the hyperlinks.
+

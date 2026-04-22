@@ -1,0 +1,6 @@
+{
+  "issues": [
+    "The note callout in the 'Tag conventions' section is unstyled and missing its background color and icon compared to the original site.",
+    "Throughout the document (e.g., in 'Tag conventions', 'Runfiles', 'Execution platform', and the 'Initial conditions' table), link URLs are being explicitly displayed in parentheses next to the link text instead of being hidden behind the hyperlinks."
+  ]
+}
