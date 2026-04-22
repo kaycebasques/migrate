@@ -8493,3 +8493,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/community/experts
 
 ERROR
 
+## /versions/7.6.0/community/recommended-rules
+
+Old URL: https://bazel.build/versions/7.6.0/community/recommended-rules
+New URL: https://preview.bazel.build/versions/7.6.0/community/recommended-rules
+
+ERROR
+
