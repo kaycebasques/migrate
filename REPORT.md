@@ -9158,3 +9158,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/rules/lib/toplevel/native
 
 ERROR
 
+## /versions/7.6.0/rules/performance
+
+Old URL: https://bazel.build/versions/7.6.0/rules/performance
+New URL: https://preview.bazel.build/versions/7.6.0/rules/performance
+
+ERROR
+
