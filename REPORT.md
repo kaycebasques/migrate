@@ -6337,3 +6337,10 @@ New URL: https://preview.bazel.build/versions/7.0.0/reference/be/common-definiti
 
 ERROR
 
+## /versions/7.0.0/reference/be/general
+
+Old URL: https://bazel.build/versions/7.0.0/reference/be/general
+New URL: https://preview.bazel.build/versions/7.0.0/reference/be/general
+
+ERROR
+
