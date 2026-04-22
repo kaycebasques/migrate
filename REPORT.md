@@ -7842,3 +7842,10 @@ New URL: https://preview.bazel.build/versions/7.3.0/reference/be/workspace
 
 ERROR
 
+## /versions/7.3.0/reference/glossary
+
+Old URL: https://bazel.build/versions/7.3.0/reference/glossary
+New URL: https://preview.bazel.build/versions/7.3.0/reference/glossary
+
+ERROR
+
