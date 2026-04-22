@@ -7562,3 +7562,10 @@ New URL: https://preview.bazel.build/versions/7.3.0/about/intro
 
 ERROR
 
+## /versions/7.3.0/about/vision
+
+Old URL: https://bazel.build/versions/7.3.0/about/vision
+New URL: https://preview.bazel.build/versions/7.3.0/about/vision
+
+ERROR
+
