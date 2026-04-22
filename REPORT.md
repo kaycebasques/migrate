@@ -2908,3 +2908,10 @@ New URL: https://preview.bazel.build/run/client-server
 - The plural word 'mtimes' is incorrectly rendered with a space between the code-styled 'mtime' and the letter 's'.
 - The inline code snippet 'ps -e f' is incorrectly split into two separate code elements and broken across a line break.
 
+## /run/scripts
+
+Old URL: https://bazel.build/run/scripts
+New URL: https://preview.bazel.build/run/scripts
+
+OK
+
