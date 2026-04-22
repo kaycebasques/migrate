@@ -11979,3 +11979,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/advanced/performance/build-p
 
 ERROR
 
+## /versions/8.2.0/advanced/performance/iteration-speed
+
+Old URL: https://bazel.build/versions/8.2.0/advanced/performance/iteration-speed
+New URL: https://preview.bazel.build/versions/8.2.0/advanced/performance/iteration-speed
+
+ERROR
+
