@@ -2743,3 +2743,10 @@ New URL: https://preview.bazel.build/rules/lib/toplevel/cc_common
 
 OK
 
+## /rules/lib/toplevel/config
+
+Old URL: https://bazel.build/rules/lib/toplevel/config
+New URL: https://preview.bazel.build/rules/lib/toplevel/config
+
+OK
+
