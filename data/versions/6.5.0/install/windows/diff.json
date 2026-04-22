@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "Raw HTML <var> tags are visible instead of being rendered in the 'Download Bazel' section, multiple code blocks, and the 'Installing compilers and language runtimes' section."
+  ]
+}

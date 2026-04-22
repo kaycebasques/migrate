@@ -5456,3 +5456,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/install/ubuntu
 
 - Literal HTML tags (<var> and </var>) are visible in the 'Step 2: Run the installer' section, appearing in both the body text and the code block.
 
+## /versions/6.5.0/install/windows
+
+Old URL: https://bazel.build/versions/6.5.0/install/windows
+New URL: https://preview.bazel.build/versions/6.5.0/install/windows
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/install/windows](data/versions/6.5.0/install/windows/old.png) | ![https://preview.bazel.build/versions/6.5.0/install/windows](data/versions/6.5.0/install/windows/new.png) |
+
+- Raw HTML <var> tags are visible instead of being rendered in the 'Download Bazel' section, multiple code blocks, and the 'Installing compilers and language runtimes' section.
+
