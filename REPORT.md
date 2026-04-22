@@ -1691,3 +1691,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/BuildSetting
 
 OK
 
+## /rules/lib/builtins/CcCompilationOutputs
+
+Old URL: https://bazel.build/rules/lib/builtins/CcCompilationOutputs
+New URL: https://preview.bazel.build/rules/lib/builtins/CcCompilationOutputs
+
+OK
+
