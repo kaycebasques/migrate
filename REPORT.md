@@ -7646,3 +7646,10 @@ New URL: https://preview.bazel.build/versions/7.3.0/concepts/visibility
 
 ERROR
 
+## /versions/7.3.0/configure/attributes
+
+Old URL: https://bazel.build/versions/7.3.0/configure/attributes
+New URL: https://preview.bazel.build/versions/7.3.0/configure/attributes
+
+ERROR
+
