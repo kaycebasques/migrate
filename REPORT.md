@@ -12322,3 +12322,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/extending/rules
 
 ERROR
 
+## /versions/8.2.0/extending/toolchains
+
+Old URL: https://bazel.build/versions/8.2.0/extending/toolchains
+New URL: https://preview.bazel.build/versions/8.2.0/extending/toolchains
+
+ERROR
+
