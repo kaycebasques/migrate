@@ -15185,3 +15185,10 @@ New URL: https://preview.bazel.build/versions/8.4.0/rules/lib/builtins/exec_resu
 
 ERROR
 
+## /versions/8.4.0/rules/lib/builtins/fragments
+
+Old URL: https://bazel.build/versions/8.4.0/rules/lib/builtins/fragments
+New URL: https://preview.bazel.build/versions/8.4.0/rules/lib/builtins/fragments
+
+ERROR
+
