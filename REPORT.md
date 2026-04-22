@@ -10040,3 +10040,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/Compilati
 
 ERROR
 
+## /versions/7.7.0/rules/lib/builtins/File
+
+Old URL: https://bazel.build/versions/7.7.0/rules/lib/builtins/File
+New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/File
+
+ERROR
+
