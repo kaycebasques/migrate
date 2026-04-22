@@ -4594,3 +4594,10 @@ New URL: https://preview.bazel.build/versions/6.3.0/install/windows
 
 ERROR
 
+## /versions/6.3.0/reference
+
+Old URL: https://bazel.build/versions/6.3.0/reference
+New URL: https://preview.bazel.build/versions/6.3.0/reference
+
+ERROR
+
