@@ -1819,3 +1819,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/LinkerInput
 - In the 'libraries' section, there is a stray space between the code-formatted 'LibraryToLink' and the following period.
 - In the 'libraries' section, the link to GitHub issue #8118 is missing.
 
+## /rules/lib/builtins/LinkingContext
+
+Old URL: https://bazel.build/rules/lib/builtins/LinkingContext
+New URL: https://preview.bazel.build/rules/lib/builtins/LinkingContext
+
+OK
+
