@@ -1739,3 +1739,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/ExecGroupCollection
 
 OK
 
+## /rules/lib/builtins/ExecTransitionFactory
+
+Old URL: https://bazel.build/rules/lib/builtins/ExecTransitionFactory
+New URL: https://preview.bazel.build/rules/lib/builtins/ExecTransitionFactory
+
+OK
+
