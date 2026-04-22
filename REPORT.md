@@ -1947,3 +1947,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/depset
 - Literal underscores are appearing around some links in the text (e.g., "_type(x)_" and "_to_list()_"), likely as a result of unparsed formatting characters.
 - There is incorrect spacing before punctuation following some inline code or link elements, such as an extra space before the period in "True ." and before the hyphen in "'default' -ordered".
 
+## /rules/lib/builtins/exec_result
+
+Old URL: https://bazel.build/rules/lib/builtins/exec_result
+New URL: https://preview.bazel.build/rules/lib/builtins/exec_result
+
+OK
+
