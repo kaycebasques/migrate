@@ -2868,3 +2868,10 @@ New URL: https://preview.bazel.build/rules/verbs-tutorial
 
 OK
 
+## /rules/windows
+
+Old URL: https://bazel.build/rules/windows
+New URL: https://preview.bazel.build/rules/windows
+
+OK
+
