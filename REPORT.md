@@ -5434,3 +5434,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/install/redhat
 
 OK
 
+## /versions/6.5.0/install/suse
+
+Old URL: https://bazel.build/versions/6.5.0/install/suse
+New URL: https://preview.bazel.build/versions/6.5.0/install/suse
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/install/suse](data/versions/6.5.0/install/suse/old.png) | ![https://preview.bazel.build/versions/6.5.0/install/suse](data/versions/6.5.0/install/suse/new.png) |
+
+- Raw HTML tags <var> and </var> are visible in the text instead of being rendered.
+

@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "Raw HTML tags <var> and </var> are visible in the text instead of being rendered."
+  ]
+}
