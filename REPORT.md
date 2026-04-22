@@ -1374,3 +1374,14 @@ New URL: https://preview.bazel.build/release/backward-compatibility
 
 - In the 'Summary' section, item 5, the flag '--incompatible_*' is incorrectly broken across two lines, appearing as '--' followed by a line break and then 'incompatible_*', which likely indicates an unintended space was inserted during migration.
 
+## /release/rolling
+
+Old URL: https://bazel.build/release/rolling
+New URL: https://preview.bazel.build/release/rolling
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/release/rolling](data/release/rolling/old.png) | ![https://preview.bazel.build/release/rolling](data/release/rolling/new.png) |
+
+- All content below the main title is missing, including version headers (10.0.0, 9.0.0, etc.), the lists of releases, the introductory paragraph, and the 'REPORT AN ISSUE'/'VIEW SOURCE' buttons.
+
