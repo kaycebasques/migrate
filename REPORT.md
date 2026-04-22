@@ -4727,3 +4727,10 @@ New URL: https://preview.bazel.build/versions/6.4.0/concepts/build-ref
 
 ERROR
 
+## /versions/6.4.0/concepts/platforms
+
+Old URL: https://bazel.build/versions/6.4.0/concepts/platforms
+New URL: https://preview.bazel.build/versions/6.4.0/concepts/platforms
+
+ERROR
+
