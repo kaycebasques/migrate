@@ -12882,3 +12882,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/rules/lib/builtins/fragments
 
 ERROR
 
+## /versions/8.2.0/rules/lib/builtins/macro
+
+Old URL: https://bazel.build/versions/8.2.0/rules/lib/builtins/macro
+New URL: https://preview.bazel.build/versions/8.2.0/rules/lib/builtins/macro
+
+ERROR
+
