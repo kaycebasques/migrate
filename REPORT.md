@@ -1975,3 +1975,16 @@ New URL: https://preview.bazel.build/rules/lib/builtins/java_annotation_processi
 
 OK
 
+## /rules/lib/builtins/macro
+
+Old URL: https://bazel.build/rules/lib/builtins/macro
+New URL: https://preview.bazel.build/rules/lib/builtins/macro
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/builtins/macro](data/rules/lib/builtins/macro/old.png) | ![https://preview.bazel.build/rules/lib/builtins/macro](data/rules/lib/builtins/macro/new.png) |
+
+- The breadcrumbs (Bazel > Extending > APIs) are missing.
+- The 'REPORT AN ISSUE' button is missing.
+- The 'VIEW SOURCE' button is missing.
+
