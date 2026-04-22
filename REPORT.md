@@ -7674,3 +7674,10 @@ New URL: https://preview.bazel.build/versions/7.3.0/docs/user-manual
 
 ERROR
 
+## /versions/7.3.0/extending
+
+Old URL: https://bazel.build/versions/7.3.0/extending
+New URL: https://preview.bazel.build/versions/7.3.0/extending
+
+ERROR
+
