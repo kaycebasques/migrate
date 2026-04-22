@@ -11020,3 +11020,10 @@ New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/builtins/repositor
 
 ERROR
 
+## /versions/8.0.0/rules/lib/builtins/root
+
+Old URL: https://bazel.build/versions/8.0.0/rules/lib/builtins/root
+New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/builtins/root
+
+ERROR
+
