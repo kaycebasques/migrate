@@ -2128,3 +2128,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/template_ctx
 - The bulleted list in the 'tools' parameter description of the 'run' method has been flattened into a single paragraph, making it much harder to read.
 - There are several spacing errors in the 'tools' parameter description of the 'run' method where plurals have been broken up with extra spaces (e.g., 'File s', 'depset s', 'FileToRunProvider s').
 
+## /rules/lib/builtins/toolchain_type
+
+Old URL: https://bazel.build/rules/lib/builtins/toolchain_type
+New URL: https://preview.bazel.build/rules/lib/builtins/toolchain_type
+
+OK
+
