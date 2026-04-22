@@ -5121,3 +5121,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/concepts/labels
 - The styling for the 'Wrong' and 'Correct' callouts is missing in the new site; the icons and color-coding from the old site have not been preserved.
 - The navigation text at the bottom of the page is incorrectly rendered, displaying raw icon names as text: 'arrow_backTargets BUILD filesarrow_forward'.
 
+## /versions/6.5.0/configure/attributes
+
+Old URL: https://bazel.build/versions/6.5.0/configure/attributes
+New URL: https://preview.bazel.build/versions/6.5.0/configure/attributes
+
+ERROR
+
