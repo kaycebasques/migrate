@@ -3656,3 +3656,10 @@ New URL: https://preview.bazel.build/versions/6.1.0/build/external
 
 ERROR
 
+## /versions/6.1.0/build/style-guide
+
+Old URL: https://bazel.build/versions/6.1.0/build/style-guide
+New URL: https://preview.bazel.build/versions/6.1.0/build/style-guide
+
+ERROR
+
