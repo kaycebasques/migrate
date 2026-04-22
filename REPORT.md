@@ -5427,3 +5427,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/install/os-x
 
 - Code blocks in Step 2, Step 3, and Step 4 contain unrendered and literal <var> tags around variable names.
 
+## /versions/6.5.0/install/redhat
+
+Old URL: https://bazel.build/versions/6.5.0/install/redhat
+New URL: https://preview.bazel.build/versions/6.5.0/install/redhat
+
+OK
+
