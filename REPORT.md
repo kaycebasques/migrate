@@ -6862,3 +6862,10 @@ New URL: https://preview.bazel.build/versions/7.1.0/reference/be/overview
 
 ERROR
 
+## /versions/7.1.0/reference/glossary
+
+Old URL: https://bazel.build/versions/7.1.0/reference/glossary
+New URL: https://preview.bazel.build/versions/7.1.0/reference/glossary
+
+ERROR
+
