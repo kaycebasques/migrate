@@ -16592,3 +16592,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/rules/windows
 
 ERROR
 
+## /versions/8.5.0/run/bazelrc
+
+Old URL: https://bazel.build/versions/8.5.0/run/bazelrc
+New URL: https://preview.bazel.build/versions/8.5.0/run/bazelrc
+
+ERROR
+
