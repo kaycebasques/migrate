@@ -8563,3 +8563,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/configure/integrate-cpp
 
 ERROR
 
+## /versions/7.6.0/configure/windows
+
+Old URL: https://bazel.build/versions/7.6.0/configure/windows
+New URL: https://preview.bazel.build/versions/7.6.0/configure/windows
+
+ERROR
+
