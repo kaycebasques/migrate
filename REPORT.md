@@ -11853,3 +11853,10 @@ New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/providers/Executio
 
 ERROR
 
+## /versions/8.1.0/rules/lib/repo
+
+Old URL: https://bazel.build/versions/8.1.0/rules/lib/repo
+New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/repo
+
+ERROR
+
