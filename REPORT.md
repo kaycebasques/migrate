@@ -7856,3 +7856,10 @@ New URL: https://preview.bazel.build/versions/7.3.0/release
 
 ERROR
 
+## /versions/7.3.0/remote/caching
+
+Old URL: https://bazel.build/versions/7.3.0/remote/caching
+New URL: https://preview.bazel.build/versions/7.3.0/remote/caching
+
+ERROR
+
