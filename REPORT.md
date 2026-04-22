@@ -2954,3 +2954,10 @@ New URL: https://preview.bazel.build/start/cpp
 
 - Raw markdown link syntax is visible in several paragraphs instead of being rendered as functional links (e.g., "[target](...)", "[package](...)", "[rule](...)", "[cc_library rule](...)").
 
+## /start/go
+
+Old URL: https://bazel.build/start/go
+New URL: https://preview.bazel.build/start/go
+
+OK
+
