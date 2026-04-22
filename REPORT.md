@@ -8724,3 +8724,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/install/compile-source
 
 ERROR
 
+## /versions/7.6.0/install/completion
+
+Old URL: https://bazel.build/versions/7.6.0/install/completion
+New URL: https://preview.bazel.build/versions/7.6.0/install/completion
+
+ERROR
+
