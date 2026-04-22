@@ -8115,3 +8115,10 @@ New URL: https://preview.bazel.build/versions/7.4.0/release
 
 ERROR
 
+## /versions/7.4.0/remote/rbe
+
+Old URL: https://bazel.build/versions/7.4.0/remote/rbe
+New URL: https://preview.bazel.build/versions/7.4.0/remote/rbe
+
+ERROR
+
