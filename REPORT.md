@@ -10404,3 +10404,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/toplevel/native
 
 ERROR
 
+## /versions/7.7.0/rules/macro-tutorial
+
+Old URL: https://bazel.build/versions/7.7.0/rules/macro-tutorial
+New URL: https://preview.bazel.build/versions/7.7.0/rules/macro-tutorial
+
+ERROR
+
