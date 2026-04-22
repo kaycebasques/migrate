@@ -3075,3 +3075,10 @@ New URL: https://preview.bazel.build/versions/6.0.0/build/bzlmod
 
 ERROR
 
+## /versions/6.0.0/build/external
+
+Old URL: https://bazel.build/versions/6.0.0/build/external
+New URL: https://preview.bazel.build/versions/6.0.0/build/external
+
+ERROR
+
