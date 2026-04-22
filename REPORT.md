@@ -4685,3 +4685,10 @@ New URL: https://preview.bazel.build/versions/6.4.0/about
 
 ERROR
 
+## /versions/6.4.0/about/intro
+
+Old URL: https://bazel.build/versions/6.4.0/about/intro
+New URL: https://preview.bazel.build/versions/6.4.0/about/intro
+
+ERROR
+
