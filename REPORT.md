@@ -9781,3 +9781,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/reference/be/c-cpp
 
 ERROR
 
+## /versions/7.7.0/reference/be/common-definitions
+
+Old URL: https://bazel.build/versions/7.7.0/reference/be/common-definitions
+New URL: https://preview.bazel.build/versions/7.7.0/reference/be/common-definitions
+
+ERROR
+
