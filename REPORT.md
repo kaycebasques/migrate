@@ -5062,3 +5062,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/community/update
 - The version selector links are missing.
 - The introductory text 'Join Bazel developer relations engineers for the monthly community update livestream, or catch up on past ones.' is missing.
 
+## /versions/6.5.0/community/users
+
+Old URL: https://bazel.build/versions/6.5.0/community/users
+New URL: https://preview.bazel.build/versions/6.5.0/community/users
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/community/users](data/versions/6.5.0/community/users/old.png) | ![https://preview.bazel.build/versions/6.5.0/community/users](data/versions/6.5.0/community/users/new.png) |
+
+- The logo for the GRAKN.AI entry in the 'Companies using Bazel' section incorrectly displays the alt text 'GRAKN.AI Logo' next to the logo icon.
+
