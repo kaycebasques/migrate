@@ -8024,3 +8024,10 @@ New URL: https://preview.bazel.build/versions/7.4.0/build/style-guide
 
 ERROR
 
+## /versions/7.4.0/concepts/build-ref
+
+Old URL: https://bazel.build/versions/7.4.0/concepts/build-ref
+New URL: https://preview.bazel.build/versions/7.4.0/concepts/build-ref
+
+ERROR
+
