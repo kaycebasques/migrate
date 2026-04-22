@@ -5445,3 +5445,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/install/suse
 
 - Raw HTML tags <var> and </var> are visible in the text instead of being rendered.
 
+## /versions/6.5.0/install/ubuntu
+
+Old URL: https://bazel.build/versions/6.5.0/install/ubuntu
+New URL: https://preview.bazel.build/versions/6.5.0/install/ubuntu
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/install/ubuntu](data/versions/6.5.0/install/ubuntu/old.png) | ![https://preview.bazel.build/versions/6.5.0/install/ubuntu](data/versions/6.5.0/install/ubuntu/new.png) |
+
+- Literal HTML tags (<var> and </var>) are visible in the 'Step 2: Run the installer' section, appearing in both the body text and the code block.
+

@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "Literal HTML tags (<var> and </var>) are visible in the 'Step 2: Run the installer' section, appearing in both the body text and the code block."
+  ]
+}
