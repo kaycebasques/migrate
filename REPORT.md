@@ -6533,3 +6533,10 @@ New URL: https://preview.bazel.build/versions/7.1.0/about/vision
 
 ERROR
 
+## /versions/7.1.0/advanced/performance/iteration-speed
+
+Old URL: https://bazel.build/versions/7.1.0/advanced/performance/iteration-speed
+New URL: https://preview.bazel.build/versions/7.1.0/advanced/performance/iteration-speed
+
+ERROR
+
