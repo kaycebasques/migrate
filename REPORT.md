@@ -5717,3 +5717,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/remote/multiplex
 
 - The caution callout is unstyled in the new site.
 
+## /versions/6.5.0/remote/output-directories
+
+Old URL: https://bazel.build/versions/6.5.0/remote/output-directories
+New URL: https://preview.bazel.build/versions/6.5.0/remote/output-directories
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/remote/output-directories](data/versions/6.5.0/remote/output-directories/old.png) | ![https://preview.bazel.build/versions/6.5.0/remote/output-directories](data/versions/6.5.0/remote/output-directories/new.png) |
+
+- In the 'Layout diagram' section, the directory tree contains escaped HTML entities (&lt; and &gt;) instead of angle brackets for placeholders such as <workspace-name> and <packages>.
+

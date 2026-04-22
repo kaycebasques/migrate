@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "In the 'Layout diagram' section, the directory tree contains escaped HTML entities (&lt; and &gt;) instead of angle brackets for placeholders such as <workspace-name> and <packages>."
+  ]
+}
