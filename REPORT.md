@@ -6638,3 +6638,10 @@ New URL: https://preview.bazel.build/versions/7.1.0/contribute
 
 ERROR
 
+## /versions/7.1.0/contribute/codebase
+
+Old URL: https://bazel.build/versions/7.1.0/contribute/codebase
+New URL: https://preview.bazel.build/versions/7.1.0/contribute/codebase
+
+ERROR
+
