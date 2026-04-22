@@ -3509,3 +3509,10 @@ New URL: https://preview.bazel.build/versions/6.0.0/rules/deploying
 
 ERROR
 
+## /versions/6.0.0/rules/language
+
+Old URL: https://bazel.build/versions/6.0.0/rules/language
+New URL: https://preview.bazel.build/versions/6.0.0/rules/language
+
+ERROR
+
