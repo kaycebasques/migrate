@@ -2510,3 +2510,16 @@ New URL: https://preview.bazel.build/rules/lib/providers/DebugPackageInfo
 - There is inconsistent and incorrect spacing around semicolons in the "Parameters" table descriptions for "stripped_file" and "dwp_file" (e.g., "File; or None ; default is None").
 - An unrendered template tag "{@url ...}" appears in the introductory paragraph.
 
+## /rules/lib/providers/DefaultInfo
+
+Old URL: https://bazel.build/rules/lib/providers/DefaultInfo
+New URL: https://preview.bazel.build/rules/lib/providers/DefaultInfo
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/providers/DefaultInfo](data/rules/lib/providers/DefaultInfo/old.png) | ![https://preview.bazel.build/rules/lib/providers/DefaultInfo](data/rules/lib/providers/DefaultInfo/new.png) |
+
+- Extra spaces are incorrectly inserted before punctuation marks (semicolons, commas, and periods) when they immediately follow inline code elements. This is noticeable in the 'Parameters' table (e.g., 'depset ;', 'None ;', 'test ,') and in the concluding sentences of several sections (e.g., 'May return None .').
+- Missing periods at the end of the first line of the 'Description' column for several items in the 'Parameters' table, such as 'files', 'runfiles', and 'data_runfiles'.
+- The layout of the 'Description' column in the 'Parameters' table is inconsistent, with irregular line breaks and spacing between the initial type summary and the subsequent descriptive text compared to the original site.
+
