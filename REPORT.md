@@ -1645,3 +1645,10 @@ New URL: https://preview.bazel.build/rules/legacy-macro-tutorial
 - There are unwanted extra spaces introduced before punctuation marks (like colons, commas, and periods) when they follow inline code spans or links (e.g., 'miniature.bzl :', 'genrule ,', 'native. .', 'Macro .').
 - In the 'warning note' section, the code snippet 'outs = ["small_" + src]' has lost its code span formatting (monospace font and background) and is rendered as plain text.
 
+## /rules/lib/builtins
+
+Old URL: https://bazel.build/rules/lib/builtins
+New URL: https://preview.bazel.build/rules/lib/builtins
+
+OK
+
