@@ -9718,3 +9718,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/migrate
 
 ERROR
 
+## /versions/7.7.0/migrate/maven
+
+Old URL: https://bazel.build/versions/7.7.0/migrate/maven
+New URL: https://preview.bazel.build/versions/7.7.0/migrate/maven
+
+ERROR
+
