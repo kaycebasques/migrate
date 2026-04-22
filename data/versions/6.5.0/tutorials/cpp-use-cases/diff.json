@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "The 'Note' callout in the 'Including external libraries' section has lost its distinct styling (the blue box and star icon) from the original site and now appears as plain text, which makes it an unstyled admonition."
+  ]
+}
