@@ -4279,3 +4279,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/reference/be/c-cpp
 
 ERROR
 
+## /versions/6.2.0/reference/be/common-definitions
+
+Old URL: https://bazel.build/versions/6.2.0/reference/be/common-definitions
+New URL: https://preview.bazel.build/versions/6.2.0/reference/be/common-definitions
+
+ERROR
+
