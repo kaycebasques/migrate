@@ -1652,3 +1652,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins
 
 OK
 
+## /rules/lib/builtins/Action
+
+Old URL: https://bazel.build/rules/lib/builtins/Action
+New URL: https://preview.bazel.build/rules/lib/builtins/Action
+
+OK
+
