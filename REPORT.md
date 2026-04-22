@@ -8395,3 +8395,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/about
 
 ERROR
 
+## /versions/7.6.0/about/faq
+
+Old URL: https://bazel.build/versions/7.6.0/about/faq
+New URL: https://preview.bazel.build/versions/7.6.0/about/faq
+
+ERROR
+
