@@ -14415,3 +14415,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/rules/lib/overview
 
 ERROR
 
+## /versions/8.3.0/rules/lib/providers/AnalysisTestResultInfo
+
+Old URL: https://bazel.build/versions/8.3.0/rules/lib/providers/AnalysisTestResultInfo
+New URL: https://preview.bazel.build/versions/8.3.0/rules/lib/providers/AnalysisTestResultInfo
+
+ERROR
+
