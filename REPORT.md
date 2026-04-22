@@ -8675,3 +8675,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/extending/repo
 
 ERROR
 
+## /versions/7.6.0/extending/rules
+
+Old URL: https://bazel.build/versions/7.6.0/extending/rules
+New URL: https://preview.bazel.build/versions/7.6.0/extending/rules
+
+ERROR
+
