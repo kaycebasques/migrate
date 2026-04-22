@@ -13841,3 +13841,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/reference/be/workspace
 
 ERROR
 
+## /versions/8.3.0/reference/command-line-reference
+
+Old URL: https://bazel.build/versions/8.3.0/reference/command-line-reference
+New URL: https://preview.bazel.build/versions/8.3.0/reference/command-line-reference
+
+ERROR
+
