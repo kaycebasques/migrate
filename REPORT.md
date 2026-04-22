@@ -5604,3 +5604,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/reference/glossary
 - Presence of an internal TODO comment '// TODO: ### Spawn strategy' under the 'Skyframe' section.
 - Presence of internal TODO comments '// TODO: ### Starlark rules' and '// TODO: ### Starlark rule sandwich' under the 'Starlark' section.
 
+## /versions/6.5.0/reference/test-encyclopedia
+
+Old URL: https://bazel.build/versions/6.5.0/reference/test-encyclopedia
+New URL: https://preview.bazel.build/versions/6.5.0/reference/test-encyclopedia
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/reference/test-encyclopedia](data/versions/6.5.0/reference/test-encyclopedia/old.png) | ![https://preview.bazel.build/versions/6.5.0/reference/test-encyclopedia](data/versions/6.5.0/reference/test-encyclopedia/new.png) |
+
+- The callout/admonition at the end of the 'Tag conventions' section is unstyled in the new site; it is missing its blue background and star icon.
+
