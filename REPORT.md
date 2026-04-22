@@ -2579,3 +2579,10 @@ New URL: https://preview.bazel.build/rules/lib/providers/JavaToolchainInfo
 
 OK
 
+## /rules/lib/providers/ObjcProvider
+
+Old URL: https://bazel.build/rules/lib/providers/ObjcProvider
+New URL: https://preview.bazel.build/rules/lib/providers/ObjcProvider
+
+OK
+
