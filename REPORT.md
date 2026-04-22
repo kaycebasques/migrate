@@ -1599,3 +1599,10 @@ New URL: https://preview.bazel.build/rules/challenges
 
 OK
 
+## /rules/deploying
+
+Old URL: https://bazel.build/rules/deploying
+New URL: https://preview.bazel.build/rules/deploying
+
+OK
+
