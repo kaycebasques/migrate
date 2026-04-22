@@ -4195,3 +4195,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/install/redhat
 
 ERROR
 
+## /versions/6.2.0/install/suse
+
+Old URL: https://bazel.build/versions/6.2.0/install/suse
+New URL: https://preview.bazel.build/versions/6.2.0/install/suse
+
+ERROR
+
