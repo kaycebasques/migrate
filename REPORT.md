@@ -2993,3 +2993,10 @@ New URL: https://preview.bazel.build/tutorials/cpp-dependency
 
 OK
 
+## /tutorials/cpp-labels
+
+Old URL: https://bazel.build/tutorials/cpp-labels
+New URL: https://preview.bazel.build/tutorials/cpp-labels
+
+OK
+
