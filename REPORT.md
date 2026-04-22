@@ -7723,3 +7723,10 @@ New URL: https://preview.bazel.build/versions/7.3.0/extending/rules
 
 ERROR
 
+## /versions/7.3.0/help
+
+Old URL: https://bazel.build/versions/7.3.0/help
+New URL: https://preview.bazel.build/versions/7.3.0/help
+
+ERROR
+
