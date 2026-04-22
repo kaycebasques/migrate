@@ -10691,3 +10691,10 @@ New URL: https://preview.bazel.build/versions/8.0.0/external/registry
 
 ERROR
 
+## /versions/8.0.0/help
+
+Old URL: https://bazel.build/versions/8.0.0/help
+New URL: https://preview.bazel.build/versions/8.0.0/help
+
+ERROR
+
