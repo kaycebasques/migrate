@@ -10852,3 +10852,10 @@ New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/builtins/Attribute
 
 ERROR
 
+## /versions/8.0.0/rules/lib/builtins/BuildSetting
+
+Old URL: https://bazel.build/versions/8.0.0/rules/lib/builtins/BuildSetting
+New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/builtins/BuildSetting
+
+ERROR
+
