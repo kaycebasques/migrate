@@ -10684,3 +10684,10 @@ New URL: https://preview.bazel.build/versions/8.0.0/external/overview
 
 ERROR
 
+## /versions/8.0.0/external/registry
+
+Old URL: https://bazel.build/versions/8.0.0/external/registry
+New URL: https://preview.bazel.build/versions/8.0.0/external/registry
+
+ERROR
+
