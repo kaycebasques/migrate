@@ -15451,3 +15451,10 @@ New URL: https://preview.bazel.build/versions/8.4.0/rules/performance
 
 ERROR
 
+## /versions/8.4.0/rules/rules-tutorial
+
+Old URL: https://bazel.build/versions/8.4.0/rules/rules-tutorial
+New URL: https://preview.bazel.build/versions/8.4.0/rules/rules-tutorial
+
+ERROR
+
