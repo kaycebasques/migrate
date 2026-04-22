@@ -2393,3 +2393,17 @@ New URL: https://preview.bazel.build/rules/lib/globals/module
 
 OK
 
+## /rules/lib/globals/repo
+
+Old URL: https://bazel.build/rules/lib/globals/repo
+New URL: https://preview.bazel.build/rules/lib/globals/repo
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/globals/repo](data/rules/lib/globals/repo/old.png) | ![https://preview.bazel.build/rules/lib/globals/repo](data/rules/lib/globals/repo/new.png) |
+
+- In the 'repo' parameters table, the 'required' label and the subsequent description text are merged into a single line, rather than being separated by a line break.
+- In the 'repo' parameters table, the function name 'package()' has been incorrectly changed to '_package()'.
+- The link for '_package()' in the 'repo' parameters table is styled inconsistently in black text, while other links on the page are green.
+- In the 'ignore_directories' parameters table, the link for 'strings' incorrectly includes the trailing semicolon.
+
