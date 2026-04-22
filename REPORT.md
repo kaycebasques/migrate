@@ -7954,3 +7954,10 @@ New URL: https://preview.bazel.build/versions/7.3.0/rules/testing
 
 ERROR
 
+## /versions/7.3.0/run/bazelrc
+
+Old URL: https://bazel.build/versions/7.3.0/run/bazelrc
+New URL: https://preview.bazel.build/versions/7.3.0/run/bazelrc
+
+ERROR
+
