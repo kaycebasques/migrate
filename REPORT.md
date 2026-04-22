@@ -1968,3 +1968,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/fragments
 
 OK
 
+## /rules/lib/builtins/java_annotation_processing
+
+Old URL: https://bazel.build/rules/lib/builtins/java_annotation_processing
+New URL: https://preview.bazel.build/rules/lib/builtins/java_annotation_processing
+
+OK
+
