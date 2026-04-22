@@ -11671,3 +11671,10 @@ New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/builtins/path
 
 ERROR
 
+## /versions/8.1.0/rules/lib/builtins/root
+
+Old URL: https://bazel.build/versions/8.1.0/rules/lib/builtins/root
+New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/builtins/root
+
+ERROR
+
