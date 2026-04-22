@@ -4223,3 +4223,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/migrate/maven
 
 ERROR
 
+## /versions/6.2.0/migrate/xcode
+
+Old URL: https://bazel.build/versions/6.2.0/migrate/xcode
+New URL: https://preview.bazel.build/versions/6.2.0/migrate/xcode
+
+ERROR
+
