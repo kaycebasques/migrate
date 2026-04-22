@@ -4461,3 +4461,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/start/java
 
 ERROR
 
+## /versions/6.2.0/tutorials/ccp-toolchain-config
+
+Old URL: https://bazel.build/versions/6.2.0/tutorials/ccp-toolchain-config
+New URL: https://preview.bazel.build/versions/6.2.0/tutorials/ccp-toolchain-config
+
+ERROR
+
