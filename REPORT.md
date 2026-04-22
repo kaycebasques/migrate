@@ -12021,3 +12021,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/build/share-variables
 
 ERROR
 
+## /versions/8.2.0/build/style-guide
+
+Old URL: https://bazel.build/versions/8.2.0/build/style-guide
+New URL: https://preview.bazel.build/versions/8.2.0/build/style-guide
+
+ERROR
+
