@@ -12553,3 +12553,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/release/backward-compatibili
 
 ERROR
 
+## /versions/8.2.0/release/rule-compatibility
+
+Old URL: https://bazel.build/versions/8.2.0/release/rule-compatibility
+New URL: https://preview.bazel.build/versions/8.2.0/release/rule-compatibility
+
+ERROR
+
