@@ -5084,3 +5084,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/concepts/build-files
 
 - The bottom navigation contains raw text "arrow_backLabelsDependenciesarrow_forward" which appears to be unrendered icon names concatenated with button labels.
 
+## /versions/6.5.0/concepts/build-ref
+
+Old URL: https://bazel.build/versions/6.5.0/concepts/build-ref
+New URL: https://preview.bazel.build/versions/6.5.0/concepts/build-ref
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/concepts/build-ref](data/versions/6.5.0/concepts/build-ref/old.png) | ![https://preview.bazel.build/versions/6.5.0/concepts/build-ref](data/versions/6.5.0/concepts/build-ref/new.png) |
+
+- The footer link 'Labelsarrow_forward' contains the literal text 'arrow_forward' instead of rendering an icon.
+
