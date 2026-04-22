@@ -5574,3 +5574,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/reference/be/overview
 
 ERROR
 
+## /versions/6.5.0/reference/be/python
+
+Old URL: https://bazel.build/versions/6.5.0/reference/be/python
+New URL: https://preview.bazel.build/versions/6.5.0/reference/be/python
+
+ERROR
+
