@@ -5360,3 +5360,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/help
 
 OK
 
+## /versions/6.5.0/install
+
+Old URL: https://bazel.build/versions/6.5.0/install
+New URL: https://preview.bazel.build/versions/6.5.0/install
+
+OK
+
