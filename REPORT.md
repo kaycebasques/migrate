@@ -14156,3 +14156,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/rules/lib/builtins/Provider
 
 ERROR
 
+## /versions/8.3.0/rules/lib/builtins/Subrule
+
+Old URL: https://bazel.build/versions/8.3.0/rules/lib/builtins/Subrule
+New URL: https://preview.bazel.build/versions/8.3.0/rules/lib/builtins/Subrule
+
+ERROR
+
