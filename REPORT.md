@@ -12210,3 +12210,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/contribute/policy
 
 ERROR
 
+## /versions/8.2.0/contribute/release-notes
+
+Old URL: https://bazel.build/versions/8.2.0/contribute/release-notes
+New URL: https://preview.bazel.build/versions/8.2.0/contribute/release-notes
+
+ERROR
+
