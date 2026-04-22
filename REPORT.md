@@ -2272,3 +2272,10 @@ New URL: https://preview.bazel.build/rules/lib/core/string
 
 - In the 'format' section, HTML entities like '&lbrace;' and '&rbrace;' are displayed as literal text in both the description and the parameters table instead of being rendered as curly braces ('{' and '}').
 
+## /rules/lib/core/tuple
+
+Old URL: https://bazel.build/rules/lib/core/tuple
+New URL: https://preview.bazel.build/rules/lib/core/tuple
+
+OK
+
