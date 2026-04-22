@@ -4048,3 +4048,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/configure/attributes
 
 ERROR
 
+## /versions/6.2.0/configure/coverage
+
+Old URL: https://bazel.build/versions/6.2.0/configure/coverage
+New URL: https://preview.bazel.build/versions/6.2.0/configure/coverage
+
+ERROR
+
