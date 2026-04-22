@@ -1513,3 +1513,14 @@ New URL: https://preview.bazel.build/remote/output-directories
 
 - The layout diagram code block contains unrendered HTML entities, such as "&lt;" and "&gt;", instead of angle brackets.
 
+## /remote/persistent
+
+Old URL: https://bazel.build/remote/persistent
+New URL: https://preview.bazel.build/remote/persistent
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/remote/persistent](data/remote/persistent/old.png) | ![https://preview.bazel.build/remote/persistent](data/remote/persistent/new.png) |
+
+- In the 'Using persistent workers' section, the first code block incorrectly displays literal '<var>' and '</var>' tags around 'my:target'.
+
