@@ -1684,3 +1684,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/Attribute
 
 OK
 
+## /rules/lib/builtins/BuildSetting
+
+Old URL: https://bazel.build/rules/lib/builtins/BuildSetting
+New URL: https://preview.bazel.build/rules/lib/builtins/BuildSetting
+
+OK
+
