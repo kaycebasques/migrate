@@ -2229,3 +2229,17 @@ New URL: https://preview.bazel.build/rules/lib/core/json
 - Lack of proper spacing or a line break in the 'decode' section's Parameters table for the 'default' description, resulting in 'unbound If' being run together.
 - Inconsistent monospace styling for parameter names in the Parameters tables; some parameters like 'x' and 's' are plain text while others like 'default' and 'prefix' are styled as code blocks.
 
+## /rules/lib/core/list
+
+Old URL: https://bazel.build/rules/lib/core/list
+New URL: https://preview.bazel.build/rules/lib/core/list
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/core/list](data/rules/lib/core/list/old.png) | ![https://preview.bazel.build/rules/lib/core/list](data/rules/lib/core/list/new.png) |
+
+- The description for the 'item' parameter in the 'append' section is missing the text 'Item to add at the end.'
+- The description for the 'items' parameter in the 'extend' section is missing the text 'Items to add at the end.'
+- The description for the 'x' parameter in the 'index' section is missing the text 'The object to search.'
+- The description for the 'item' parameter in the 'insert' section is missing the text 'The item.'
+

@@ -1,0 +1,8 @@
+{
+  "issues": [
+    "The description for the 'item' parameter in the 'append' section is missing the text 'Item to add at the end.'",
+    "The description for the 'items' parameter in the 'extend' section is missing the text 'Items to add at the end.'",
+    "The description for the 'x' parameter in the 'index' section is missing the text 'The object to search.'",
+    "The description for the 'item' parameter in the 'insert' section is missing the text 'The item.'"
+  ]
+}
