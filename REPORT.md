@@ -15577,3 +15577,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/advanced/performance/memory
 
 ERROR
 
+## /versions/8.5.0/basics
+
+Old URL: https://bazel.build/versions/8.5.0/basics
+New URL: https://preview.bazel.build/versions/8.5.0/basics
+
+ERROR
+
