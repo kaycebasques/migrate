@@ -3572,3 +3572,10 @@ New URL: https://preview.bazel.build/versions/6.0.0/run/client-server
 
 ERROR
 
+## /versions/6.0.0/start
+
+Old URL: https://bazel.build/versions/6.0.0/start
+New URL: https://preview.bazel.build/versions/6.0.0/start
+
+ERROR
+
