@@ -10446,3 +10446,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/windows
 
 ERROR
 
+## /versions/7.7.0/run/bazelrc
+
+Old URL: https://bazel.build/versions/7.7.0/run/bazelrc
+New URL: https://preview.bazel.build/versions/7.7.0/run/bazelrc
+
+ERROR
+
