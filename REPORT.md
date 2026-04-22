@@ -5900,3 +5900,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/rules/windows
 
 OK
 
+## /versions/6.5.0/run/bazelrc
+
+Old URL: https://bazel.build/versions/6.5.0/run/bazelrc
+New URL: https://preview.bazel.build/versions/6.5.0/run/bazelrc
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/run/bazelrc](data/versions/6.5.0/run/bazelrc/old.png) | ![https://preview.bazel.build/versions/6.5.0/run/bazelrc](data/versions/6.5.0/run/bazelrc/new.png) |
+
+- Unstyled callout: The 'Note' section towards the bottom of the page is missing its visual styling (blue box and star icon) from the original site and is now rendered as plain text.
+
