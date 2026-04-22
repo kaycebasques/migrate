@@ -15094,3 +15094,10 @@ New URL: https://preview.bazel.build/versions/8.4.0/rules/lib/builtins/Label
 
 ERROR
 
+## /versions/8.4.0/rules/lib/builtins/LateBoundDefault
+
+Old URL: https://bazel.build/versions/8.4.0/rules/lib/builtins/LateBoundDefault
+New URL: https://preview.bazel.build/versions/8.4.0/rules/lib/builtins/LateBoundDefault
+
+ERROR
+
