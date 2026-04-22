@@ -12931,3 +12931,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/rules/lib/builtins/rule
 
 ERROR
 
+## /versions/8.2.0/rules/lib/builtins/runfiles
+
+Old URL: https://bazel.build/versions/8.2.0/rules/lib/builtins/runfiles
+New URL: https://preview.bazel.build/versions/8.2.0/rules/lib/builtins/runfiles
+
+ERROR
+
