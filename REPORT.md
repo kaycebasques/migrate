@@ -2829,3 +2829,10 @@ New URL: https://preview.bazel.build/rules/lib/toplevel/testing
 - HTML entities &lcub; and &rcub; are displayed instead of curly braces {} in the parameters table for analysis_test.
 - The parameter name 'inherited_environment' in the TestEnvironment section is incorrectly wrapped, breaking the word into 'inherited_environme' and 'nt'.
 
+## /rules/macro-tutorial
+
+Old URL: https://bazel.build/rules/macro-tutorial
+New URL: https://preview.bazel.build/rules/macro-tutorial
+
+OK
+
