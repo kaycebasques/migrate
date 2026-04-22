@@ -8689,3 +8689,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/extending/toolchains
 
 ERROR
 
+## /versions/7.6.0/external/overview
+
+Old URL: https://bazel.build/versions/7.6.0/external/overview
+New URL: https://preview.bazel.build/versions/7.6.0/external/overview
+
+ERROR
+
