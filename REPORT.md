@@ -2044,3 +2044,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/repository_os
 - The return types in the code signature blocks (e.g., 'string' and 'dict') are no longer hyperlinked to their respective documentation pages as they were in the old site.
 - The references to 'repository_ctx.getenv' and 'module_ctx.getenv' in the 'NOTE' section have lost their hyperlinks, even though they are now styled as inline code.
 
+## /rules/lib/builtins/repository_rule
+
+Old URL: https://bazel.build/rules/lib/builtins/repository_rule
+New URL: https://preview.bazel.build/rules/lib/builtins/repository_rule
+
+OK
+
