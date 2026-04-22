@@ -2943,3 +2943,14 @@ New URL: https://preview.bazel.build/start/android-app
 
 OK
 
+## /start/cpp
+
+Old URL: https://bazel.build/start/cpp
+New URL: https://preview.bazel.build/start/cpp
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/start/cpp](data/start/cpp/old.png) | ![https://preview.bazel.build/start/cpp](data/start/cpp/new.png) |
+
+- Raw markdown link syntax is visible in several paragraphs instead of being rendered as functional links (e.g., "[target](...)", "[package](...)", "[rule](...)", "[cc_library rule](...)").
+

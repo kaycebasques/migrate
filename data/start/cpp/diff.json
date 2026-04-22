@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "Raw markdown link syntax is visible in several paragraphs instead of being rendered as functional links (e.g., \"[target](...)\", \"[package](...)\", \"[rule](...)\", \"[cc_library rule](...)\")."
+  ]
+}
