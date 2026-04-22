@@ -10180,3 +10180,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/root
 
 ERROR
 
+## /versions/7.7.0/rules/lib/builtins/rule_attributes
+
+Old URL: https://bazel.build/versions/7.7.0/rules/lib/builtins/rule_attributes
+New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/rule_attributes
+
+ERROR
+
