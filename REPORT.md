@@ -10740,3 +10740,10 @@ New URL: https://preview.bazel.build/versions/8.0.0/reference
 
 ERROR
 
+## /versions/8.0.0/reference/be/c-cpp
+
+Old URL: https://bazel.build/versions/8.0.0/reference/be/c-cpp
+New URL: https://preview.bazel.build/versions/8.0.0/reference/be/c-cpp
+
+ERROR
+
