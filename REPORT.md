@@ -14604,3 +14604,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/tutorials/cpp-use-cases
 
 ERROR
 
+## /versions/8.4.0
+
+Old URL: https://bazel.build/versions/8.4.0
+New URL: https://preview.bazel.build/versions/8.4.0
+
+ERROR
+
