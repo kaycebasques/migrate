@@ -11685,3 +11685,10 @@ New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/builtins/rule
 
 ERROR
 
+## /versions/8.1.0/rules/lib/builtins/rule_attributes
+
+Old URL: https://bazel.build/versions/8.1.0/rules/lib/builtins/rule_attributes
+New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/builtins/rule_attributes
+
+ERROR
+
