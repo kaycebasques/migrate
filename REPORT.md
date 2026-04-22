@@ -10236,3 +10236,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/core/float
 
 ERROR
 
+## /versions/7.7.0/rules/lib/core/function
+
+Old URL: https://bazel.build/versions/7.7.0/rules/lib/core/function
+New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/core/function
+
+ERROR
+
