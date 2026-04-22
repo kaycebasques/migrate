@@ -2356,3 +2356,14 @@ New URL: https://preview.bazel.build/rules/lib/globals
 
 OK
 
+## /rules/lib/globals/all
+
+Old URL: https://bazel.build/rules/lib/globals/all
+New URL: https://preview.bazel.build/rules/lib/globals/all
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/globals/all](data/rules/lib/globals/all/old.png) | ![https://preview.bazel.build/rules/lib/globals/all](data/rules/lib/globals/all/new.png) |
+
+- The Parameters tables in the new site are missing punctuation (semicolons and periods) and appropriate spacing between parameter metadata (type, required/default status) and the descriptive text, causing the information to run together.
+

@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "The Parameters tables in the new site are missing punctuation (semicolons and periods) and appropriate spacing between parameter metadata (type, required/default status) and the descriptive text, causing the information to run together."
+  ]
+}
