@@ -7527,3 +7527,10 @@ New URL: https://preview.bazel.build/versions/7.2.0/start/cpp
 
 ERROR
 
+## /versions/7.2.0/start/java
+
+Old URL: https://bazel.build/versions/7.2.0/start/java
+New URL: https://preview.bazel.build/versions/7.2.0/start/java
+
+ERROR
+
