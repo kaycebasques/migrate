@@ -11188,3 +11188,10 @@ New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/providers/CcInfo
 
 ERROR
 
+## /versions/8.0.0/rules/lib/providers/ConstraintValueInfo
+
+Old URL: https://bazel.build/versions/8.0.0/rules/lib/providers/ConstraintValueInfo
+New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/providers/ConstraintValueInfo
+
+ERROR
+
