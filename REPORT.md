@@ -15731,3 +15731,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/contribute/search
 
 ERROR
 
+## /versions/8.5.0/docs
+
+Old URL: https://bazel.build/versions/8.5.0/docs
+New URL: https://preview.bazel.build/versions/8.5.0/docs
+
+ERROR
+
