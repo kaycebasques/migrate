@@ -3880,3 +3880,10 @@ New URL: https://preview.bazel.build/versions/6.1.0/remote/rules
 
 ERROR
 
+## /versions/6.1.0/rules/lib/globals
+
+Old URL: https://bazel.build/versions/6.1.0/rules/lib/globals
+New URL: https://preview.bazel.build/versions/6.1.0/rules/lib/globals
+
+ERROR
+
