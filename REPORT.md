@@ -9536,3 +9536,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/contribute/release-notes
 
 ERROR
 
+## /versions/7.7.0/contribute/search
+
+Old URL: https://bazel.build/versions/7.7.0/contribute/search
+New URL: https://preview.bazel.build/versions/7.7.0/contribute/search
+
+ERROR
+
