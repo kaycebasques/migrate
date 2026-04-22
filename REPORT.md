@@ -9102,3 +9102,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/rules/lib/globals/bzl
 
 ERROR
 
+## /versions/7.6.0/rules/lib/globals/module
+
+Old URL: https://bazel.build/versions/7.6.0/rules/lib/globals/module
+New URL: https://preview.bazel.build/versions/7.6.0/rules/lib/globals/module
+
+ERROR
+
