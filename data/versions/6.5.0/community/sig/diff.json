@@ -1,0 +1,7 @@
+{
+  "issues": [
+    "Several links have lost their link formatting and appear only as bold text, likely losing their functionality: 'Bazel owners, maintainers, and contributors' in the first paragraph, 'Bazel SIGs' in the third paragraph, the first occurrence of 'bazelbuild' in the fifth bullet point of 'Create the new group', and 'product@bazel.build' in the following paragraph.",
+    "Technical terms and links that were previously styled as monospace code (e.g., 'bazelbuild', 'bazel-discuss', 'bazelbuild/community', 'SIG-request-template.md') are now displayed in the standard sans-serif font.",
+    "There is an unnecessary extra space before the period following the term 'bazelbuild' at the end of the first paragraph."
+  ]
+}

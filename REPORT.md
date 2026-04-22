@@ -5034,3 +5034,16 @@ New URL: https://preview.bazel.build/versions/6.5.0/community/remote-execution-s
 
 OK
 
+## /versions/6.5.0/community/sig
+
+Old URL: https://bazel.build/versions/6.5.0/community/sig
+New URL: https://preview.bazel.build/versions/6.5.0/community/sig
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/community/sig](data/versions/6.5.0/community/sig/old.png) | ![https://preview.bazel.build/versions/6.5.0/community/sig](data/versions/6.5.0/community/sig/new.png) |
+
+- Several links have lost their link formatting and appear only as bold text, likely losing their functionality: 'Bazel owners, maintainers, and contributors' in the first paragraph, 'Bazel SIGs' in the third paragraph, the first occurrence of 'bazelbuild' in the fifth bullet point of 'Create the new group', and 'product@bazel.build' in the following paragraph.
+- Technical terms and links that were previously styled as monospace code (e.g., 'bazelbuild', 'bazel-discuss', 'bazelbuild/community', 'SIG-request-template.md') are now displayed in the standard sans-serif font.
+- There is an unnecessary extra space before the period following the term 'bazelbuild' at the end of the first paragraph.
+
