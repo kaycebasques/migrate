@@ -1732,3 +1732,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/DottedVersion
 
 OK
 
+## /rules/lib/builtins/ExecGroupCollection
+
+Old URL: https://bazel.build/rules/lib/builtins/ExecGroupCollection
+New URL: https://preview.bazel.build/rules/lib/builtins/ExecGroupCollection
+
+OK
+
