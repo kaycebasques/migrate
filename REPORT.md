@@ -16712,3 +16712,14 @@ New URL: https://preview.bazel.build/versions/9.0.0/install
 
 OK
 
+## /versions/9.0.0/install/bazelisk
+
+Old URL: https://bazel.build/versions/9.0.0/install/bazelisk
+New URL: https://preview.bazel.build/versions/9.0.0/install/bazelisk
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/9.0.0/install/bazelisk](data/versions/9.0.0/install/bazelisk/old.png) | ![https://preview.bazel.build/versions/9.0.0/install/bazelisk](data/versions/9.0.0/install/bazelisk/new.png) |
+
+- The '--incompatible_*' code snippet is incorrectly split into two separate segments and spans across two lines.
+

@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "The '--incompatible_*' code snippet is incorrectly split into two separate segments and spans across two lines."
+  ]
+}
