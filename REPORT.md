@@ -13176,3 +13176,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/run/scripts
 
 ERROR
 
+## /versions/8.2.0/start
+
+Old URL: https://bazel.build/versions/8.2.0/start
+New URL: https://preview.bazel.build/versions/8.2.0/start
+
+ERROR
+
