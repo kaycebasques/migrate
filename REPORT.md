@@ -5353,3 +5353,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/extending/rules
 
 OK
 
+## /versions/6.5.0/help
+
+Old URL: https://bazel.build/versions/6.5.0/help
+New URL: https://preview.bazel.build/versions/6.5.0/help
+
+OK
+
