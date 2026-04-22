@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "In the 'Parameters' table, the descriptions for 'success' and 'message' are missing a line break between the type/requirement information (e.g., 'bool; required') and the descriptive text, causing them to run together."
+  ]
+}

@@ -2435,3 +2435,14 @@ New URL: https://preview.bazel.build/rules/lib/providers
 
 OK
 
+## /rules/lib/providers/AnalysisTestResultInfo
+
+Old URL: https://bazel.build/rules/lib/providers/AnalysisTestResultInfo
+New URL: https://preview.bazel.build/rules/lib/providers/AnalysisTestResultInfo
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/providers/AnalysisTestResultInfo](data/rules/lib/providers/AnalysisTestResultInfo/old.png) | ![https://preview.bazel.build/rules/lib/providers/AnalysisTestResultInfo](data/rules/lib/providers/AnalysisTestResultInfo/new.png) |
+
+- In the 'Parameters' table, the descriptions for 'success' and 'message' are missing a line break between the type/requirement information (e.g., 'bool; required') and the descriptive text, causing them to run together.
+
