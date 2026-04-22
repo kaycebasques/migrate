@@ -4769,3 +4769,10 @@ New URL: https://preview.bazel.build/versions/6.4.0/extending/toolchains
 
 ERROR
 
+## /versions/6.4.0/install
+
+Old URL: https://bazel.build/versions/6.4.0/install
+New URL: https://preview.bazel.build/versions/6.4.0/install
+
+ERROR
+
