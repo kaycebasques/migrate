@@ -1,0 +1,9 @@
+{
+  "issues": [
+    "The hero image and green header background from the original 'Extending Bazel' page are missing.",
+    "The card-based dashboard layout from the original site has been replaced by a long-form article, significantly changing the page's structure and usability as a landing page.",
+    "Several major documentation sections and their links are missing from the new page, including 'Depsets', 'Configuring', 'Challenges', 'Writing rules for Windows', 'Platforms', 'Execution groups', and 'Toolchains'.",
+    "There are extraneous spaces before punctuation marks (periods and commas) that follow monospaced code blocks, such as in '.bzl .', 'genrule ,', and 'genrule .'.",
+    "In the 'Evaluation model' section, there is an extraneous space after an opening parenthesis: '( load() statements)'."
+  ]
+}
