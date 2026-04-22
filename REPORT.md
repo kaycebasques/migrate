@@ -1490,3 +1490,15 @@ New URL: https://preview.bazel.build/remote/dynamic
 
 OK
 
+## /remote/multiplex
+
+Old URL: https://bazel.build/remote/multiplex
+New URL: https://preview.bazel.build/remote/multiplex
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/remote/multiplex](data/remote/multiplex/old.png) | ![https://preview.bazel.build/remote/multiplex](data/remote/multiplex/new.png) |
+
+- The 'Caution' callout is unstyled and appears as plain text, missing the distinctive background and icon from the original site.
+- Inline code snippets are inconsistently styled; many terms (e.g., 'WorkerProxy', 'request_id') in the first half of the page are missing the light grey background highlight that is present in the original site and in other code snippets later on the same page.
+
