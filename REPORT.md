@@ -2300,3 +2300,10 @@ New URL: https://preview.bazel.build/rules/lib/fragments/bazel_android
 
 OK
 
+## /rules/lib/fragments/coverage
+
+Old URL: https://bazel.build/rules/lib/fragments/coverage
+New URL: https://preview.bazel.build/rules/lib/fragments/coverage
+
+OK
+
