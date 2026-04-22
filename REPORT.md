@@ -7681,3 +7681,10 @@ New URL: https://preview.bazel.build/versions/7.3.0/extending
 
 ERROR
 
+## /versions/7.3.0/extending/aspects
+
+Old URL: https://bazel.build/versions/7.3.0/extending/aspects
+New URL: https://preview.bazel.build/versions/7.3.0/extending/aspects
+
+ERROR
+
