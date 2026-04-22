@@ -7513,3 +7513,10 @@ New URL: https://preview.bazel.build/versions/7.2.0/run/build
 
 ERROR
 
+## /versions/7.2.0/start
+
+Old URL: https://bazel.build/versions/7.2.0/start
+New URL: https://preview.bazel.build/versions/7.2.0/start
+
+ERROR
+
