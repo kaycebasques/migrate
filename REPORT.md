@@ -3740,3 +3740,10 @@ New URL: https://preview.bazel.build/versions/6.1.0/extending
 
 ERROR
 
+## /versions/6.1.0/extending/concepts
+
+Old URL: https://bazel.build/versions/6.1.0/extending/concepts
+New URL: https://preview.bazel.build/versions/6.1.0/extending/concepts
+
+ERROR
+
