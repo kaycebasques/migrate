@@ -3831,3 +3831,10 @@ New URL: https://preview.bazel.build/versions/6.1.0/query/aquery
 
 ERROR
 
+## /versions/6.1.0/reference
+
+Old URL: https://bazel.build/versions/6.1.0/reference
+New URL: https://preview.bazel.build/versions/6.1.0/reference
+
+ERROR
+
