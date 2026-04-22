@@ -15668,3 +15668,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/configure/attributes
 
 ERROR
 
+## /versions/8.5.0/configure/best-practices
+
+Old URL: https://bazel.build/versions/8.5.0/configure/best-practices
+New URL: https://preview.bazel.build/versions/8.5.0/configure/best-practices
+
+ERROR
+
