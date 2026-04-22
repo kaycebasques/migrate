@@ -9879,3 +9879,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/remote/cache-local
 
 ERROR
 
+## /versions/7.7.0/remote/cache-remote
+
+Old URL: https://bazel.build/versions/7.7.0/remote/cache-remote
+New URL: https://preview.bazel.build/versions/7.7.0/remote/cache-remote
+
+ERROR
+
