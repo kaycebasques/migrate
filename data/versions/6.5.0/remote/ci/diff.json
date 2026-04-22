@@ -1,0 +1,8 @@
+{
+  "issues": [
+    "Images are missing in the 'Setting up the Bazel CI for testing' section (replaced by placeholder text like 'Example results' and 'Branch protection rules settings').",
+    "In the 'Building the rbe-ubuntu16-04 container from source' section, the command 'gcloud docker -- pull ...' is rendered as unformatted text outside of a code block.",
+    "Raw HTML and Markdown syntax is visible in the 'Running the custom container' section, such as '### Running the custom container' and 'posix-terminal'.",
+    "Literal HTML '<var>' tags are visible in several code blocks and within body text throughout the document, rather than being rendered correctly as placeholders."
+  ]
+}

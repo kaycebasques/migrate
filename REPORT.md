@@ -5680,3 +5680,17 @@ New URL: https://preview.bazel.build/versions/6.5.0/remote/caching
 
 - Literal HTML tags (<var> and </var>) are visible as unrendered text in multiple code blocks and inline code snippets (e.g., in the 'Google Cloud Storage', 'Read from and write to the remote cache', 'Unix sockets', and 'Disk cache' sections).
 
+## /versions/6.5.0/remote/ci
+
+Old URL: https://bazel.build/versions/6.5.0/remote/ci
+New URL: https://preview.bazel.build/versions/6.5.0/remote/ci
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/remote/ci](data/versions/6.5.0/remote/ci/old.png) | ![https://preview.bazel.build/versions/6.5.0/remote/ci](data/versions/6.5.0/remote/ci/new.png) |
+
+- Images are missing in the 'Setting up the Bazel CI for testing' section (replaced by placeholder text like 'Example results' and 'Branch protection rules settings').
+- In the 'Building the rbe-ubuntu16-04 container from source' section, the command 'gcloud docker -- pull ...' is rendered as unformatted text outside of a code block.
+- Raw HTML and Markdown syntax is visible in the 'Running the custom container' section, such as '### Running the custom container' and 'posix-terminal'.
+- Literal HTML '<var>' tags are visible in several code blocks and within body text throughout the document, rather than being rendered correctly as placeholders.
+
