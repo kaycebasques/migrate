@@ -1,0 +1,6 @@
+{
+  "issues": [
+    "The parameter name \"compilation_context\" in the first column of the Parameters table is incorrectly wrapped across two lines.",
+    "There is inconsistent spacing around punctuation in the Parameters table; specifically, there are unnecessary spaces before semicolons and periods (e.g., 'CompilationContext ;' and 'CompilationContext .')."
+  ]
+}

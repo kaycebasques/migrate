@@ -2446,3 +2446,15 @@ New URL: https://preview.bazel.build/rules/lib/providers/AnalysisTestResultInfo
 
 - In the 'Parameters' table, the descriptions for 'success' and 'message' are missing a line break between the type/requirement information (e.g., 'bool; required') and the descriptive text, causing them to run together.
 
+## /rules/lib/providers/CcInfo
+
+Old URL: https://bazel.build/rules/lib/providers/CcInfo
+New URL: https://preview.bazel.build/rules/lib/providers/CcInfo
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/providers/CcInfo](data/rules/lib/providers/CcInfo/old.png) | ![https://preview.bazel.build/rules/lib/providers/CcInfo](data/rules/lib/providers/CcInfo/new.png) |
+
+- The parameter name "compilation_context" in the first column of the Parameters table is incorrectly wrapped across two lines.
+- There is inconsistent spacing around punctuation in the Parameters table; specifically, there are unnecessary spaces before semicolons and periods (e.g., 'CompilationContext ;' and 'CompilationContext .').
+
