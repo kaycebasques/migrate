@@ -2810,3 +2810,10 @@ New URL: https://preview.bazel.build/rules/lib/toplevel/platform_common
 
 OK
 
+## /rules/lib/toplevel/proto
+
+Old URL: https://bazel.build/rules/lib/toplevel/proto
+New URL: https://preview.bazel.build/rules/lib/toplevel/proto
+
+OK
+
