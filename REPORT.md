@@ -2560,3 +2560,15 @@ New URL: https://preview.bazel.build/rules/lib/providers/InstrumentedFilesInfo
 
 OK
 
+## /rules/lib/providers/JavaRuntimeInfo
+
+Old URL: https://bazel.build/rules/lib/providers/JavaRuntimeInfo
+New URL: https://preview.bazel.build/rules/lib/providers/JavaRuntimeInfo
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/providers/JavaRuntimeInfo](data/rules/lib/providers/JavaRuntimeInfo/old.png) | ![https://preview.bazel.build/rules/lib/providers/JavaRuntimeInfo](data/rules/lib/providers/JavaRuntimeInfo/new.png) |
+
+- The type names (e.g., File, depset, sequence, string, int) in the member signatures are no longer clickable links as they were in the old site.
+- The 'On this page' navigation sidebar has lost its hierarchical indentation, making it harder to distinguish sub-items from the 'Members' heading.
+

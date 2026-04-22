@@ -1,0 +1,6 @@
+{
+  "issues": [
+    "The type names (e.g., File, depset, sequence, string, int) in the member signatures are no longer clickable links as they were in the old site.",
+    "The 'On this page' navigation sidebar has lost its hierarchical indentation, making it harder to distinguish sub-items from the 'Members' heading."
+  ]
+}
