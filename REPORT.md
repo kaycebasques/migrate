@@ -4503,3 +4503,10 @@ New URL: https://preview.bazel.build/versions/6.3.0/build/style-guide
 
 ERROR
 
+## /versions/6.3.0/community/update
+
+Old URL: https://bazel.build/versions/6.3.0/community/update
+New URL: https://preview.bazel.build/versions/6.3.0/community/update
+
+ERROR
+
