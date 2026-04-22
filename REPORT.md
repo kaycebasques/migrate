@@ -13834,3 +13834,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/reference/be/python
 
 ERROR
 
+## /versions/8.3.0/reference/be/workspace
+
+Old URL: https://bazel.build/versions/8.3.0/reference/be/workspace
+New URL: https://preview.bazel.build/versions/8.3.0/reference/be/workspace
+
+ERROR
+
