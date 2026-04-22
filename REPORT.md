@@ -13505,3 +13505,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/contribute/docs-style-guide
 
 ERROR
 
+## /versions/8.3.0/contribute/maintainers-guide
+
+Old URL: https://bazel.build/versions/8.3.0/contribute/maintainers-guide
+New URL: https://preview.bazel.build/versions/8.3.0/contribute/maintainers-guide
+
+ERROR
+
