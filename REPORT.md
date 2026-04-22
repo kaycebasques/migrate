@@ -3719,3 +3719,10 @@ New URL: https://preview.bazel.build/versions/6.1.0/configure/toolchain-resoluti
 
 ERROR
 
+## /versions/6.1.0/docs
+
+Old URL: https://bazel.build/versions/6.1.0/docs
+New URL: https://preview.bazel.build/versions/6.1.0/docs
+
+ERROR
+
