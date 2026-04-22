@@ -10712,3 +10712,10 @@ New URL: https://preview.bazel.build/versions/8.0.0/install/bazelisk
 
 ERROR
 
+## /versions/8.0.0/install/ubuntu
+
+Old URL: https://bazel.build/versions/8.0.0/install/ubuntu
+New URL: https://preview.bazel.build/versions/8.0.0/install/ubuntu
+
+ERROR
+
