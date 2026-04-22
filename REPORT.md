@@ -3103,3 +3103,10 @@ New URL: https://preview.bazel.build/versions/6.0.0/community
 
 ERROR
 
+## /versions/6.0.0/community/recommended-rules
+
+Old URL: https://bazel.build/versions/6.0.0/community/recommended-rules
+New URL: https://preview.bazel.build/versions/6.0.0/community/recommended-rules
+
+ERROR
+
