@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "The 'On this page' table of contents sidebar is truncated and missing several items that are present in the original page (TargetSummary, TestResult, TestSummary, UnstructuredCommandLine, WorkspaceConfig, and WorkspaceStatus)."
+  ]
+}

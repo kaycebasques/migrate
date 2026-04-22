@@ -5658,3 +5658,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/remote/bep-examples
 
 - The 'Note' callout in the 'Aspect Results in BEP' section is unstyled in the new website; it appears as plain text instead of being contained within a colored callout box with an icon as it was in the original site.
 
+## /versions/6.5.0/remote/bep-glossary
+
+Old URL: https://bazel.build/versions/6.5.0/remote/bep-glossary
+New URL: https://preview.bazel.build/versions/6.5.0/remote/bep-glossary
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/remote/bep-glossary](data/versions/6.5.0/remote/bep-glossary/old.png) | ![https://preview.bazel.build/versions/6.5.0/remote/bep-glossary](data/versions/6.5.0/remote/bep-glossary/new.png) |
+
+- The 'On this page' table of contents sidebar is truncated and missing several items that are present in the original page (TargetSummary, TestResult, TestSummary, UnstructuredCommandLine, WorkspaceConfig, and WorkspaceStatus).
+
