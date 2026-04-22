@@ -1659,3 +1659,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/Action
 
 OK
 
+## /rules/lib/builtins/Args
+
+Old URL: https://bazel.build/rules/lib/builtins/Args
+New URL: https://preview.bazel.build/rules/lib/builtins/Args
+
+OK
+
