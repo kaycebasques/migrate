@@ -2609,3 +2609,10 @@ New URL: https://preview.bazel.build/rules/lib/providers/PlatformInfo
 
 - The inline code snippet "--experimental_platforms_api" is incorrectly split into two separate parts with an extra space and is wrapped across two lines.
 
+## /rules/lib/providers/RunEnvironmentInfo
+
+Old URL: https://bazel.build/rules/lib/providers/RunEnvironmentInfo
+New URL: https://preview.bazel.build/rules/lib/providers/RunEnvironmentInfo
+
+OK
+
