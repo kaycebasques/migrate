@@ -5279,3 +5279,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/extending
 - There are extraneous spaces before punctuation marks (periods and commas) that follow monospaced code blocks, such as in '.bzl .', 'genrule ,', and 'genrule .'.
 - In the 'Evaluation model' section, there is an extraneous space after an opening parenthesis: '( load() statements)'.
 
+## /versions/6.5.0/extending/aspects
+
+Old URL: https://bazel.build/versions/6.5.0/extending/aspects
+New URL: https://preview.bazel.build/versions/6.5.0/extending/aspects
+
+OK
+
