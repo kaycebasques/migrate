@@ -1904,3 +1904,14 @@ New URL: https://preview.bazel.build/rules/lib/builtins/bazel_module
 
 OK
 
+## /rules/lib/builtins/bazel_module_tags
+
+Old URL: https://bazel.build/rules/lib/builtins/bazel_module_tags
+New URL: https://preview.bazel.build/rules/lib/builtins/bazel_module_tags
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/builtins/bazel_module_tags](data/rules/lib/builtins/bazel_module_tags/old.png) | ![https://preview.bazel.build/rules/lib/builtins/bazel_module_tags](data/rules/lib/builtins/bazel_module_tags/new.png) |
+
+- Smart quotes are used instead of straight quotes in the body text (e.g., “tag instance” instead of "tag instance").
+

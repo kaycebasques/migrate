@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "Smart quotes are used instead of straight quotes in the body text (e.g., \u201ctag instance\u201d instead of \"tag instance\")."
+  ]
+}
