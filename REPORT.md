@@ -8570,3 +8570,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/configure/windows
 
 ERROR
 
+## /versions/7.6.0/contribute
+
+Old URL: https://bazel.build/versions/7.6.0/contribute
+New URL: https://preview.bazel.build/versions/7.6.0/contribute
+
+ERROR
+
