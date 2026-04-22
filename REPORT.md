@@ -6029,3 +6029,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/tutorials/cpp-use-cases
 
 - The 'Note' callout in the 'Including external libraries' section has lost its distinct styling (the blue box and star icon) from the original site and now appears as plain text, which makes it an unstyled admonition.
 
+## /versions/6.6.0
+
+Old URL: https://bazel.build/versions/6.6.0
+New URL: https://preview.bazel.build/versions/6.6.0
+
+ERROR
+
