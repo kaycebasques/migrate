@@ -9592,3 +9592,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/extending/depsets
 
 ERROR
 
+## /versions/7.7.0/extending/exec-groups
+
+Old URL: https://bazel.build/versions/7.7.0/extending/exec-groups
+New URL: https://preview.bazel.build/versions/7.7.0/extending/exec-groups
+
+ERROR
+
