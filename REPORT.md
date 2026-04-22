@@ -11356,3 +11356,10 @@ New URL: https://preview.bazel.build/versions/8.1.0/community/update
 
 ERROR
 
+## /versions/8.1.0/concepts/build-ref
+
+Old URL: https://bazel.build/versions/8.1.0/concepts/build-ref
+New URL: https://preview.bazel.build/versions/8.1.0/concepts/build-ref
+
+ERROR
+
