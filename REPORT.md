@@ -11475,3 +11475,10 @@ New URL: https://preview.bazel.build/versions/8.1.0/reference/flag-cheatsheet
 
 ERROR
 
+## /versions/8.1.0/reference/glossary
+
+Old URL: https://bazel.build/versions/8.1.0/reference/glossary
+New URL: https://preview.bazel.build/versions/8.1.0/reference/glossary
+
+ERROR
+
