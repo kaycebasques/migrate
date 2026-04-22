@@ -3495,3 +3495,10 @@ New URL: https://preview.bazel.build/versions/6.0.0/remote/rules
 
 ERROR
 
+## /versions/6.0.0/remote/sandbox
+
+Old URL: https://bazel.build/versions/6.0.0/remote/sandbox
+New URL: https://preview.bazel.build/versions/6.0.0/remote/sandbox
+
+ERROR
+
