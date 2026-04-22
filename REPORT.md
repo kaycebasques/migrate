@@ -1793,3 +1793,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/LateBoundDefault
 
 OK
 
+## /rules/lib/builtins/LibraryToLink
+
+Old URL: https://bazel.build/rules/lib/builtins/LibraryToLink
+New URL: https://preview.bazel.build/rules/lib/builtins/LibraryToLink
+
+OK
+
