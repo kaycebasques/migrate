@@ -9844,3 +9844,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/release/backward-compatibili
 
 ERROR
 
+## /versions/7.7.0/release/rule-compatibility
+
+Old URL: https://bazel.build/versions/7.7.0/release/rule-compatibility
+New URL: https://preview.bazel.build/versions/7.7.0/release/rule-compatibility
+
+ERROR
+
