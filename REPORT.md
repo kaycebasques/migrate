@@ -16508,3 +16508,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/rules/lib/providers/FilesToR
 
 ERROR
 
+## /versions/8.5.0/rules/lib/providers/InstrumentedFilesInfo
+
+Old URL: https://bazel.build/versions/8.5.0/rules/lib/providers/InstrumentedFilesInfo
+New URL: https://preview.bazel.build/versions/8.5.0/rules/lib/providers/InstrumentedFilesInfo
+
+ERROR
+
