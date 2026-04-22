@@ -12819,3 +12819,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/rules/lib/builtins/Subrule
 
 ERROR
 
+## /versions/8.2.0/rules/lib/builtins/SymlinkEntry
+
+Old URL: https://bazel.build/versions/8.2.0/rules/lib/builtins/SymlinkEntry
+New URL: https://preview.bazel.build/versions/8.2.0/rules/lib/builtins/SymlinkEntry
+
+ERROR
+
