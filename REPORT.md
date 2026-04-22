@@ -11433,3 +11433,10 @@ New URL: https://preview.bazel.build/versions/8.1.0/install/bazelisk
 
 ERROR
 
+## /versions/8.1.0/migrate
+
+Old URL: https://bazel.build/versions/8.1.0/migrate
+New URL: https://preview.bazel.build/versions/8.1.0/migrate
+
+ERROR
+
