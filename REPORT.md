@@ -11006,3 +11006,10 @@ New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/builtins/macro
 
 ERROR
 
+## /versions/8.0.0/rules/lib/builtins/path
+
+Old URL: https://bazel.build/versions/8.0.0/rules/lib/builtins/path
+New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/builtins/path
+
+ERROR
+
