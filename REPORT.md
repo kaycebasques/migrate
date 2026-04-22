@@ -8990,3 +8990,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/rules/lib/builtins/Label
 
 ERROR
 
+## /versions/7.6.0/rules/lib/builtins/Provider
+
+Old URL: https://bazel.build/versions/7.6.0/rules/lib/builtins/Provider
+New URL: https://preview.bazel.build/versions/7.6.0/rules/lib/builtins/Provider
+
+ERROR
+
