@@ -5879,3 +5879,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/rules/performance
 
 - The callout in the 'Enabling memory tracking' section is unstyled, appearing as plain text between two horizontal rules rather than the original blue-boxed admonition with a star icon.
 
+## /versions/6.5.0/rules/rules-tutorial
+
+Old URL: https://bazel.build/versions/6.5.0/rules/rules-tutorial
+New URL: https://preview.bazel.build/versions/6.5.0/rules/rules-tutorial
+
+OK
+
