@@ -5758,3 +5758,16 @@ New URL: https://preview.bazel.build/versions/6.5.0/remote/rules
 - The link for 'Scala' in the 'Invoking build tools through toolchain rules' section is not rendered correctly and appears as raw Markdown text.
 - Multiple links that were present in the old version (Rust, Go, bash, cuda, python, and BUILD FILES) are missing in the new version, appearing as plain text instead.
 
+## /versions/6.5.0/remote/sandbox
+
+Old URL: https://bazel.build/versions/6.5.0/remote/sandbox
+New URL: https://preview.bazel.build/versions/6.5.0/remote/sandbox
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/remote/sandbox](data/versions/6.5.0/remote/sandbox/old.png) | ![https://preview.bazel.build/versions/6.5.0/remote/sandbox](data/versions/6.5.0/remote/sandbox/new.png) |
+
+- The admonitions (Note callouts) have lost their blue background and star icon styling, appearing as regular text.
+- Placeholders within code blocks, such as 'target' and 'your source code directory', have lost their distinctive pink background highlighting.
+- Syntax highlighting for comments and keywords is missing in several code blocks, such as the .bazelrc configuration block.
+
