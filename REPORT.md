@@ -8031,3 +8031,10 @@ New URL: https://preview.bazel.build/versions/7.4.0/concepts/build-ref
 
 ERROR
 
+## /versions/7.4.0/docs
+
+Old URL: https://bazel.build/versions/7.4.0/docs
+New URL: https://preview.bazel.build/versions/7.4.0/docs
+
+ERROR
+
