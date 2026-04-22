@@ -1347,3 +1347,19 @@ New URL: https://preview.bazel.build/reference/test-encyclopedia
 - The note callout in the 'Tag conventions' section is unstyled and missing its background color and icon compared to the original site.
 - Throughout the document (e.g., in 'Tag conventions', 'Runfiles', 'Execution platform', and the 'Initial conditions' table), link URLs are being explicitly displayed in parentheses next to the link text instead of being hidden behind the hyperlinks.
 
+## /release
+
+Old URL: https://bazel.build/release
+New URL: https://preview.bazel.build/release
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/release](data/release/old.png) | ![https://preview.bazel.build/release](data/release/new.png) |
+
+- In the 'Support matrix' table, the 'Latest version' for Bazel 9 is incorrectly listed as 9.0.2 instead of 9.1.0.
+- In the 'Release procedure & policies' section, step 2 incorrectly specifies the branch name as 'release-<version>' instead of 'release-v<version>'.
+- In the 'Release procedure & policies' section, step 5, the 'postsubmit' link is rendered as plain bold text and is missing its hyperlink.
+- In the 'Release procedure & policies' section, step 5, the link for 'downstream test pipeline' is broken, exposing raw Markdown syntax: '[downstream test pipeline] (https://buildkite.com/bazel/bazel-at-head-plus-downstream)'.
+- In the 'Report regressions' section, the 'bisect feature' link is broken, exposing raw Markdown syntax: '[bisect feature] (https://github.com/bazelbuild/bazelisk#--bisect)'.
+- Formatting for '@bazel-io flag' in section 3.1 of 'Release procedure & policies' has changed from a styled code block to quoted text with inconsistent spacing ('" @bazel-io flag "').
+
