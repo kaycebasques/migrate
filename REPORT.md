@@ -11167,3 +11167,10 @@ New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/globals/repo
 
 ERROR
 
+## /versions/8.0.0/rules/lib/globals/workspace
+
+Old URL: https://bazel.build/versions/8.0.0/rules/lib/globals/workspace
+New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/globals/workspace
+
+ERROR
+
