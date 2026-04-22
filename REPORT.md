@@ -5027,3 +5027,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/community/recommended-rules
 
 OK
 
+## /versions/6.5.0/community/remote-execution-services
+
+Old URL: https://bazel.build/versions/6.5.0/community/remote-execution-services
+New URL: https://preview.bazel.build/versions/6.5.0/community/remote-execution-services
+
+OK
+
