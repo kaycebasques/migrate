@@ -6981,3 +6981,10 @@ New URL: https://preview.bazel.build/versions/7.1.0/rules/lib/providers/DefaultI
 
 ERROR
 
+## /versions/7.1.0/rules/performance
+
+Old URL: https://bazel.build/versions/7.1.0/rules/performance
+New URL: https://preview.bazel.build/versions/7.1.0/rules/performance
+
+ERROR
+
