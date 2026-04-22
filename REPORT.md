@@ -2307,3 +2307,10 @@ New URL: https://preview.bazel.build/rules/lib/fragments/coverage
 
 OK
 
+## /rules/lib/fragments/cpp
+
+Old URL: https://bazel.build/rules/lib/fragments/cpp
+New URL: https://preview.bazel.build/rules/lib/fragments/cpp
+
+OK
+
