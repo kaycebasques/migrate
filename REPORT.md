@@ -6708,3 +6708,10 @@ New URL: https://preview.bazel.build/versions/7.1.0/extending/macros
 
 ERROR
 
+## /versions/7.1.0/extending/rules
+
+Old URL: https://bazel.build/versions/7.1.0/extending/rules
+New URL: https://preview.bazel.build/versions/7.1.0/extending/rules
+
+ERROR
+
