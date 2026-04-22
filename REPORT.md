@@ -5006,3 +5006,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/build/style-guide
 
 OK
 
+## /versions/6.5.0/community
+
+Old URL: https://bazel.build/versions/6.5.0/community
+New URL: https://preview.bazel.build/versions/6.5.0/community
+
+OK
+
