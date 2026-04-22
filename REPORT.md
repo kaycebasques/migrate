@@ -10523,3 +10523,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/tutorials/cpp-dependency
 
 ERROR
 
+## /versions/7.7.0/tutorials/cpp-labels
+
+Old URL: https://bazel.build/versions/7.7.0/tutorials/cpp-labels
+New URL: https://preview.bazel.build/versions/7.7.0/tutorials/cpp-labels
+
+ERROR
+
