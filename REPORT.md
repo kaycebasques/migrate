@@ -14632,3 +14632,10 @@ New URL: https://preview.bazel.build/versions/8.4.0/about/roadmap
 
 ERROR
 
+## /versions/8.4.0/basics
+
+Old URL: https://bazel.build/versions/8.4.0/basics
+New URL: https://preview.bazel.build/versions/8.4.0/basics
+
+ERROR
+
