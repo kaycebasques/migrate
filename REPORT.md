@@ -12518,3 +12518,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/reference/command-line-refer
 
 ERROR
 
+## /versions/8.2.0/reference/flag-cheatsheet
+
+Old URL: https://bazel.build/versions/8.2.0/reference/flag-cheatsheet
+New URL: https://preview.bazel.build/versions/8.2.0/reference/flag-cheatsheet
+
+ERROR
+
