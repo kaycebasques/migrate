@@ -3019,3 +3019,10 @@ New URL: https://preview.bazel.build/versions
 
 OK
 
+## /versions/6.0.0/about
+
+Old URL: https://bazel.build/versions/6.0.0/about
+New URL: https://preview.bazel.build/versions/6.0.0/about
+
+ERROR
+
