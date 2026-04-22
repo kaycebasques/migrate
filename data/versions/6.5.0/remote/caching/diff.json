@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "Literal HTML tags (<var> and </var>) are visible as unrendered text in multiple code blocks and inline code snippets (e.g., in the 'Google Cloud Storage', 'Read from and write to the remote cache', 'Unix sockets', and 'Disk cache' sections)."
+  ]
+}

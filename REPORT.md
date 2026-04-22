@@ -5669,3 +5669,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/remote/bep-glossary
 
 - The 'On this page' table of contents sidebar is truncated and missing several items that are present in the original page (TargetSummary, TestResult, TestSummary, UnstructuredCommandLine, WorkspaceConfig, and WorkspaceStatus).
 
+## /versions/6.5.0/remote/caching
+
+Old URL: https://bazel.build/versions/6.5.0/remote/caching
+New URL: https://preview.bazel.build/versions/6.5.0/remote/caching
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/remote/caching](data/versions/6.5.0/remote/caching/old.png) | ![https://preview.bazel.build/versions/6.5.0/remote/caching](data/versions/6.5.0/remote/caching/new.png) |
+
+- Literal HTML tags (<var> and </var>) are visible as unrendered text in multiple code blocks and inline code snippets (e.g., in the 'Google Cloud Storage', 'Read from and write to the remote cache', 'Unix sockets', and 'Disk cache' sections).
+
