@@ -8059,3 +8059,10 @@ New URL: https://preview.bazel.build/versions/7.4.0/extending/config
 
 ERROR
 
+## /versions/7.4.0/extending/repo
+
+Old URL: https://bazel.build/versions/7.4.0/extending/repo
+New URL: https://preview.bazel.build/versions/7.4.0/extending/repo
+
+ERROR
+
