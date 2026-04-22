@@ -2875,3 +2875,16 @@ New URL: https://preview.bazel.build/rules/windows
 
 OK
 
+## /run/bazelrc
+
+Old URL: https://bazel.build/run/bazelrc
+New URL: https://preview.bazel.build/run/bazelrc
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/run/bazelrc](data/run/bazelrc/old.png) | ![https://preview.bazel.build/run/bazelrc](data/run/bazelrc/new.png) |
+
+- The 'Note' admonition in the '--config' section is unstyled, lacking the blue background and star icon present in the original site.
+- The 'Option precedence' heading is missing from the 'On this page' table of contents in the right sidebar.
+- The list under 'The inheritance (specificity) graph is:' has a nesting error; the final bullet point beginning with 'coverage, fetch, and vendor' should be nested under the previous point.
+
