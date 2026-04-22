@@ -1,0 +1,10 @@
+{
+  "issues": [
+    "Presence of internal TODO comments such as '// TODO: ### Build event protocol' and '// TODO: ### Build flag' under the '.bzl file' section.",
+    "Presence of an internal TODO comment '// TODO: ### Configuration fragment' under the 'Configuration' section.",
+    "Presence of an internal TODO comment '// TODO: ### Install base' under the 'Incremental build' section.",
+    "Presence of an internal TODO comment '// TODO: ### Repository rule' under the 'Repository cache' section.",
+    "Presence of an internal TODO comment '// TODO: ### Spawn strategy' under the 'Skyframe' section.",
+    "Presence of internal TODO comments '// TODO: ### Starlark rules' and '// TODO: ### Starlark rule sandwich' under the 'Starlark' section."
+  ]
+}
