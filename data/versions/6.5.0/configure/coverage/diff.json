@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "In the 'Python' section under 'Prerequisites', the second bullet point includes an internal comment ('// TODO: Upstream an lcov implementation so that this becomes usable') that was not present on the original site."
+  ]
+}

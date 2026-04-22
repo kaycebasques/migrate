@@ -5139,3 +5139,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/configure/best-practices
 
 - Literal HTML tags (<var>) are visible in the text under the 'Using the .bazelrc file' section.
 
+## /versions/6.5.0/configure/coverage
+
+Old URL: https://bazel.build/versions/6.5.0/configure/coverage
+New URL: https://preview.bazel.build/versions/6.5.0/configure/coverage
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/configure/coverage](data/versions/6.5.0/configure/coverage/old.png) | ![https://preview.bazel.build/versions/6.5.0/configure/coverage](data/versions/6.5.0/configure/coverage/new.png) |
+
+- In the 'Python' section under 'Prerequisites', the second bullet point includes an internal comment ('// TODO: Upstream an lcov implementation so that this becomes usable') that was not present on the original site.
+
