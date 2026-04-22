@@ -5485,3 +5485,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/migrate/maven
 
 - Unstyled callouts
 
+## /versions/6.5.0/migrate/xcode
+
+Old URL: https://bazel.build/versions/6.5.0/migrate/xcode
+New URL: https://preview.bazel.build/versions/6.5.0/migrate/xcode
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/migrate/xcode](data/versions/6.5.0/migrate/xcode/old.png) | ![https://preview.bazel.build/versions/6.5.0/migrate/xcode](data/versions/6.5.0/migrate/xcode/new.png) |
+
+- Unstyled callouts i.e. admonitions
+
