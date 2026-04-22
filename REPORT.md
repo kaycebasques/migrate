@@ -4587,3 +4587,10 @@ New URL: https://preview.bazel.build/versions/6.3.0/install/redhat
 
 ERROR
 
+## /versions/6.3.0/install/windows
+
+Old URL: https://bazel.build/versions/6.3.0/install/windows
+New URL: https://preview.bazel.build/versions/6.3.0/install/windows
+
+ERROR
+
