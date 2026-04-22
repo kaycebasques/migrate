@@ -3341,3 +3341,10 @@ New URL: https://preview.bazel.build/versions/6.0.0/migrate
 
 ERROR
 
+## /versions/6.0.0/migrate/maven
+
+Old URL: https://bazel.build/versions/6.0.0/migrate/maven
+New URL: https://preview.bazel.build/versions/6.0.0/migrate/maven
+
+ERROR
+
