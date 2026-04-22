@@ -8549,3 +8549,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/configure/attributes
 
 ERROR
 
+## /versions/7.6.0/configure/coverage
+
+Old URL: https://bazel.build/versions/7.6.0/configure/coverage
+New URL: https://preview.bazel.build/versions/7.6.0/configure/coverage
+
+ERROR
+
