@@ -14905,3 +14905,10 @@ New URL: https://preview.bazel.build/versions/8.4.0/migrate
 
 ERROR
 
+## /versions/8.4.0/query/language
+
+Old URL: https://bazel.build/versions/8.4.0/query/language
+New URL: https://preview.bazel.build/versions/8.4.0/query/language
+
+ERROR
+
