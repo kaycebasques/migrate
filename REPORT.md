@@ -16319,3 +16319,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/rules/lib/builtins/path
 
 ERROR
 
+## /versions/8.5.0/rules/lib/builtins/repo_metadata
+
+Old URL: https://bazel.build/versions/8.5.0/rules/lib/builtins/repo_metadata
+New URL: https://preview.bazel.build/versions/8.5.0/rules/lib/builtins/repo_metadata
+
+ERROR
+
