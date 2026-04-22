@@ -1620,3 +1620,16 @@ New URL: https://preview.bazel.build/rules/faq
 - The section heading 'How can I control which files are built by bazel build //pkg:mytarget ?' has an unnecessary space before the question mark.
 - The 'REPORT AN ISSUE' and 'VIEW SOURCE' buttons present in the original page are missing in the new version.
 
+## /rules/language
+
+Old URL: https://bazel.build/rules/language
+New URL: https://preview.bazel.build/rules/language
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/language](data/rules/language/old.png) | ![https://preview.bazel.build/rules/language](data/rules/language/new.png) |
+
+- In the "Differences between BUILD and .bzl files" section, the terms "BUILD", "*args", and "**kwargs" in the third paragraph are missing inline code styling (monospace font and background).
+- In the "Differences with Python" section, the comparison operators "<" and "<=" are missing inline code styling, while ">=" and ">" in the same sentence are correctly styled.
+- In the "Differences with Python" section, the word "if" in the phrase "However, if expressions can be used" is missing inline code styling, while the "if" at the beginning of the previous sentence is correctly styled.
+
