@@ -10376,3 +10376,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/repo/http
 
 ERROR
 
+## /versions/7.7.0/rules/lib/toplevel/apple_common
+
+Old URL: https://bazel.build/versions/7.7.0/rules/lib/toplevel/apple_common
+New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/toplevel/apple_common
+
+ERROR
+
