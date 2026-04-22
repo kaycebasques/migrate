@@ -12539,3 +12539,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/reference/test-encyclopedia
 
 ERROR
 
+## /versions/8.2.0/release
+
+Old URL: https://bazel.build/versions/8.2.0/release
+New URL: https://preview.bazel.build/versions/8.2.0/release
+
+ERROR
+
