@@ -1746,3 +1746,15 @@ New URL: https://preview.bazel.build/rules/lib/builtins/ExecTransitionFactory
 
 OK
 
+## /rules/lib/builtins/Facts
+
+Old URL: https://bazel.build/rules/lib/builtins/Facts
+New URL: https://preview.bazel.build/rules/lib/builtins/Facts
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/builtins/Facts](data/rules/lib/builtins/Facts/old.png) | ![https://preview.bazel.build/rules/lib/builtins/Facts](data/rules/lib/builtins/Facts/new.png) |
+
+- Line breaks are missing within the cells of the 'Parameters' table, causing text that should be on separate lines to be merged (e.g., 'required' and 'The key to look up').
+- Extra spaces have been introduced before punctuation marks (periods, commas, and parentheses) that follow inline code blocks in the introductory paragraph.
+
