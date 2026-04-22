@@ -15101,3 +15101,10 @@ New URL: https://preview.bazel.build/versions/8.4.0/rules/lib/builtins/LateBound
 
 ERROR
 
+## /versions/8.4.0/rules/lib/builtins/LinkingContext
+
+Old URL: https://bazel.build/versions/8.4.0/rules/lib/builtins/LinkingContext
+New URL: https://preview.bazel.build/versions/8.4.0/rules/lib/builtins/LinkingContext
+
+ERROR
+
