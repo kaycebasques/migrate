@@ -5013,3 +5013,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/community
 
 OK
 
+## /versions/6.5.0/community/experts
+
+Old URL: https://bazel.build/versions/6.5.0/community/experts
+New URL: https://preview.bazel.build/versions/6.5.0/community/experts
+
+ERROR
+
