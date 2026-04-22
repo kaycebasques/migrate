@@ -10061,3 +10061,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/LibraryTo
 
 ERROR
 
+## /versions/7.7.0/rules/lib/builtins/Provider
+
+Old URL: https://bazel.build/versions/7.7.0/rules/lib/builtins/Provider
+New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/Provider
+
+ERROR
+
