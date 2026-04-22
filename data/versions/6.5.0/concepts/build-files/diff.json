@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "The bottom navigation contains raw text \"arrow_backLabelsDependenciesarrow_forward\" which appears to be unrendered icon names concatenated with button labels."
+  ]
+}

@@ -5073,3 +5073,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/community/users
 
 - The logo for the GRAKN.AI entry in the 'Companies using Bazel' section incorrectly displays the alt text 'GRAKN.AI Logo' next to the logo icon.
 
+## /versions/6.5.0/concepts/build-files
+
+Old URL: https://bazel.build/versions/6.5.0/concepts/build-files
+New URL: https://preview.bazel.build/versions/6.5.0/concepts/build-files
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/concepts/build-files](data/versions/6.5.0/concepts/build-files/old.png) | ![https://preview.bazel.build/versions/6.5.0/concepts/build-files](data/versions/6.5.0/concepts/build-files/new.png) |
+
+- The bottom navigation contains raw text "arrow_backLabelsDependenciesarrow_forward" which appears to be unrendered icon names concatenated with button labels.
+
