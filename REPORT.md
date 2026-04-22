@@ -7926,3 +7926,10 @@ New URL: https://preview.bazel.build/versions/7.3.0/rules/lib/overview
 
 ERROR
 
+## /versions/7.3.0/rules/lib/repo/http
+
+Old URL: https://bazel.build/versions/7.3.0/rules/lib/repo/http
+New URL: https://preview.bazel.build/versions/7.3.0/rules/lib/repo/http
+
+ERROR
+
