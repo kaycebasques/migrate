@@ -14051,3 +14051,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/rules/lib/builtins/Action
 
 ERROR
 
+## /versions/8.3.0/rules/lib/builtins/Args
+
+Old URL: https://bazel.build/versions/8.3.0/rules/lib/builtins/Args
+New URL: https://preview.bazel.build/versions/8.3.0/rules/lib/builtins/Args
+
+ERROR
+
