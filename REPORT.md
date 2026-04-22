@@ -1718,3 +1718,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/CompilationContext
 
 OK
 
+## /rules/lib/builtins/DirectoryExpander
+
+Old URL: https://bazel.build/rules/lib/builtins/DirectoryExpander
+New URL: https://preview.bazel.build/rules/lib/builtins/DirectoryExpander
+
+OK
+
