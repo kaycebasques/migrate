@@ -4475,3 +4475,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/tutorials/cpp-use-cases
 
 ERROR
 
+## /versions/6.3.0/about
+
+Old URL: https://bazel.build/versions/6.3.0/about
+New URL: https://preview.bazel.build/versions/6.3.0/about
+
+ERROR
+
