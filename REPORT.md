@@ -14058,3 +14058,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/rules/lib/builtins/Args
 
 ERROR
 
+## /versions/8.3.0/rules/lib/builtins/Aspect
+
+Old URL: https://bazel.build/versions/8.3.0/rules/lib/builtins/Aspect
+New URL: https://preview.bazel.build/versions/8.3.0/rules/lib/builtins/Aspect
+
+ERROR
+
