@@ -7240,3 +7240,10 @@ New URL: https://preview.bazel.build/versions/7.2.0/extending/platforms
 
 ERROR
 
+## /versions/7.2.0/extending/repo
+
+Old URL: https://bazel.build/versions/7.2.0/extending/repo
+New URL: https://preview.bazel.build/versions/7.2.0/extending/repo
+
+ERROR
+
