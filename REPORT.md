@@ -16515,3 +16515,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/rules/lib/providers/Instrume
 
 ERROR
 
+## /versions/8.5.0/rules/lib/providers/OutputGroupInfo
+
+Old URL: https://bazel.build/versions/8.5.0/rules/lib/providers/OutputGroupInfo
+New URL: https://preview.bazel.build/versions/8.5.0/rules/lib/providers/OutputGroupInfo
+
+ERROR
+
