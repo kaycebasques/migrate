@@ -7072,3 +7072,10 @@ New URL: https://preview.bazel.build/versions/7.2.0/about/faq
 
 ERROR
 
+## /versions/7.2.0/about/intro
+
+Old URL: https://bazel.build/versions/7.2.0/about/intro
+New URL: https://preview.bazel.build/versions/7.2.0/about/intro
+
+ERROR
+
