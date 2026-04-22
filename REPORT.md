@@ -4209,3 +4209,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/install/ubuntu
 
 ERROR
 
+## /versions/6.2.0/migrate
+
+Old URL: https://bazel.build/versions/6.2.0/migrate
+New URL: https://preview.bazel.build/versions/6.2.0/migrate
+
+ERROR
+
