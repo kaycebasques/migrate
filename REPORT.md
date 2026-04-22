@@ -8815,3 +8815,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/query/guide
 
 ERROR
 
+## /versions/7.6.0/query/language
+
+Old URL: https://bazel.build/versions/7.6.0/query/language
+New URL: https://preview.bazel.build/versions/7.6.0/query/language
+
+ERROR
+
