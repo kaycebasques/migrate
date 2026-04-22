@@ -1592,3 +1592,10 @@ New URL: https://preview.bazel.build/rules/bzl-style
 - The 'Important' callout has lost its distinct styling, including the blue background and star icon, and now appears as a generic gray box.
 - There are unwanted spaces around inline code elements, particularly when they are inside parentheses or followed by punctuation (e.g., '( //visibility:private )' instead of '(//visibility:private)' and 'is , which' instead of 'is, which').
 
+## /rules/challenges
+
+Old URL: https://bazel.build/rules/challenges
+New URL: https://preview.bazel.build/rules/challenges
+
+OK
+
