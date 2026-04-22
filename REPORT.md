@@ -10390,3 +10390,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/toplevel/attr
 
 ERROR
 
+## /versions/7.7.0/rules/lib/toplevel/config
+
+Old URL: https://bazel.build/versions/7.7.0/rules/lib/toplevel/config
+New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/toplevel/config
+
+ERROR
+
