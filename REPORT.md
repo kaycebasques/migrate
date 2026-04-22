@@ -9648,3 +9648,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/install
 
 ERROR
 
+## /versions/7.7.0/install/bazelisk
+
+Old URL: https://bazel.build/versions/7.7.0/install/bazelisk
+New URL: https://preview.bazel.build/versions/7.7.0/install/bazelisk
+
+ERROR
+
