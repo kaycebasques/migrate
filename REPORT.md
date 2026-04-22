@@ -6302,3 +6302,10 @@ New URL: https://preview.bazel.build/versions/7.0.0/query/cquery
 
 ERROR
 
+## /versions/7.0.0/query/guide
+
+Old URL: https://bazel.build/versions/7.0.0/query/guide
+New URL: https://preview.bazel.build/versions/7.0.0/query/guide
+
+ERROR
+
