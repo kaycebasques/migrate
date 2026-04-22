@@ -7170,3 +7170,10 @@ New URL: https://preview.bazel.build/versions/7.2.0/contribute/codebase
 
 ERROR
 
+## /versions/7.2.0/contribute/search
+
+Old URL: https://bazel.build/versions/7.2.0/contribute/search
+New URL: https://preview.bazel.build/versions/7.2.0/contribute/search
+
+ERROR
+
