@@ -13918,3 +13918,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/remote/cache-local
 
 ERROR
 
+## /versions/8.3.0/remote/cache-remote
+
+Old URL: https://bazel.build/versions/8.3.0/remote/cache-remote
+New URL: https://preview.bazel.build/versions/8.3.0/remote/cache-remote
+
+ERROR
+
