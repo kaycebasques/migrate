@@ -8073,3 +8073,10 @@ New URL: https://preview.bazel.build/versions/7.4.0/install
 
 ERROR
 
+## /versions/7.4.0/migrate
+
+Old URL: https://bazel.build/versions/7.4.0/migrate
+New URL: https://preview.bazel.build/versions/7.4.0/migrate
+
+ERROR
+
