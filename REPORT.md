@@ -2895,3 +2895,16 @@ New URL: https://preview.bazel.build/run/build
 
 OK
 
+## /run/client-server
+
+Old URL: https://bazel.build/run/client-server
+New URL: https://preview.bazel.build/run/client-server
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/run/client-server](data/run/client-server/old.png) | ![https://preview.bazel.build/run/client-server](data/run/client-server/new.png) |
+
+- Extra spaces are introduced between inline code blocks and subsequent punctuation marks (e.g., '`--block_for_lock` )', '`--max_idle_secs` )', '`ps` ,', '`java` .)', and '`bazel` ,').
+- The plural word 'mtimes' is incorrectly rendered with a space between the code-styled 'mtime' and the letter 's'.
+- The inline code snippet 'ps -e f' is incorrectly split into two separate code elements and broken across a line break.
+

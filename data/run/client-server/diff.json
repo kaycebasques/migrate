@@ -1,0 +1,7 @@
+{
+  "issues": [
+    "Extra spaces are introduced between inline code blocks and subsequent punctuation marks (e.g., '`--block_for_lock` )', '`--max_idle_secs` )', '`ps` ,', '`java` .)', and '`bazel` ,').",
+    "The plural word 'mtimes' is incorrectly rendered with a space between the code-styled 'mtime' and the letter 's'.",
+    "The inline code snippet 'ps -e f' is incorrectly split into two separate code elements and broken across a line break."
+  ]
+}
