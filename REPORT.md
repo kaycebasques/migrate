@@ -15437,3 +15437,10 @@ New URL: https://preview.bazel.build/versions/8.4.0/rules/lib/toplevel/native
 
 ERROR
 
+## /versions/8.4.0/rules/macro-tutorial
+
+Old URL: https://bazel.build/versions/8.4.0/rules/macro-tutorial
+New URL: https://preview.bazel.build/versions/8.4.0/rules/macro-tutorial
+
+ERROR
+
