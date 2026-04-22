@@ -2051,3 +2051,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/repository_rule
 
 OK
 
+## /rules/lib/builtins/root
+
+Old URL: https://bazel.build/rules/lib/builtins/root
+New URL: https://preview.bazel.build/rules/lib/builtins/root
+
+OK
+
