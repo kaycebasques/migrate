@@ -11720,3 +11720,10 @@ New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/builtins/transitio
 
 ERROR
 
+## /versions/8.1.0/rules/lib/core/bool
+
+Old URL: https://bazel.build/versions/8.1.0/rules/lib/core/bool
+New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/core/bool
+
+ERROR
+
