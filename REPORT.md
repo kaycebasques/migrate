@@ -6911,3 +6911,10 @@ New URL: https://preview.bazel.build/versions/7.1.0/remote/dynamic
 
 ERROR
 
+## /versions/7.1.0/remote/output-directories
+
+Old URL: https://bazel.build/versions/7.1.0/remote/output-directories
+New URL: https://preview.bazel.build/versions/7.1.0/remote/output-directories
+
+ERROR
+
