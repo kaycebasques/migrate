@@ -11804,3 +11804,10 @@ New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/globals/bzl
 
 ERROR
 
+## /versions/8.1.0/rules/lib/globals/module
+
+Old URL: https://bazel.build/versions/8.1.0/rules/lib/globals/module
+New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/globals/module
+
+ERROR
+
