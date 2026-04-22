@@ -5911,3 +5911,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/run/bazelrc
 
 - Unstyled callout: The 'Note' section towards the bottom of the page is missing its visual styling (blue box and star icon) from the original site and is now rendered as plain text.
 
+## /versions/6.5.0/run/build
+
+Old URL: https://bazel.build/versions/6.5.0/run/build
+New URL: https://preview.bazel.build/versions/6.5.0/run/build
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/run/build](data/versions/6.5.0/run/build/old.png) | ![https://preview.bazel.build/versions/6.5.0/run/build](data/versions/6.5.0/run/build/new.png) |
+
+- Unstyled callouts i.e. admonitions
+
