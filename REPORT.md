@@ -3376,3 +3376,10 @@ New URL: https://preview.bazel.build/versions/6.0.0/query/language
 
 ERROR
 
+## /versions/6.0.0/query/quickstart
+
+Old URL: https://bazel.build/versions/6.0.0/query/quickstart
+New URL: https://preview.bazel.build/versions/6.0.0/query/quickstart
+
+ERROR
+
