@@ -14982,3 +14982,10 @@ New URL: https://preview.bazel.build/versions/8.4.0/release
 
 ERROR
 
+## /versions/8.4.0/remote/rbe
+
+Old URL: https://bazel.build/versions/8.4.0/remote/rbe
+New URL: https://preview.bazel.build/versions/8.4.0/remote/rbe
+
+ERROR
+
