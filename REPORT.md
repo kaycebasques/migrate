@@ -4398,3 +4398,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/rules/lib/starlark-overview
 
 ERROR
 
+## /versions/6.2.0/rules/performance
+
+Old URL: https://bazel.build/versions/6.2.0/rules/performance
+New URL: https://preview.bazel.build/versions/6.2.0/rules/performance
+
+ERROR
+
