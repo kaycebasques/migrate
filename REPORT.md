@@ -11202,3 +11202,10 @@ New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/providers/DefaultI
 
 ERROR
 
+## /versions/8.0.0/rules/lib/providers/ExecutionInfo
+
+Old URL: https://bazel.build/versions/8.0.0/rules/lib/providers/ExecutionInfo
+New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/providers/ExecutionInfo
+
+ERROR
+
