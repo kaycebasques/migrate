@@ -3621,3 +3621,10 @@ New URL: https://preview.bazel.build/versions/6.1.0/about
 
 ERROR
 
+## /versions/6.1.0/about/faq
+
+Old URL: https://bazel.build/versions/6.1.0/about/faq
+New URL: https://preview.bazel.build/versions/6.1.0/about/faq
+
+ERROR
+
