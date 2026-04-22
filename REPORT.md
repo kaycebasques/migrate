@@ -5944,3 +5944,15 @@ New URL: https://preview.bazel.build/versions/6.5.0/run/scripts
 
 OK
 
+## /versions/6.5.0/start
+
+Old URL: https://bazel.build/versions/6.5.0/start
+New URL: https://preview.bazel.build/versions/6.5.0/start
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/start](data/versions/6.5.0/start/old.png) | ![https://preview.bazel.build/versions/6.5.0/start](data/versions/6.5.0/start/new.png) |
+
+- Markdown links are not being correctly parsed throughout the page, leaving raw markdown syntax (brackets and parentheses) visible to the user.
+- Markdown image syntax is not being rendered in the 'Summary: stage 1' section, leaving the raw source text visible instead of an image.
+

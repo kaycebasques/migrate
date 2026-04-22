@@ -1,0 +1,6 @@
+{
+  "issues": [
+    "Markdown links are not being correctly parsed throughout the page, leaving raw markdown syntax (brackets and parentheses) visible to the user.",
+    "Markdown image syntax is not being rendered in the 'Summary: stage 1' section, leaving the raw source text visible instead of an image."
+  ]
+}
