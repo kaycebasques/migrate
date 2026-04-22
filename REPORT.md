@@ -5821,3 +5821,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/rules/lib/actions
 
 ERROR
 
+## /versions/6.5.0/rules/lib/attr
+
+Old URL: https://bazel.build/versions/6.5.0/rules/lib/attr
+New URL: https://preview.bazel.build/versions/6.5.0/rules/lib/attr
+
+ERROR
+
