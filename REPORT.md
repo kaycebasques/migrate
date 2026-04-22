@@ -9837,3 +9837,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/release
 
 ERROR
 
+## /versions/7.7.0/release/backward-compatibility
+
+Old URL: https://bazel.build/versions/7.7.0/release/backward-compatibility
+New URL: https://preview.bazel.build/versions/7.7.0/release/backward-compatibility
+
+ERROR
+
