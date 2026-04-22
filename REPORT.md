@@ -12490,3 +12490,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/reference/be/common-definiti
 
 ERROR
 
+## /versions/8.2.0/reference/be/java
+
+Old URL: https://bazel.build/versions/8.2.0/reference/be/java
+New URL: https://preview.bazel.build/versions/8.2.0/reference/be/java
+
+ERROR
+
