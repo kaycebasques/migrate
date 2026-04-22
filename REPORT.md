@@ -2961,3 +2961,10 @@ New URL: https://preview.bazel.build/start/go
 
 OK
 
+## /start/ios-app
+
+Old URL: https://bazel.build/start/ios-app
+New URL: https://preview.bazel.build/start/ios-app
+
+OK
+
