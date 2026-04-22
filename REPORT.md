@@ -7016,3 +7016,10 @@ New URL: https://preview.bazel.build/versions/7.1.0/start
 
 ERROR
 
+## /versions/7.1.0/start/cpp
+
+Old URL: https://bazel.build/versions/7.1.0/start/cpp
+New URL: https://preview.bazel.build/versions/7.1.0/start/cpp
+
+ERROR
+
