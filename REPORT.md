@@ -8360,3 +8360,10 @@ New URL: https://preview.bazel.build/versions/7.5.0/rules/testing
 
 ERROR
 
+## /versions/7.5.0/start
+
+Old URL: https://bazel.build/versions/7.5.0/start
+New URL: https://preview.bazel.build/versions/7.5.0/start
+
+ERROR
+
