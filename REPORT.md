@@ -9123,3 +9123,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/rules/lib/providers/CcInfo
 
 ERROR
 
+## /versions/7.6.0/rules/lib/providers/DefaultInfo
+
+Old URL: https://bazel.build/versions/7.6.0/rules/lib/providers/DefaultInfo
+New URL: https://preview.bazel.build/versions/7.6.0/rules/lib/providers/DefaultInfo
+
+ERROR
+
