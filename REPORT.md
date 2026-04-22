@@ -10152,3 +10152,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/module_ct
 
 ERROR
 
+## /versions/7.7.0/rules/lib/builtins/path
+
+Old URL: https://bazel.build/versions/7.7.0/rules/lib/builtins/path
+New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/path
+
+ERROR
+
