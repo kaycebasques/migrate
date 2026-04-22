@@ -15682,3 +15682,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/configure/coverage
 
 ERROR
 
+## /versions/8.5.0/configure/windows
+
+Old URL: https://bazel.build/versions/8.5.0/configure/windows
+New URL: https://preview.bazel.build/versions/8.5.0/configure/windows
+
+ERROR
+
