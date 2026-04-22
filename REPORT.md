@@ -1556,3 +1556,14 @@ New URL: https://preview.bazel.build/remote/sandbox
 - Placeholders in code blocks (such as '<target>', '<your source code directory>', and 'XX') have lost their pink highlighting.
 - External link icons are missing from links throughout the page.
 
+## /remote/workspace
+
+Old URL: https://bazel.build/remote/workspace
+New URL: https://preview.bazel.build/remote/workspace
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/remote/workspace](data/remote/workspace/old.png) | ![https://preview.bazel.build/remote/workspace](data/remote/workspace/new.png) |
+
+- The note callout in the 'Finding non-hermetic rules' section has lost its styling (blue background and star icon) and is now plain text.
+
