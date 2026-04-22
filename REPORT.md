@@ -4384,3 +4384,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/rules/language
 
 ERROR
 
+## /versions/6.2.0/rules/lib/cc_common
+
+Old URL: https://bazel.build/versions/6.2.0/rules/lib/cc_common
+New URL: https://preview.bazel.build/versions/6.2.0/rules/lib/cc_common
+
+ERROR
+
