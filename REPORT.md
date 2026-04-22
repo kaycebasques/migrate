@@ -6666,3 +6666,10 @@ New URL: https://preview.bazel.build/versions/7.1.0/docs/configurable-attributes
 
 ERROR
 
+## /versions/7.1.0/docs/user-manual
+
+Old URL: https://bazel.build/versions/7.1.0/docs/user-manual
+New URL: https://preview.bazel.build/versions/7.1.0/docs/user-manual
+
+ERROR
+
