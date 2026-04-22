@@ -14135,3 +14135,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/rules/lib/builtins/LateBound
 
 ERROR
 
+## /versions/8.3.0/rules/lib/builtins/LibraryToLink
+
+Old URL: https://bazel.build/versions/8.3.0/rules/lib/builtins/LibraryToLink
+New URL: https://preview.bazel.build/versions/8.3.0/rules/lib/builtins/LibraryToLink
+
+ERROR
+
