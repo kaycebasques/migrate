@@ -2729,3 +2729,10 @@ New URL: https://preview.bazel.build/rules/lib/toplevel/apple_common
 - In the 'dotted_version' parameters table, 'string; required' is merged into the description text without proper separation.
 - In the 'target_apple_env' parameters table, the descriptions for both 'xcode_config' and 'platform' are missing.
 
+## /rules/lib/toplevel/attr
+
+Old URL: https://bazel.build/rules/lib/toplevel/attr
+New URL: https://preview.bazel.build/rules/lib/toplevel/attr
+
+OK
+
