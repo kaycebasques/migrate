@@ -7226,3 +7226,10 @@ New URL: https://preview.bazel.build/versions/7.2.0/extending/depsets
 
 ERROR
 
+## /versions/7.2.0/extending/macros
+
+Old URL: https://bazel.build/versions/7.2.0/extending/macros
+New URL: https://preview.bazel.build/versions/7.2.0/extending/macros
+
+ERROR
+
