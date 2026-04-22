@@ -4034,3 +4034,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/concepts/dependencies
 
 ERROR
 
+## /versions/6.2.0/concepts/labels
+
+Old URL: https://bazel.build/versions/6.2.0/concepts/labels
+New URL: https://preview.bazel.build/versions/6.2.0/concepts/labels
+
+ERROR
+
