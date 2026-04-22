@@ -4916,3 +4916,15 @@ New URL: https://preview.bazel.build/versions/6.4.0/tutorials/cpp-use-cases
 
 ERROR
 
+## /versions/6.5.0
+
+Old URL: https://bazel.build/versions/6.5.0
+New URL: https://preview.bazel.build/versions/6.5.0
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0](data/versions/6.5.0/old.png) | ![https://preview.bazel.build/versions/6.5.0](data/versions/6.5.0/new.png) |
+
+- The 'Action graph' heading is indented in the 'On this page' sidebar as if it were a sub-topic, but it is styled as a top-level H2 heading in the main body of the document.
+- In the 'Using Bazel' section, the paragraphs within the third list item are not indented to align with the list item's leading text, which disrupts the visual structure of the numbered list.
+
