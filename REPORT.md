@@ -3516,3 +3516,10 @@ New URL: https://preview.bazel.build/versions/6.0.0/rules/language
 
 ERROR
 
+## /versions/6.0.0/rules/lib/globals
+
+Old URL: https://bazel.build/versions/6.0.0/rules/lib/globals
+New URL: https://preview.bazel.build/versions/6.0.0/rules/lib/globals
+
+ERROR
+
