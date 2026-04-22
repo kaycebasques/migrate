@@ -7450,3 +7450,10 @@ New URL: https://preview.bazel.build/versions/7.2.0/rules/lib/builtins/depset
 
 ERROR
 
+## /versions/7.2.0/rules/lib/builtins/struct
+
+Old URL: https://bazel.build/versions/7.2.0/rules/lib/builtins/struct
+New URL: https://preview.bazel.build/versions/7.2.0/rules/lib/builtins/struct
+
+ERROR
+
