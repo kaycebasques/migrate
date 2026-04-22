@@ -9802,3 +9802,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/reference/be/overview
 
 ERROR
 
+## /versions/7.7.0/reference/be/python
+
+Old URL: https://bazel.build/versions/7.7.0/reference/be/python
+New URL: https://preview.bazel.build/versions/7.7.0/reference/be/python
+
+ERROR
+
