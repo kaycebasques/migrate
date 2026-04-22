@@ -5629,3 +5629,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/release/backward-compatibili
 
 OK
 
+## /versions/6.5.0/release/versioning
+
+Old URL: https://bazel.build/versions/6.5.0/release/versioning
+New URL: https://preview.bazel.build/versions/6.5.0/release/versioning
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/release/versioning](data/versions/6.5.0/release/versioning/old.png) | ![https://preview.bazel.build/versions/6.5.0/release/versioning](data/versions/6.5.0/release/versioning/new.png) |
+
+- The roadmap diagram (Figure 1) is missing and replaced by the text placeholder '[Roadmap]' in the new version.
+
