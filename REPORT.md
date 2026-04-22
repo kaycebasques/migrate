@@ -12707,3 +12707,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/rules/language
 
 ERROR
 
+## /versions/8.2.0/rules/legacy-macro-tutorial
+
+Old URL: https://bazel.build/versions/8.2.0/rules/legacy-macro-tutorial
+New URL: https://preview.bazel.build/versions/8.2.0/rules/legacy-macro-tutorial
+
+ERROR
+
