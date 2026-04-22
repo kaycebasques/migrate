@@ -15388,3 +15388,10 @@ New URL: https://preview.bazel.build/versions/8.4.0/rules/lib/providers/DefaultI
 
 ERROR
 
+## /versions/8.4.0/rules/lib/providers/OutputGroupInfo
+
+Old URL: https://bazel.build/versions/8.4.0/rules/lib/providers/OutputGroupInfo
+New URL: https://preview.bazel.build/versions/8.4.0/rules/lib/providers/OutputGroupInfo
+
+ERROR
+
