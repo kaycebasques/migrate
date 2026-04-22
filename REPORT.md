@@ -3271,3 +3271,10 @@ New URL: https://preview.bazel.build/versions/6.0.0/extending/toolchains
 
 ERROR
 
+## /versions/6.0.0/help
+
+Old URL: https://bazel.build/versions/6.0.0/help
+New URL: https://preview.bazel.build/versions/6.0.0/help
+
+ERROR
+
