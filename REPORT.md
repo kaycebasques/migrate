@@ -5622,3 +5622,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/release
 
 OK
 
+## /versions/6.5.0/release/backward-compatibility
+
+Old URL: https://bazel.build/versions/6.5.0/release/backward-compatibility
+New URL: https://preview.bazel.build/versions/6.5.0/release/backward-compatibility
+
+OK
+
