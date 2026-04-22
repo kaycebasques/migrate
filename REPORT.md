@@ -10439,3 +10439,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/verbs-tutorial
 
 ERROR
 
+## /versions/7.7.0/rules/windows
+
+Old URL: https://bazel.build/versions/7.7.0/rules/windows
+New URL: https://preview.bazel.build/versions/7.7.0/rules/windows
+
+ERROR
+
