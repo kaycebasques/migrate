@@ -1317,3 +1317,14 @@ New URL: https://preview.bazel.build/reference/flag-cheatsheet
 - Tables have broken layouts where the 'Flag' column is too narrow, causing extreme and unreadable word wrapping.
 - Double dashes ('--') at the beginning of flag names in the tables have been incorrectly converted to em-dashes ('—').
 
+## /reference/glossary
+
+Old URL: https://bazel.build/reference/glossary
+New URL: https://preview.bazel.build/reference/glossary
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/reference/glossary](data/reference/glossary/old.png) | ![https://preview.bazel.build/reference/glossary](data/reference/glossary/new.png) |
+
+- Unstyled callouts i.e. admonitions
+
