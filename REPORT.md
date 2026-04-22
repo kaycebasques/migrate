@@ -5842,3 +5842,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/rules/lib/globals
 
 ERROR
 
+## /versions/6.5.0/rules/lib/repository_ctx
+
+Old URL: https://bazel.build/versions/6.5.0/rules/lib/repository_ctx
+New URL: https://preview.bazel.build/versions/6.5.0/rules/lib/repository_ctx
+
+ERROR
+
