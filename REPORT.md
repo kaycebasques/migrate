@@ -5814,3 +5814,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/rules/lib/ProtoInfo
 
 ERROR
 
+## /versions/6.5.0/rules/lib/actions
+
+Old URL: https://bazel.build/versions/6.5.0/rules/lib/actions
+New URL: https://preview.bazel.build/versions/6.5.0/rules/lib/actions
+
+ERROR
+
