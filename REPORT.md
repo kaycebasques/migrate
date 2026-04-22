@@ -8969,3 +8969,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/remote/sandbox
 
 ERROR
 
+## /versions/7.6.0/rules/language
+
+Old URL: https://bazel.build/versions/7.6.0/rules/language
+New URL: https://preview.bazel.build/versions/7.6.0/rules/language
+
+ERROR
+
