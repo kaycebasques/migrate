@@ -14492,3 +14492,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/rules/rules-tutorial
 
 ERROR
 
+## /versions/8.3.0/rules/testing
+
+Old URL: https://bazel.build/versions/8.3.0/rules/testing
+New URL: https://preview.bazel.build/versions/8.3.0/rules/testing
+
+ERROR
+
