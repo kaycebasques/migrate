@@ -12854,3 +12854,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/rules/lib/builtins/bazel_mod
 
 ERROR
 
+## /versions/8.2.0/rules/lib/builtins/configuration
+
+Old URL: https://bazel.build/versions/8.2.0/rules/lib/builtins/configuration
+New URL: https://preview.bazel.build/versions/8.2.0/rules/lib/builtins/configuration
+
+ERROR
+
