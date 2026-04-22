@@ -6540,3 +6540,10 @@ New URL: https://preview.bazel.build/versions/7.1.0/advanced/performance/iterati
 
 ERROR
 
+## /versions/7.1.0/advanced/performance/json-trace-profile
+
+Old URL: https://bazel.build/versions/7.1.0/advanced/performance/json-trace-profile
+New URL: https://preview.bazel.build/versions/7.1.0/advanced/performance/json-trace-profile
+
+ERROR
+
