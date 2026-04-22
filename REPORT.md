@@ -2817,3 +2817,15 @@ New URL: https://preview.bazel.build/rules/lib/toplevel/proto
 
 OK
 
+## /rules/lib/toplevel/testing
+
+Old URL: https://bazel.build/rules/lib/toplevel/testing
+New URL: https://preview.bazel.build/rules/lib/toplevel/testing
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/toplevel/testing](data/rules/lib/toplevel/testing/old.png) | ![https://preview.bazel.build/rules/lib/toplevel/testing](data/rules/lib/toplevel/testing/new.png) |
+
+- HTML entities &lcub; and &rcub; are displayed instead of curly braces {} in the parameters table for analysis_test.
+- The parameter name 'inherited_environment' in the TestEnvironment section is incorrectly wrapped, breaking the word into 'inherited_environme' and 'nt'.
+
