@@ -6659,3 +6659,10 @@ New URL: https://preview.bazel.build/versions/7.1.0/docs
 
 ERROR
 
+## /versions/7.1.0/docs/configurable-attributes
+
+Old URL: https://bazel.build/versions/7.1.0/docs/configurable-attributes
+New URL: https://preview.bazel.build/versions/7.1.0/docs/configurable-attributes
+
+ERROR
+
