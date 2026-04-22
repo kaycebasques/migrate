@@ -1363,3 +1363,14 @@ New URL: https://preview.bazel.build/release
 - In the 'Report regressions' section, the 'bisect feature' link is broken, exposing raw Markdown syntax: '[bisect feature] (https://github.com/bazelbuild/bazelisk#--bisect)'.
 - Formatting for '@bazel-io flag' in section 3.1 of 'Release procedure & policies' has changed from a styled code block to quoted text with inconsistent spacing ('" @bazel-io flag "').
 
+## /release/backward-compatibility
+
+Old URL: https://bazel.build/release/backward-compatibility
+New URL: https://preview.bazel.build/release/backward-compatibility
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/release/backward-compatibility](data/release/backward-compatibility/old.png) | ![https://preview.bazel.build/release/backward-compatibility](data/release/backward-compatibility/new.png) |
+
+- In the 'Summary' section, item 5, the flag '--incompatible_*' is incorrectly broken across two lines, appearing as '--' followed by a line break and then 'incompatible_*', which likely indicates an unintended space was inserted during migration.
+

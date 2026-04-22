@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "In the 'Summary' section, item 5, the flag '--incompatible_*' is incorrectly broken across two lines, appearing as '--' followed by a line break and then 'incompatible_*', which likely indicates an unintended space was inserted during migration."
+  ]
+}
