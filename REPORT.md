@@ -14779,3 +14779,10 @@ New URL: https://preview.bazel.build/versions/8.4.0/extending/exec-groups
 
 ERROR
 
+## /versions/8.4.0/extending/legacy-macros
+
+Old URL: https://bazel.build/versions/8.4.0/extending/legacy-macros
+New URL: https://preview.bazel.build/versions/8.4.0/extending/legacy-macros
+
+ERROR
+
