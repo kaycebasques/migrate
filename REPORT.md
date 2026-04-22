@@ -1606,3 +1606,17 @@ New URL: https://preview.bazel.build/rules/deploying
 
 OK
 
+## /rules/faq
+
+Old URL: https://bazel.build/rules/faq
+New URL: https://preview.bazel.build/rules/faq
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/faq](data/rules/faq/old.png) | ![https://preview.bazel.build/rules/faq](data/rules/faq/new.png) |
+
+- The horizontal rules that serve as visual separators between sections in the old site are missing in the new site, making the page structure less clear.
+- In the 'On this page' sidebar, the link 'How can I control which files are built by //pkg:mytarget?' is missing the 'bazel build' portion of the actual section heading.
+- The section heading 'How can I control which files are built by bazel build //pkg:mytarget ?' has an unnecessary space before the question mark.
+- The 'REPORT AN ISSUE' and 'VIEW SOURCE' buttons present in the original page are missing in the new version.
+

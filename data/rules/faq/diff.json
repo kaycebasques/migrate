@@ -1,0 +1,8 @@
+{
+  "issues": [
+    "The horizontal rules that serve as visual separators between sections in the old site are missing in the new site, making the page structure less clear.",
+    "In the 'On this page' sidebar, the link 'How can I control which files are built by //pkg:mytarget?' is missing the 'bazel build' portion of the actual section heading.",
+    "The section heading 'How can I control which files are built by bazel build //pkg:mytarget ?' has an unnecessary space before the question mark.",
+    "The 'REPORT AN ISSUE' and 'VIEW SOURCE' buttons present in the original page are missing in the new version."
+  ]
+}
