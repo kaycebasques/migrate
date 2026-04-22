@@ -1711,3 +1711,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/CcLinkingOutputs
 - The 'REPORT AN ISSUE' and 'VIEW SOURCE' buttons are missing from the top of the page content.
 - Cross-links on types within code signatures and descriptions (e.g., 'File', 'LibraryToLink') have been lost and appear as plain text.
 
+## /rules/lib/builtins/CompilationContext
+
+Old URL: https://bazel.build/rules/lib/builtins/CompilationContext
+New URL: https://preview.bazel.build/rules/lib/builtins/CompilationContext
+
+OK
+
