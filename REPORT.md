@@ -7436,3 +7436,10 @@ New URL: https://preview.bazel.build/versions/7.2.0/rules/bzl-style
 
 ERROR
 
+## /versions/7.2.0/rules/language
+
+Old URL: https://bazel.build/versions/7.2.0/rules/language
+New URL: https://preview.bazel.build/versions/7.2.0/rules/language
+
+ERROR
+
