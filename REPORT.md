@@ -11335,3 +11335,10 @@ New URL: https://preview.bazel.build/versions/8.1.0/basics
 
 ERROR
 
+## /versions/8.1.0/build/style-guide
+
+Old URL: https://bazel.build/versions/8.1.0/build/style-guide
+New URL: https://preview.bazel.build/versions/8.1.0/build/style-guide
+
+ERROR
+
