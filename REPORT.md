@@ -1328,3 +1328,10 @@ New URL: https://preview.bazel.build/reference/glossary
 
 - Unstyled callouts i.e. admonitions
 
+## /reference/skyframe
+
+Old URL: https://bazel.build/reference/skyframe
+New URL: https://preview.bazel.build/reference/skyframe
+
+OK
+
