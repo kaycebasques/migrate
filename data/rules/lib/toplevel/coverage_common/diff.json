@@ -1,0 +1,6 @@
+{
+  "issues": [
+    "The function signature for 'instrumented_files_info' is missing its parameters (the content after the function name is truncated or missing).",
+    "In the 'Parameters' table, the description text for each parameter is run together with the type and default value information on the same line, whereas the original used line breaks for better readability."
+  ]
+}

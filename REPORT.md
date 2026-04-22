@@ -2761,3 +2761,15 @@ New URL: https://preview.bazel.build/rules/lib/toplevel/config_common
 
 - In the Parameters table, the descriptions are missing the line breaks that separated the parameter metadata (type, requirements, defaults) from the descriptive text, leading to run-on sentences.
 
+## /rules/lib/toplevel/coverage_common
+
+Old URL: https://bazel.build/rules/lib/toplevel/coverage_common
+New URL: https://preview.bazel.build/rules/lib/toplevel/coverage_common
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/toplevel/coverage_common](data/rules/lib/toplevel/coverage_common/old.png) | ![https://preview.bazel.build/rules/lib/toplevel/coverage_common](data/rules/lib/toplevel/coverage_common/new.png) |
+
+- The function signature for 'instrumented_files_info' is missing its parameters (the content after the function name is truncated or missing).
+- In the 'Parameters' table, the description text for each parameter is run together with the type and default value information on the same line, whereas the original used line breaks for better readability.
+
