@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "There is a missing space between the inline code block 'ctx.rule.toolchains[\"//pkg:my_toolchain_type\"]' and the word 'and' that follows it."
+  ]
+}

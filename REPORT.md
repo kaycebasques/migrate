@@ -1872,3 +1872,14 @@ New URL: https://preview.bazel.build/rules/lib/builtins/TemplateDict
 - Missing line breaks between parameter metadata (type and requirement) and descriptions in the 'Parameters' tables.
 - Extraneous spaces before punctuation in parameter descriptions, specifically before the comma after 'map_each', before the period after 'string.join()', and before the semicolon in the 'format_joined' row.
 
+## /rules/lib/builtins/ToolchainContext
+
+Old URL: https://bazel.build/rules/lib/builtins/ToolchainContext
+New URL: https://preview.bazel.build/rules/lib/builtins/ToolchainContext
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/builtins/ToolchainContext](data/rules/lib/builtins/ToolchainContext/old.png) | ![https://preview.bazel.build/rules/lib/builtins/ToolchainContext](data/rules/lib/builtins/ToolchainContext/new.png) |
+
+- There is a missing space between the inline code block 'ctx.rule.toolchains["//pkg:my_toolchain_type"]' and the word 'and' that follows it.
+
