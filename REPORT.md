@@ -16291,3 +16291,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/rules/lib/builtins/depset
 
 ERROR
 
+## /versions/8.5.0/rules/lib/builtins/exec_result
+
+Old URL: https://bazel.build/versions/8.5.0/rules/lib/builtins/exec_result
+New URL: https://preview.bazel.build/versions/8.5.0/rules/lib/builtins/exec_result
+
+ERROR
+
