@@ -2655,3 +2655,10 @@ New URL: https://preview.bazel.build/rules/lib/repo
 
 OK
 
+## /rules/lib/repo/cache
+
+Old URL: https://bazel.build/rules/lib/repo/cache
+New URL: https://preview.bazel.build/rules/lib/repo/cache
+
+OK
+
