@@ -10845,3 +10845,10 @@ New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/builtins/Aspect
 
 ERROR
 
+## /versions/8.0.0/rules/lib/builtins/Attribute
+
+Old URL: https://bazel.build/versions/8.0.0/rules/lib/builtins/Attribute
+New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/builtins/Attribute
+
+ERROR
+
