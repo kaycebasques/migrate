@@ -5975,3 +5975,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/start/cpp
 - Under the 'Stage 1: single target, single package' heading, the dependency graph image is not rendered, and raw Markdown syntax is displayed instead.
 - Multiple links within the text in 'Stage 1', 'Stage 2', and 'Stage 3' sections are not rendered correctly, appearing as raw Markdown (e.g., '[target](...)', '[package](...)', '[cc_library rule](...)', '[deps](...)', and '[visibility](...)').
 
+## /versions/6.5.0/start/ios-app
+
+Old URL: https://bazel.build/versions/6.5.0/start/ios-app
+New URL: https://preview.bazel.build/versions/6.5.0/start/ios-app
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/start/ios-app](data/versions/6.5.0/start/ios-app/old.png) | ![https://preview.bazel.build/versions/6.5.0/start/ios-app](data/versions/6.5.0/start/ios-app/new.png) |
+
+- Unstyled callouts
+
