@@ -10474,3 +10474,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/run/scripts
 
 ERROR
 
+## /versions/7.7.0/start
+
+Old URL: https://bazel.build/versions/7.7.0/start
+New URL: https://preview.bazel.build/versions/7.7.0/start
+
+ERROR
+
