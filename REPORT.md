@@ -4076,3 +4076,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/contribute/docs
 
 ERROR
 
+## /versions/6.2.0/contribute/search
+
+Old URL: https://bazel.build/versions/6.2.0/contribute/search
+New URL: https://preview.bazel.build/versions/6.2.0/contribute/search
+
+ERROR
+
