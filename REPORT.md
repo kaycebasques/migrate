@@ -2342,3 +2342,17 @@ New URL: https://preview.bazel.build/rules/lib/fragments/proto
 
 OK
 
+## /rules/lib/fragments/py
+
+Old URL: https://bazel.build/rules/lib/fragments/py
+New URL: https://preview.bazel.build/rules/lib/fragments/py
+
+NOT_OK
+
+## /rules/lib/globals
+
+Old URL: https://bazel.build/rules/lib/globals
+New URL: https://preview.bazel.build/rules/lib/globals
+
+OK
+
