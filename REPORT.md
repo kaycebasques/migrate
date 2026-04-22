@@ -2478,3 +2478,10 @@ New URL: https://preview.bazel.build/rules/lib/providers/CcToolchainInfo
 - The 'Parameters' sections have lost their table formatting, including row borders and header background colors, which makes the information less structured than on the old site.
 - In the 'sysroot' section's description text, an extra space has been introduced before the final period: '... returns `None` .'
 
+## /rules/lib/providers/ConstraintSettingInfo
+
+Old URL: https://bazel.build/rules/lib/providers/ConstraintSettingInfo
+New URL: https://preview.bazel.build/rules/lib/providers/ConstraintSettingInfo
+
+OK
+
