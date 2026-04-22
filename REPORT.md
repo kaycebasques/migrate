@@ -4928,3 +4928,19 @@ New URL: https://preview.bazel.build/versions/6.5.0
 - The 'Action graph' heading is indented in the 'On this page' sidebar as if it were a sub-topic, but it is styled as a top-level H2 heading in the main body of the document.
 - In the 'Using Bazel' section, the paragraphs within the third list item are not indented to align with the list item's leading text, which disrupts the visual structure of the numbered list.
 
+## /versions/6.5.0/about
+
+Old URL: https://bazel.build/versions/6.5.0/about
+New URL: https://preview.bazel.build/versions/6.5.0/about
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/about](data/versions/6.5.0/about/old.png) | ![https://preview.bazel.build/versions/6.5.0/about](data/versions/6.5.0/about/new.png) |
+
+- All illustrations, icons, and the decorative green header from the original page are missing in the new version.
+- Several content sections from the original page, including 'Overview', 'Bazel vision', 'Roadmap', and 'FAQ', have not been migrated.
+- Inconsistent link styling: some links in the body text are green (e.g., 'languages', 'action'), while others are black (e.g., 'reproducibility', 'tests').
+- Inconsistent link underlining: some links are underlined (e.g., 'action', 'reproducibility') while others are not (e.g., 'languages').
+- Inconsistent vertical spacing between list items across different sections; the 'Benefits' list items are much more spaced out than those in 'Using Bazel'.
+- Inconsistent punctuation following bolded item headers in the 'Using Bazel' list (e.g., steps 1 and 4 use periods, while steps 2 and 3 use commas).
+
