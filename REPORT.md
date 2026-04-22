@@ -1833,3 +1833,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/Provider
 
 OK
 
+## /rules/lib/builtins/Subrule
+
+Old URL: https://bazel.build/rules/lib/builtins/Subrule
+New URL: https://preview.bazel.build/rules/lib/builtins/Subrule
+
+OK
+
