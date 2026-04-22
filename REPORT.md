@@ -1725,3 +1725,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/DirectoryExpander
 
 OK
 
+## /rules/lib/builtins/DottedVersion
+
+Old URL: https://bazel.build/rules/lib/builtins/DottedVersion
+New URL: https://preview.bazel.build/rules/lib/builtins/DottedVersion
+
+OK
+
