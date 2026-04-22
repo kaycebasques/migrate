@@ -9515,3 +9515,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/contribute/maintainers-guide
 
 ERROR
 
+## /versions/7.7.0/contribute/patch-acceptance
+
+Old URL: https://bazel.build/versions/7.7.0/contribute/patch-acceptance
+New URL: https://preview.bazel.build/versions/7.7.0/contribute/patch-acceptance
+
+ERROR
+
