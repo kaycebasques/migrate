@@ -6722,3 +6722,10 @@ New URL: https://preview.bazel.build/versions/7.1.0/external/overview
 
 ERROR
 
+## /versions/7.1.0/help
+
+Old URL: https://bazel.build/versions/7.1.0/help
+New URL: https://preview.bazel.build/versions/7.1.0/help
+
+ERROR
+
