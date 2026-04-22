@@ -2032,3 +2032,15 @@ New URL: https://preview.bazel.build/rules/lib/builtins/repository_ctx
 
 - HTML entities &lbrace; and &rbrace; are not being rendered correctly and appear as literal text in the parameter tables of several sections (e.g., download, download_and_extract, execute, extract, repo_metadata, and template).
 
+## /rules/lib/builtins/repository_os
+
+Old URL: https://bazel.build/rules/lib/builtins/repository_os
+New URL: https://preview.bazel.build/rules/lib/builtins/repository_os
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/builtins/repository_os](data/rules/lib/builtins/repository_os/old.png) | ![https://preview.bazel.build/rules/lib/builtins/repository_os](data/rules/lib/builtins/repository_os/new.png) |
+
+- The return types in the code signature blocks (e.g., 'string' and 'dict') are no longer hyperlinked to their respective documentation pages as they were in the old site.
+- The references to 'repository_ctx.getenv' and 'module_ctx.getenv' in the 'NOTE' section have lost their hyperlinks, even though they are now styled as inline code.
+
