@@ -15584,3 +15584,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/basics
 
 ERROR
 
+## /versions/8.5.0/basics/hermeticity
+
+Old URL: https://bazel.build/versions/8.5.0/basics/hermeticity
+New URL: https://preview.bazel.build/versions/8.5.0/basics/hermeticity
+
+ERROR
+
