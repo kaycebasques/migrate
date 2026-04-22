@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "The 'Important' admonition is unstyled; it has lost its background color, border, and icon, making it indistinguishable from regular paragraph text."
+  ]
+}

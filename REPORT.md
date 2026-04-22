@@ -5771,3 +5771,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/remote/sandbox
 - Placeholders within code blocks, such as 'target' and 'your source code directory', have lost their distinctive pink background highlighting.
 - Syntax highlighting for comments and keywords is missing in several code blocks, such as the .bazelrc configuration block.
 
+## /versions/6.5.0/rules/bzl-style
+
+Old URL: https://bazel.build/versions/6.5.0/rules/bzl-style
+New URL: https://preview.bazel.build/versions/6.5.0/rules/bzl-style
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/rules/bzl-style](data/versions/6.5.0/rules/bzl-style/old.png) | ![https://preview.bazel.build/versions/6.5.0/rules/bzl-style](data/versions/6.5.0/rules/bzl-style/new.png) |
+
+- The 'Important' admonition is unstyled; it has lost its background color, border, and icon, making it indistinguishable from regular paragraph text.
+
