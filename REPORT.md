@@ -9494,3 +9494,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/contribute/design-documents
 
 ERROR
 
+## /versions/7.7.0/contribute/docs
+
+Old URL: https://bazel.build/versions/7.7.0/contribute/docs
+New URL: https://preview.bazel.build/versions/7.7.0/contribute/docs
+
+ERROR
+
