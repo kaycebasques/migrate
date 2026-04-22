@@ -5986,3 +5986,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/start/ios-app
 
 - Unstyled callouts
 
+## /versions/6.5.0/start/java
+
+Old URL: https://bazel.build/versions/6.5.0/start/java
+New URL: https://preview.bazel.build/versions/6.5.0/start/java
+
+OK
+
