@@ -13078,3 +13078,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/rules/lib/repo
 
 ERROR
 
+## /versions/8.2.0/rules/lib/repo/http
+
+Old URL: https://bazel.build/versions/8.2.0/rules/lib/repo/http
+New URL: https://preview.bazel.build/versions/8.2.0/rules/lib/repo/http
+
+ERROR
+
