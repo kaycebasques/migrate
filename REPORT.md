@@ -14695,3 +14695,10 @@ New URL: https://preview.bazel.build/versions/8.4.0/concepts/labels
 
 ERROR
 
+## /versions/8.4.0/concepts/visibility
+
+Old URL: https://bazel.build/versions/8.4.0/concepts/visibility
+New URL: https://preview.bazel.build/versions/8.4.0/concepts/visibility
+
+ERROR
+
