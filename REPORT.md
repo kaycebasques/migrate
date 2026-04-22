@@ -13778,3 +13778,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/query/language
 
 ERROR
 
+## /versions/8.3.0/query/quickstart
+
+Old URL: https://bazel.build/versions/8.3.0/query/quickstart
+New URL: https://preview.bazel.build/versions/8.3.0/query/quickstart
+
+ERROR
+
