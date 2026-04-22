@@ -5893,3 +5893,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/rules/testing
 
 OK
 
+## /versions/6.5.0/rules/windows
+
+Old URL: https://bazel.build/versions/6.5.0/rules/windows
+New URL: https://preview.bazel.build/versions/6.5.0/rules/windows
+
+OK
+
