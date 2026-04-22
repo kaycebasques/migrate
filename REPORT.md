@@ -10320,3 +10320,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/providers/DebugPac
 
 ERROR
 
+## /versions/7.7.0/rules/lib/providers/DefaultInfo
+
+Old URL: https://bazel.build/versions/7.7.0/rules/lib/providers/DefaultInfo
+New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/providers/DefaultInfo
+
+ERROR
+
