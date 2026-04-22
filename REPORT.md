@@ -2174,3 +2174,10 @@ New URL: https://preview.bazel.build/rules/lib/core/bool
 
 OK
 
+## /rules/lib/core/builtin_function_or_method
+
+Old URL: https://bazel.build/rules/lib/core/builtin_function_or_method
+New URL: https://preview.bazel.build/rules/lib/core/builtin_function_or_method
+
+OK
+
