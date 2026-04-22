@@ -2750,3 +2750,14 @@ New URL: https://preview.bazel.build/rules/lib/toplevel/config
 
 OK
 
+## /rules/lib/toplevel/config_common
+
+Old URL: https://bazel.build/rules/lib/toplevel/config_common
+New URL: https://preview.bazel.build/rules/lib/toplevel/config_common
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/toplevel/config_common](data/rules/lib/toplevel/config_common/old.png) | ![https://preview.bazel.build/rules/lib/toplevel/config_common](data/rules/lib/toplevel/config_common/new.png) |
+
+- In the Parameters table, the descriptions are missing the line breaks that separated the parameter metadata (type, requirements, defaults) from the descriptive text, leading to run-on sentences.
+

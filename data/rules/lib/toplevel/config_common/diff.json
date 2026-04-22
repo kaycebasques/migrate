@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "In the Parameters table, the descriptions are missing the line breaks that separated the parameter metadata (type, requirements, defaults) from the descriptive text, leading to run-on sentences."
+  ]
+}
