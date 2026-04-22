@@ -8934,3 +8934,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/remote/multiplex
 
 ERROR
 
+## /versions/7.6.0/remote/output-directories
+
+Old URL: https://bazel.build/versions/7.6.0/remote/output-directories
+New URL: https://preview.bazel.build/versions/7.6.0/remote/output-directories
+
+ERROR
+
