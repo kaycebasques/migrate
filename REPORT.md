@@ -6750,3 +6750,10 @@ New URL: https://preview.bazel.build/versions/7.1.0/install/compile-source
 
 ERROR
 
+## /versions/7.1.0/install/ide
+
+Old URL: https://bazel.build/versions/7.1.0/install/ide
+New URL: https://preview.bazel.build/versions/7.1.0/install/ide
+
+ERROR
+
