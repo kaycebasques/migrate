@@ -5109,3 +5109,15 @@ New URL: https://preview.bazel.build/versions/6.5.0/concepts/dependencies
 - The "Not recommended" and "Recommended" list items in the "Using labels to reference directories" section are missing their thumbs-down and thumbs-up icons.
 - The bottom navigation links at the end of the page are incorrectly formatted, displaying raw icon text strings like "arrow_back" and "arrow_forward".
 
+## /versions/6.5.0/concepts/labels
+
+Old URL: https://bazel.build/versions/6.5.0/concepts/labels
+New URL: https://preview.bazel.build/versions/6.5.0/concepts/labels
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/concepts/labels](data/versions/6.5.0/concepts/labels/old.png) | ![https://preview.bazel.build/versions/6.5.0/concepts/labels](data/versions/6.5.0/concepts/labels/new.png) |
+
+- The styling for the 'Wrong' and 'Correct' callouts is missing in the new site; the icons and color-coding from the old site have not been preserved.
+- The navigation text at the bottom of the page is incorrectly rendered, displaying raw icon names as text: 'arrow_backTargets BUILD filesarrow_forward'.
+
