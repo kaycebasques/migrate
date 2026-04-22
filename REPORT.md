@@ -5800,3 +5800,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/rules/language
 
 OK
 
+## /versions/6.5.0/rules/lib/JavaInfo
+
+Old URL: https://bazel.build/versions/6.5.0/rules/lib/JavaInfo
+New URL: https://preview.bazel.build/versions/6.5.0/rules/lib/JavaInfo
+
+ERROR
+
