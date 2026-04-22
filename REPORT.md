@@ -10068,3 +10068,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/Provider
 
 ERROR
 
+## /versions/7.7.0/rules/lib/builtins/Subrule
+
+Old URL: https://bazel.build/versions/7.7.0/rules/lib/builtins/Subrule
+New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/Subrule
+
+ERROR
+
