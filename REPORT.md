@@ -16705,3 +16705,10 @@ New URL: https://preview.bazel.build/versions/9.0.0/extending
 - The term 'BUILD' is inconsistently styled as plain text in the first paragraph, whereas it is consistently code-styled throughout the rest of the document.
 - There is awkward and inconsistent spacing inside parentheses that contain code blocks, notably in the phrase '( `load()` statements)' where there are stray spaces around the internal code element.
 
+## /versions/9.0.0/install
+
+Old URL: https://bazel.build/versions/9.0.0/install
+New URL: https://preview.bazel.build/versions/9.0.0/install
+
+OK
+
