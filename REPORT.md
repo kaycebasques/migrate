@@ -6953,3 +6953,10 @@ New URL: https://preview.bazel.build/versions/7.1.0/rules/lib/builtins/runfiles
 
 ERROR
 
+## /versions/7.1.0/rules/lib/core/string
+
+Old URL: https://bazel.build/versions/7.1.0/rules/lib/core/string
+New URL: https://preview.bazel.build/versions/7.1.0/rules/lib/core/string
+
+ERROR
+
