@@ -11328,3 +11328,10 @@ New URL: https://preview.bazel.build/versions/8.1.0/about/intro
 
 ERROR
 
+## /versions/8.1.0/basics
+
+Old URL: https://bazel.build/versions/8.1.0/basics
+New URL: https://preview.bazel.build/versions/8.1.0/basics
+
+ERROR
+
