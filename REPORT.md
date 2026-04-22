@@ -3000,3 +3000,15 @@ New URL: https://preview.bazel.build/tutorials/cpp-labels
 
 OK
 
+## /tutorials/cpp-use-cases
+
+Old URL: https://bazel.build/tutorials/cpp-use-cases
+New URL: https://preview.bazel.build/tutorials/cpp-use-cases
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/tutorials/cpp-use-cases](data/tutorials/cpp-use-cases/old.png) | ![https://preview.bazel.build/tutorials/cpp-use-cases](data/tutorials/cpp-use-cases/new.png) |
+
+- Extra spaces before punctuation marks (periods and commas) that follow certain inline code blocks or links, such as after 'glob', 'Google Test', './test/hello-test.cc', '"//test:__pkg__"', and './main/BUILD'.
+- Missing monospace formatting for some filenames and target names in the text that were formatted as code in the old site (e.g., 'some_lib.h' in the first sentence of a paragraph, 'hello-greet', and 'hello-test').
+
