@@ -6932,3 +6932,10 @@ New URL: https://preview.bazel.build/versions/7.1.0/remote/rules
 
 ERROR
 
+## /versions/7.1.0/rules/deploying
+
+Old URL: https://bazel.build/versions/7.1.0/rules/deploying
+New URL: https://preview.bazel.build/versions/7.1.0/rules/deploying
+
+ERROR
+
