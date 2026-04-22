@@ -11160,3 +11160,10 @@ New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/globals/module
 
 ERROR
 
+## /versions/8.0.0/rules/lib/globals/repo
+
+Old URL: https://bazel.build/versions/8.0.0/rules/lib/globals/repo
+New URL: https://preview.bazel.build/versions/8.0.0/rules/lib/globals/repo
+
+ERROR
+
