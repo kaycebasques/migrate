@@ -10614,3 +10614,10 @@ New URL: https://preview.bazel.build/versions/8.0.0/configure/attributes
 
 ERROR
 
+## /versions/8.0.0/configure/integrate-cpp
+
+Old URL: https://bazel.build/versions/8.0.0/configure/integrate-cpp
+New URL: https://preview.bazel.build/versions/8.0.0/configure/integrate-cpp
+
+ERROR
+
