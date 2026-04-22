@@ -3712,3 +3712,10 @@ New URL: https://preview.bazel.build/versions/6.1.0/configure/attributes
 
 ERROR
 
+## /versions/6.1.0/configure/toolchain-resolution
+
+Old URL: https://bazel.build/versions/6.1.0/configure/toolchain-resolution
+New URL: https://preview.bazel.build/versions/6.1.0/configure/toolchain-resolution
+
+ERROR
+
