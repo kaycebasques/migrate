@@ -1883,3 +1883,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/ToolchainContext
 
 - There is a missing space between the inline code block 'ctx.rule.toolchains["//pkg:my_toolchain_type"]' and the word 'and' that follows it.
 
+## /rules/lib/builtins/actions
+
+Old URL: https://bazel.build/rules/lib/builtins/actions
+New URL: https://preview.bazel.build/rules/lib/builtins/actions
+
+OK
+
