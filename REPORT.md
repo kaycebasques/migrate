@@ -2458,3 +2458,10 @@ New URL: https://preview.bazel.build/rules/lib/providers/CcInfo
 - The parameter name "compilation_context" in the first column of the Parameters table is incorrectly wrapped across two lines.
 - There is inconsistent spacing around punctuation in the Parameters table; specifically, there are unnecessary spaces before semicolons and periods (e.g., 'CompilationContext ;' and 'CompilationContext .').
 
+## /rules/lib/providers/CcToolchainConfigInfo
+
+Old URL: https://bazel.build/rules/lib/providers/CcToolchainConfigInfo
+New URL: https://preview.bazel.build/rules/lib/providers/CcToolchainConfigInfo
+
+OK
+
