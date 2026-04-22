@@ -9830,3 +9830,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/reference/test-encyclopedia
 
 ERROR
 
+## /versions/7.7.0/release
+
+Old URL: https://bazel.build/versions/7.7.0/release
+New URL: https://preview.bazel.build/versions/7.7.0/release
+
+ERROR
+
