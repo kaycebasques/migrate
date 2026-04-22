@@ -10768,3 +10768,10 @@ New URL: https://preview.bazel.build/versions/8.0.0/reference/be/python
 
 ERROR
 
+## /versions/8.0.0/reference/be/shell
+
+Old URL: https://bazel.build/versions/8.0.0/reference/be/shell
+New URL: https://preview.bazel.build/versions/8.0.0/reference/be/shell
+
+ERROR
+
