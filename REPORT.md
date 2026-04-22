@@ -9137,3 +9137,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/rules/lib/repo/git
 
 ERROR
 
+## /versions/7.6.0/rules/lib/repo/http
+
+Old URL: https://bazel.build/versions/7.6.0/rules/lib/repo/http
+New URL: https://preview.bazel.build/versions/7.6.0/rules/lib/repo/http
+
+ERROR
+
