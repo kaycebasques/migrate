@@ -3747,3 +3747,10 @@ New URL: https://preview.bazel.build/versions/6.1.0/extending/concepts
 
 ERROR
 
+## /versions/6.1.0/extending/config
+
+Old URL: https://bazel.build/versions/6.1.0/extending/config
+New URL: https://preview.bazel.build/versions/6.1.0/extending/config
+
+ERROR
+
