@@ -6848,3 +6848,10 @@ New URL: https://preview.bazel.build/versions/7.1.0/reference
 
 ERROR
 
+## /versions/7.1.0/reference/be/common-definitions
+
+Old URL: https://bazel.build/versions/7.1.0/reference/be/common-definitions
+New URL: https://preview.bazel.build/versions/7.1.0/reference/be/common-definitions
+
+ERROR
+
