@@ -14016,3 +14016,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/rules/bzl-style
 
 ERROR
 
+## /versions/8.3.0/rules/challenges
+
+Old URL: https://bazel.build/versions/8.3.0/rules/challenges
+New URL: https://preview.bazel.build/versions/8.3.0/rules/challenges
+
+ERROR
+
