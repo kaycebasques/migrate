@@ -1,0 +1,7 @@
+{
+  "issues": [
+    "Admonitions are unstyled: 'Note' callouts have lost their blue background and star icons compared to the old site.",
+    "Placeholders in code blocks (such as '<target>', '<your source code directory>', and 'XX') have lost their pink highlighting.",
+    "External link icons are missing from links throughout the page."
+  ]
+}

@@ -1543,3 +1543,16 @@ New URL: https://preview.bazel.build/remote/rules
 - In the 'Invoking build tools through toolchain rules' section, the link for Scala is improperly rendered, displaying raw markdown syntax including the full URL: '[Scala](https://github.com/bazelbuild/rules_scala/blob/master/scala/scala_toolchain.bzl)'.
 - In the 'Invoking build tools through toolchain rules' section, the links for 'Rust' and 'Go' are missing and rendered as plain text.
 
+## /remote/sandbox
+
+Old URL: https://bazel.build/remote/sandbox
+New URL: https://preview.bazel.build/remote/sandbox
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/remote/sandbox](data/remote/sandbox/old.png) | ![https://preview.bazel.build/remote/sandbox](data/remote/sandbox/new.png) |
+
+- Admonitions are unstyled: 'Note' callouts have lost their blue background and star icons compared to the old site.
+- Placeholders in code blocks (such as '<target>', '<your source code directory>', and 'XX') have lost their pink highlighting.
+- External link icons are missing from links throughout the page.
+
