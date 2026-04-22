@@ -7114,3 +7114,10 @@ New URL: https://preview.bazel.build/versions/7.2.0/community
 
 ERROR
 
+## /versions/7.2.0/community/update
+
+Old URL: https://bazel.build/versions/7.2.0/community/update
+New URL: https://preview.bazel.build/versions/7.2.0/community/update
+
+ERROR
+
