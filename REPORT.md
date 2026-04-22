@@ -5239,3 +5239,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/contribute/policy
 - Metadata fields (translation: human, page_type: lcat, title: 'Contribution policy') are being rendered as plain text content on the page.
 - The 'On this page' navigation sidebar incorrectly includes entries for the leaked metadata fields.
 
+## /versions/6.5.0/contribute/search
+
+Old URL: https://bazel.build/versions/6.5.0/contribute/search
+New URL: https://preview.bazel.build/versions/6.5.0/contribute/search
+
+ERROR
+
