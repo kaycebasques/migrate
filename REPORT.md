@@ -12147,3 +12147,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/configure/integrate-cpp
 
 ERROR
 
+## /versions/8.2.0/configure/windows
+
+Old URL: https://bazel.build/versions/8.2.0/configure/windows
+New URL: https://preview.bazel.build/versions/8.2.0/configure/windows
+
+ERROR
+
