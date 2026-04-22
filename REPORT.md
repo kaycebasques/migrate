@@ -8899,3 +8899,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/remote/bep
 
 ERROR
 
+## /versions/7.6.0/remote/bep-glossary
+
+Old URL: https://bazel.build/versions/7.6.0/remote/bep-glossary
+New URL: https://preview.bazel.build/versions/7.6.0/remote/bep-glossary
+
+ERROR
+
