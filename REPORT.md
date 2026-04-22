@@ -2854,3 +2854,10 @@ New URL: https://preview.bazel.build/rules/rules-tutorial
 
 OK
 
+## /rules/testing
+
+Old URL: https://bazel.build/rules/testing
+New URL: https://preview.bazel.build/rules/testing
+
+OK
+
