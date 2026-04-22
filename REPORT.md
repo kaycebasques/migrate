@@ -5378,3 +5378,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/install/bazelisk
 
 - The inline code '--incompatible_*' in the 'Recommended migration process' section is incorrectly split into two separate code spans and broken across two lines.
 
+## /versions/6.5.0/install/compile-source
+
+Old URL: https://bazel.build/versions/6.5.0/install/compile-source
+New URL: https://preview.bazel.build/versions/6.5.0/install/compile-source
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/install/compile-source](data/versions/6.5.0/install/compile-source/old.png) | ![https://preview.bazel.build/versions/6.5.0/install/compile-source](data/versions/6.5.0/install/compile-source/new.png) |
+
+- The 'Attention:' callout in the 'Step 1: Download Bazel's sources (distribution archive)' section is unstyled, losing its background color and left border from the original site.
+

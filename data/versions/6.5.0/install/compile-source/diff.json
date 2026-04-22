@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "The 'Attention:' callout in the 'Step 1: Download Bazel's sources (distribution archive)' section is unstyled, losing its background color and left border from the original site."
+  ]
+}
