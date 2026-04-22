@@ -2147,3 +2147,16 @@ New URL: https://preview.bazel.build/rules/lib/builtins/transition
 - In the Parameters table, the newline after 'callable; required' for the 'implementation' parameter is missing, causing it to merge with the subsequent sentence.
 - Unwanted extra spaces have been injected into code snippets and around punctuation within the Parameters table descriptions (e.g., 'ctx . attr', 'settings [ \' //foo \' ] = \' bar \'', 'strings ; required').
 
+## /rules/lib/builtins/wasm_module
+
+Old URL: https://bazel.build/rules/lib/builtins/wasm_module
+New URL: https://preview.bazel.build/rules/lib/builtins/wasm_module
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/builtins/wasm_module](data/rules/lib/builtins/wasm_module/old.png) | ![https://preview.bazel.build/rules/lib/builtins/wasm_module](data/rules/lib/builtins/wasm_module/new.png) |
+
+- The breadcrumbs (Bazel > Extending > APIs) are missing in the new website.
+- The 'REPORT AN ISSUE' and 'VIEW SOURCE' buttons are missing in the new website.
+- The horizontal rules separating the section headers from the content are missing in the new website.
+
