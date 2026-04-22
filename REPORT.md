@@ -2586,3 +2586,15 @@ New URL: https://preview.bazel.build/rules/lib/providers/ObjcProvider
 
 OK
 
+## /rules/lib/providers/OutputGroupInfo
+
+Old URL: https://bazel.build/rules/lib/providers/OutputGroupInfo
+New URL: https://preview.bazel.build/rules/lib/providers/OutputGroupInfo
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/providers/OutputGroupInfo](data/rules/lib/providers/OutputGroupInfo/old.png) | ![https://preview.bazel.build/rules/lib/providers/OutputGroupInfo](data/rules/lib/providers/OutputGroupInfo/new.png) |
+
+- In the Parameters table, the description for 'kwargs' incorrectly renders curly braces as HTML entities (&lcub;&rcub;).
+- In the Parameters table, the description for 'kwargs' is missing the sentence 'Dictionary of arguments.'.
+

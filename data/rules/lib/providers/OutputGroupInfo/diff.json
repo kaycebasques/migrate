@@ -1,0 +1,6 @@
+{
+  "issues": [
+    "In the Parameters table, the description for 'kwargs' incorrectly renders curly braces as HTML entities (&lcub;&rcub;).",
+    "In the Parameters table, the description for 'kwargs' is missing the sentence 'Dictionary of arguments.'."
+  ]
+}
