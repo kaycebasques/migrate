@@ -11839,3 +11839,10 @@ New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/providers/Constrai
 
 ERROR
 
+## /versions/8.1.0/rules/lib/providers/DefaultInfo
+
+Old URL: https://bazel.build/versions/8.1.0/rules/lib/providers/DefaultInfo
+New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/providers/DefaultInfo
+
+ERROR
+
