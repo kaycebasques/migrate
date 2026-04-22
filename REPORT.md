@@ -2160,3 +2160,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/wasm_module
 - The 'REPORT AN ISSUE' and 'VIEW SOURCE' buttons are missing in the new website.
 - The horizontal rules separating the section headers from the content are missing in the new website.
 
+## /rules/lib/core
+
+Old URL: https://bazel.build/rules/lib/core
+New URL: https://preview.bazel.build/rules/lib/core
+
+OK
+
