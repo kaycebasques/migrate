@@ -9011,3 +9011,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/rules/lib/builtins/actions
 
 ERROR
 
+## /versions/7.6.0/rules/lib/builtins/ctx
+
+Old URL: https://bazel.build/versions/7.6.0/rules/lib/builtins/ctx
+New URL: https://preview.bazel.build/versions/7.6.0/rules/lib/builtins/ctx
+
+ERROR
+
