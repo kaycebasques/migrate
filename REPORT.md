@@ -5521,3 +5521,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/query/cquery
 - In several code blocks, the '<' character is incorrectly rendered as the HTML entity '&lt;'. This can be seen in the introductory example under 'Configurable query (cquery)', the 'Using cquery options' section, and the 'Non-deterministic output' section.
 - In some genrule examples, such as those under 'Using cquery options' and 'Non-deterministic output', the '$<' variable is incorrectly rendered as '&lt;', resulting in the loss of the '$' character.
 
+## /versions/6.5.0/query/language
+
+Old URL: https://bazel.build/versions/6.5.0/query/language
+New URL: https://preview.bazel.build/versions/6.5.0/query/language
+
+OK
+
