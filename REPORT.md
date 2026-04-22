@@ -5396,3 +5396,16 @@ New URL: https://preview.bazel.build/versions/6.5.0/install/completion
 
 OK
 
+## /versions/6.5.0/install/docker-container
+
+Old URL: https://bazel.build/versions/6.5.0/install/docker-container
+New URL: https://preview.bazel.build/versions/6.5.0/install/docker-container
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/install/docker-container](data/versions/6.5.0/install/docker-container/old.png) | ![https://preview.bazel.build/versions/6.5.0/install/docker-container](data/versions/6.5.0/install/docker-container/new.png) |
+
+- Literal HTML tags (<var> and </var>) are visible as text in the descriptions for build flags instead of being rendered correctly.
+- A typo was introduced in the 'Build Abseil project from inside the container' section: 'development' is misspelled as 'developement'.
+- A typo was introduced in the 'Build Abseil project from inside the container' section: 'below' is misspelled as 'bellow'.
+

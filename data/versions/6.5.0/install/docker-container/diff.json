@@ -1,0 +1,7 @@
+{
+  "issues": [
+    "Literal HTML tags (<var> and </var>) are visible as text in the descriptions for build flags instead of being rendered correctly.",
+    "A typo was introduced in the 'Build Abseil project from inside the container' section: 'development' is misspelled as 'developement'.",
+    "A typo was introduced in the 'Build Abseil project from inside the container' section: 'below' is misspelled as 'bellow'."
+  ]
+}
