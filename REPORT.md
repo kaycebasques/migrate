@@ -15899,3 +15899,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/install/windows
 
 ERROR
 
+## /versions/8.5.0/migrate
+
+Old URL: https://bazel.build/versions/8.5.0/migrate
+New URL: https://preview.bazel.build/versions/8.5.0/migrate
+
+ERROR
+
