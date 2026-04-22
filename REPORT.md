@@ -12273,3 +12273,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/extending/config
 
 ERROR
 
+## /versions/8.2.0/extending/depsets
+
+Old URL: https://bazel.build/versions/8.2.0/extending/depsets
+New URL: https://preview.bazel.build/versions/8.2.0/extending/depsets
+
+ERROR
+
