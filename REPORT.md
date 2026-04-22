@@ -14590,3 +14590,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/tutorials/cpp-dependency
 
 ERROR
 
+## /versions/8.3.0/tutorials/cpp-labels
+
+Old URL: https://bazel.build/versions/8.3.0/tutorials/cpp-labels
+New URL: https://preview.bazel.build/versions/8.3.0/tutorials/cpp-labels
+
+ERROR
+
