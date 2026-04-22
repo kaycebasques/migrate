@@ -12966,3 +12966,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/rules/lib/core/bool
 
 ERROR
 
+## /versions/8.2.0/rules/lib/core/dict
+
+Old URL: https://bazel.build/versions/8.2.0/rules/lib/core/dict
+New URL: https://preview.bazel.build/versions/8.2.0/rules/lib/core/dict
+
+ERROR
+
