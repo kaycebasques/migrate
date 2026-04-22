@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "The code example contains unrendered HTML entities '&lcub;' and '&rcub;' instead of curly braces."
+  ]
+}

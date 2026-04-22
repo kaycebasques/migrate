@@ -2616,3 +2616,14 @@ New URL: https://preview.bazel.build/rules/lib/providers/RunEnvironmentInfo
 
 OK
 
+## /rules/lib/providers/TemplateVariableInfo
+
+Old URL: https://bazel.build/rules/lib/providers/TemplateVariableInfo
+New URL: https://preview.bazel.build/rules/lib/providers/TemplateVariableInfo
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/providers/TemplateVariableInfo](data/rules/lib/providers/TemplateVariableInfo/old.png) | ![https://preview.bazel.build/rules/lib/providers/TemplateVariableInfo](data/rules/lib/providers/TemplateVariableInfo/new.png) |
+
+- The code example contains unrendered HTML entities '&lcub;' and '&rcub;' instead of curly braces.
+
