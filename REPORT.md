@@ -9326,3 +9326,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/basics
 
 ERROR
 
+## /versions/7.7.0/basics/hermeticity
+
+Old URL: https://bazel.build/versions/7.7.0/basics/hermeticity
+New URL: https://preview.bazel.build/versions/7.7.0/basics/hermeticity
+
+ERROR
+
