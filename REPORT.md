@@ -3054,3 +3054,10 @@ New URL: https://preview.bazel.build/versions/6.0.0/about/vision
 
 ERROR
 
+## /versions/6.0.0/basics
+
+Old URL: https://bazel.build/versions/6.0.0/basics
+New URL: https://preview.bazel.build/versions/6.0.0/basics
+
+ERROR
+
