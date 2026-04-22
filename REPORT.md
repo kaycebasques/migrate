@@ -3068,3 +3068,10 @@ New URL: https://preview.bazel.build/versions/6.0.0/basics/hermeticity
 
 ERROR
 
+## /versions/6.0.0/build/bzlmod
+
+Old URL: https://bazel.build/versions/6.0.0/build/bzlmod
+New URL: https://preview.bazel.build/versions/6.0.0/build/bzlmod
+
+ERROR
+
