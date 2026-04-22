@@ -9459,3 +9459,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/configure/coverage
 
 ERROR
 
+## /versions/7.7.0/configure/integrate-cpp
+
+Old URL: https://bazel.build/versions/7.7.0/configure/integrate-cpp
+New URL: https://preview.bazel.build/versions/7.7.0/configure/integrate-cpp
+
+ERROR
+
