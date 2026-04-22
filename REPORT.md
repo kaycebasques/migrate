@@ -8206,3 +8206,10 @@ New URL: https://preview.bazel.build/versions/7.5.0/build/style-guide
 
 ERROR
 
+## /versions/7.5.0/community/update
+
+Old URL: https://bazel.build/versions/7.5.0/community/update
+New URL: https://preview.bazel.build/versions/7.5.0/community/update
+
+ERROR
+
