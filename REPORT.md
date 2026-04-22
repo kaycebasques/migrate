@@ -14457,3 +14457,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/rules/lib/toplevel/attr
 
 ERROR
 
+## /versions/8.3.0/rules/lib/toplevel/config
+
+Old URL: https://bazel.build/versions/8.3.0/rules/lib/toplevel/config
+New URL: https://preview.bazel.build/versions/8.3.0/rules/lib/toplevel/config
+
+ERROR
+
