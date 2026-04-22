@@ -11825,3 +11825,10 @@ New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/providers/Analysis
 
 ERROR
 
+## /versions/8.1.0/rules/lib/providers/CcInfo
+
+Old URL: https://bazel.build/versions/8.1.0/rules/lib/providers/CcInfo
+New URL: https://preview.bazel.build/versions/8.1.0/rules/lib/providers/CcInfo
+
+ERROR
+
