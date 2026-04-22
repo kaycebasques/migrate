@@ -2215,3 +2215,17 @@ New URL: https://preview.bazel.build/rules/lib/core/int
 
 OK
 
+## /rules/lib/core/json
+
+Old URL: https://bazel.build/rules/lib/core/json
+New URL: https://preview.bazel.build/rules/lib/core/json
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/core/json](data/rules/lib/core/json/old.png) | ![https://preview.bazel.build/rules/lib/core/json](data/rules/lib/core/json/new.png) |
+
+- Stray asterisks appear at the end of many list items in the 'decode' and 'encode' sections (e.g., 'infinity.*', 'is kept.*', 'respectively.*', etc.).
+- Inconsistent monospace styling for terms like 'None', 'True', and 'False' in the 'encode' section description compared to the 'decode' section and the original site.
+- Lack of proper spacing or a line break in the 'decode' section's Parameters table for the 'default' description, resulting in 'unbound If' being run together.
+- Inconsistent monospace styling for parameter names in the Parameters tables; some parameters like 'x' and 's' are plain text while others like 'default' and 'prefix' are styled as code blocks.
+
