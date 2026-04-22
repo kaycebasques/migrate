@@ -7744,3 +7744,10 @@ New URL: https://preview.bazel.build/versions/7.3.0/install/bazelisk
 
 ERROR
 
+## /versions/7.3.0/install/ide
+
+Old URL: https://bazel.build/versions/7.3.0/install/ide
+New URL: https://preview.bazel.build/versions/7.3.0/install/ide
+
+ERROR
+
