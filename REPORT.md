@@ -4818,3 +4818,10 @@ New URL: https://preview.bazel.build/versions/6.4.0/migrate
 
 ERROR
 
+## /versions/6.4.0/migrate/xcode
+
+Old URL: https://bazel.build/versions/6.4.0/migrate/xcode
+New URL: https://preview.bazel.build/versions/6.4.0/migrate/xcode
+
+ERROR
+
