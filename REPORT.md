@@ -5467,3 +5467,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/install/windows
 
 - Raw HTML <var> tags are visible instead of being rendered in the 'Download Bazel' section, multiple code blocks, and the 'Installing compilers and language runtimes' section.
 
+## /versions/6.5.0/migrate
+
+Old URL: https://bazel.build/versions/6.5.0/migrate
+New URL: https://preview.bazel.build/versions/6.5.0/migrate
+
+OK
+
