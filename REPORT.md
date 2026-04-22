@@ -1419,3 +1419,10 @@ New URL: https://preview.bazel.build/remote/bep-examples
 
 - The callout/note starting with "Note: The only difference between the IDs..." is unstyled in the new website, missing its background color and icon from the original.
 
+## /remote/bep-glossary
+
+Old URL: https://bazel.build/remote/bep-glossary
+New URL: https://preview.bazel.build/remote/bep-glossary
+
+OK
+
