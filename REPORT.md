@@ -12014,3 +12014,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/basics/hermeticity
 
 ERROR
 
+## /versions/8.2.0/build/share-variables
+
+Old URL: https://bazel.build/versions/8.2.0/build/share-variables
+New URL: https://preview.bazel.build/versions/8.2.0/build/share-variables
+
+ERROR
+
