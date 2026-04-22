@@ -1433,3 +1433,15 @@ New URL: https://preview.bazel.build/remote/cache-local
 
 OK
 
+## /remote/cache-remote
+
+Old URL: https://bazel.build/remote/cache-remote
+New URL: https://preview.bazel.build/remote/cache-remote
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/remote/cache-remote](data/remote/cache-remote/old.png) | ![https://preview.bazel.build/remote/cache-remote](data/remote/cache-remote/new.png) |
+
+- In the 'Ensure re-running the same build/test command produces cache hits' section, step 5a contains a code block with unrendered raw HTML tags and entities (e.g., <var> and &lt;var&gt;).
+- In the 'Comparing the execution logs' section, the code block under step 3 has several formatting issues: it uses em-dashes (—) instead of double-hyphens (--), it is missing the line-continuation backslashes, and it has lost its indentation.
+
