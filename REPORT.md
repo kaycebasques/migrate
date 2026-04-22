@@ -15850,3 +15850,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/install/compile-source
 
 ERROR
 
+## /versions/8.5.0/install/completion
+
+Old URL: https://bazel.build/versions/8.5.0/install/completion
+New URL: https://preview.bazel.build/versions/8.5.0/install/completion
+
+ERROR
+
