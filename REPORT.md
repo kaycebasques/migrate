@@ -1633,3 +1633,15 @@ New URL: https://preview.bazel.build/rules/language
 - In the "Differences with Python" section, the comparison operators "<" and "<=" are missing inline code styling, while ">=" and ">" in the same sentence are correctly styled.
 - In the "Differences with Python" section, the word "if" in the phrase "However, if expressions can be used" is missing inline code styling, while the "if" at the beginning of the previous sentence is correctly styled.
 
+## /rules/legacy-macro-tutorial
+
+Old URL: https://bazel.build/rules/legacy-macro-tutorial
+New URL: https://preview.bazel.build/rules/legacy-macro-tutorial
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/legacy-macro-tutorial](data/rules/legacy-macro-tutorial/old.png) | ![https://preview.bazel.build/rules/legacy-macro-tutorial](data/rules/legacy-macro-tutorial/new.png) |
+
+- There are unwanted extra spaces introduced before punctuation marks (like colons, commas, and periods) when they follow inline code spans or links (e.g., 'miniature.bzl :', 'genrule ,', 'native. .', 'Macro .').
+- In the 'warning note' section, the code snippet 'outs = ["small_" + src]' has lost its code span formatting (monospace font and background) and is rendered as plain text.
+
