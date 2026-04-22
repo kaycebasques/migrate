@@ -1772,3 +1772,17 @@ New URL: https://preview.bazel.build/rules/lib/builtins/File
 
 OK
 
+## /rules/lib/builtins/Label
+
+Old URL: https://bazel.build/rules/lib/builtins/Label
+New URL: https://preview.bazel.build/rules/lib/builtins/Label
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/builtins/Label](data/rules/lib/builtins/Label/old.png) | ![https://preview.bazel.build/rules/lib/builtins/Label](data/rules/lib/builtins/Label/new.png) |
+
+- In the 'relative' section, HTML entities '&lcub;' and '&rcub;' are displayed instead of literal curly braces '{' and '}'.
+- Parameter descriptions are missing from the tables in the 'relative' and 'same_package_label' sections (e.g., the descriptive text for 'relName' and 'target_name' is gone).
+- In the 'relative' section's 'Deprecated' note, there are unnecessary spaces before the commas in the list of alternative methods.
+- Experimental notes incorrectly include an extra hyphen/bullet point before the flag name '--incompatible_enable_deprecated_label_apis'.
+
