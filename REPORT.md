@@ -6120,3 +6120,10 @@ New URL: https://preview.bazel.build/versions/7.0.0/community/users
 
 ERROR
 
+## /versions/7.0.0/concepts/build-files
+
+Old URL: https://bazel.build/versions/7.0.0/concepts/build-files
+New URL: https://preview.bazel.build/versions/7.0.0/concepts/build-files
+
+ERROR
+
