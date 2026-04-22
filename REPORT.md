@@ -5207,3 +5207,15 @@ New URL: https://preview.bazel.build/versions/6.5.0/contribute/docs
 
 OK
 
+## /versions/6.5.0/contribute/docs-style-guide
+
+Old URL: https://bazel.build/versions/6.5.0/contribute/docs-style-guide
+New URL: https://preview.bazel.build/versions/6.5.0/contribute/docs-style-guide
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/contribute/docs-style-guide](data/versions/6.5.0/contribute/docs-style-guide/old.png) | ![https://preview.bazel.build/versions/6.5.0/contribute/docs-style-guide](data/versions/6.5.0/contribute/docs-style-guide/new.png) |
+
+- The thumbs up and thumbs down icons for 'Yes', 'No', and 'Maybe' examples are missing throughout the page.
+- The info callout in the 'File type' section has lost its blue background styling and icon.
+
