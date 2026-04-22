@@ -2414,3 +2414,17 @@ New URL: https://preview.bazel.build/rules/lib/globals/vendor
 
 OK
 
+## /rules/lib/globals/workspace
+
+Old URL: https://bazel.build/rules/lib/globals/workspace
+New URL: https://preview.bazel.build/rules/lib/globals/workspace
+
+NOT_OK
+
+## /rules/lib/overview
+
+Old URL: https://bazel.build/rules/lib/overview
+New URL: https://preview.bazel.build/rules/lib/overview
+
+OK
+
