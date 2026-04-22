@@ -10194,3 +10194,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/runfiles
 
 ERROR
 
+## /versions/7.7.0/rules/lib/builtins/struct
+
+Old URL: https://bazel.build/versions/7.7.0/rules/lib/builtins/struct
+New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/struct
+
+ERROR
+
