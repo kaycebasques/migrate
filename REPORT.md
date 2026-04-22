@@ -5298,3 +5298,16 @@ New URL: https://preview.bazel.build/versions/6.5.0/extending/concepts
 - Extra whitespace is incorrectly inserted before punctuation marks (periods and commas) that follow inline code blocks or links (e.g., after 'genrule', 'custom verbs', 'rules concepts', 'repository rules', and '.bzl style guide').
 - Unwanted leading whitespace inside the parentheses for the inline code element '( load() statements)'.
 
+## /versions/6.5.0/extending/config
+
+Old URL: https://bazel.build/versions/6.5.0/extending/config
+New URL: https://preview.bazel.build/versions/6.5.0/extending/config
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/extending/config](data/versions/6.5.0/extending/config/old.png) | ![https://preview.bazel.build/versions/6.5.0/extending/config](data/versions/6.5.0/extending/config/new.png) |
+
+- The 'On this page' table of contents is incomplete and stops after 'Defining 12+ transitions', missing the remaining half of the page sections.
+- The TOC entry 'Defining 12+ transitions' contains a typo (missing colon), it should be 'Defining 1:2+ transitions' to match the corresponding section header.
+- There is a stray 'E.' character appearing before the 'On this page' heading in the right sidebar navigation.
+
