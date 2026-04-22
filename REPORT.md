@@ -4202,3 +4202,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/install/suse
 
 ERROR
 
+## /versions/6.2.0/install/ubuntu
+
+Old URL: https://bazel.build/versions/6.2.0/install/ubuntu
+New URL: https://preview.bazel.build/versions/6.2.0/install/ubuntu
+
+ERROR
+
