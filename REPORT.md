@@ -8976,3 +8976,10 @@ New URL: https://preview.bazel.build/versions/7.6.0/rules/language
 
 ERROR
 
+## /versions/7.6.0/rules/lib/builtins/File
+
+Old URL: https://bazel.build/versions/7.6.0/rules/lib/builtins/File
+New URL: https://preview.bazel.build/versions/7.6.0/rules/lib/builtins/File
+
+ERROR
+
