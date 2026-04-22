@@ -2286,3 +2286,10 @@ New URL: https://preview.bazel.build/rules/lib/fragments
 
 OK
 
+## /rules/lib/fragments/apple
+
+Old URL: https://bazel.build/rules/lib/fragments/apple
+New URL: https://preview.bazel.build/rules/lib/fragments/apple
+
+OK
+
