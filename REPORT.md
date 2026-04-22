@@ -12168,3 +12168,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/contribute/codebase
 
 ERROR
 
+## /versions/8.2.0/contribute/design-documents
+
+Old URL: https://bazel.build/versions/8.2.0/contribute/design-documents
+New URL: https://preview.bazel.build/versions/8.2.0/contribute/design-documents
+
+ERROR
+
