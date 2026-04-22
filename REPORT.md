@@ -12672,3 +12672,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/remote/workspace
 
 ERROR
 
+## /versions/8.2.0/rules
+
+Old URL: https://bazel.build/versions/8.2.0/rules
+New URL: https://preview.bazel.build/versions/8.2.0/rules
+
+ERROR
+
