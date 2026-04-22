@@ -4356,3 +4356,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/remote/dynamic
 
 ERROR
 
+## /versions/6.2.0/remote/rbe
+
+Old URL: https://bazel.build/versions/6.2.0/remote/rbe
+New URL: https://preview.bazel.build/versions/6.2.0/remote/rbe
+
+ERROR
+
