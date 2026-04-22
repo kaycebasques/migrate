@@ -14093,3 +14093,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/rules/lib/builtins/Directory
 
 ERROR
 
+## /versions/8.3.0/rules/lib/builtins/DottedVersion
+
+Old URL: https://bazel.build/versions/8.3.0/rules/lib/builtins/DottedVersion
+New URL: https://preview.bazel.build/versions/8.3.0/rules/lib/builtins/DottedVersion
+
+ERROR
+
