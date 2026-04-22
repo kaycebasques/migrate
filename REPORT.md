@@ -12161,3 +12161,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/contribute
 
 ERROR
 
+## /versions/8.2.0/contribute/codebase
+
+Old URL: https://bazel.build/versions/8.2.0/contribute/codebase
+New URL: https://preview.bazel.build/versions/8.2.0/contribute/codebase
+
+ERROR
+
