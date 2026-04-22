@@ -13365,3 +13365,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/community/partners
 
 ERROR
 
+## /versions/8.3.0/community/recommended-rules
+
+Old URL: https://bazel.build/versions/8.3.0/community/recommended-rules
+New URL: https://preview.bazel.build/versions/8.3.0/community/recommended-rules
+
+ERROR
+
