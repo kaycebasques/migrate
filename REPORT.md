@@ -10341,3 +10341,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/providers/FilesToR
 
 ERROR
 
+## /versions/7.7.0/rules/lib/providers/ObjcProvider
+
+Old URL: https://bazel.build/versions/7.7.0/rules/lib/providers/ObjcProvider
+New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/providers/ObjcProvider
+
+ERROR
+
