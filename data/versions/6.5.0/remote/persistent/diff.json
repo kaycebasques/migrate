@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "The first code block under the \"Using persistent workers\" section contains unrendered HTML tags: 'bazel build //<var>my:target</var> --strategy=Javac=worker,local'."
+  ]
+}

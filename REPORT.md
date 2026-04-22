@@ -5728,3 +5728,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/remote/output-directories
 
 - In the 'Layout diagram' section, the directory tree contains escaped HTML entities (&lt; and &gt;) instead of angle brackets for placeholders such as <workspace-name> and <packages>.
 
+## /versions/6.5.0/remote/persistent
+
+Old URL: https://bazel.build/versions/6.5.0/remote/persistent
+New URL: https://preview.bazel.build/versions/6.5.0/remote/persistent
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/remote/persistent](data/versions/6.5.0/remote/persistent/old.png) | ![https://preview.bazel.build/versions/6.5.0/remote/persistent](data/versions/6.5.0/remote/persistent/new.png) |
+
+- The first code block under the "Using persistent workers" section contains unrendered HTML tags: 'bazel build //<var>my:target</var> --strategy=Javac=worker,local'.
+
