@@ -7030,3 +7030,10 @@ New URL: https://preview.bazel.build/versions/7.1.0/start/ios-app
 
 ERROR
 
+## /versions/7.1.0/start/java
+
+Old URL: https://bazel.build/versions/7.1.0/start/java
+New URL: https://preview.bazel.build/versions/7.1.0/start/java
+
+ERROR
+
