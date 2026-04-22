@@ -5615,3 +5615,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/reference/test-encyclopedia
 
 - The callout/admonition at the end of the 'Tag conventions' section is unstyled in the new site; it is missing its blue background and star icon.
 
+## /versions/6.5.0/release
+
+Old URL: https://bazel.build/versions/6.5.0/release
+New URL: https://preview.bazel.build/versions/6.5.0/release
+
+OK
+
