@@ -4720,3 +4720,10 @@ New URL: https://preview.bazel.build/versions/6.4.0/community/users
 
 ERROR
 
+## /versions/6.4.0/concepts/build-ref
+
+Old URL: https://bazel.build/versions/6.4.0/concepts/build-ref
+New URL: https://preview.bazel.build/versions/6.4.0/concepts/build-ref
+
+ERROR
+
