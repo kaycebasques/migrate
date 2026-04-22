@@ -5807,3 +5807,10 @@ New URL: https://preview.bazel.build/versions/6.5.0/rules/lib/JavaInfo
 
 ERROR
 
+## /versions/6.5.0/rules/lib/ProtoInfo
+
+Old URL: https://bazel.build/versions/6.5.0/rules/lib/ProtoInfo
+New URL: https://preview.bazel.build/versions/6.5.0/rules/lib/ProtoInfo
+
+ERROR
+
