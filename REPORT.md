@@ -2021,3 +2021,14 @@ New URL: https://preview.bazel.build/rules/lib/builtins/repo_metadata
 
 OK
 
+## /rules/lib/builtins/repository_ctx
+
+Old URL: https://bazel.build/rules/lib/builtins/repository_ctx
+New URL: https://preview.bazel.build/rules/lib/builtins/repository_ctx
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/builtins/repository_ctx](data/rules/lib/builtins/repository_ctx/old.png) | ![https://preview.bazel.build/rules/lib/builtins/repository_ctx](data/rules/lib/builtins/repository_ctx/new.png) |
+
+- HTML entities &lbrace; and &rbrace; are not being rendered correctly and appear as literal text in the parameter tables of several sections (e.g., download, download_and_extract, execute, extract, repo_metadata, and template).
+

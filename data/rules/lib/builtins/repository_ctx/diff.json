@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "HTML entities &lbrace; and &rbrace; are not being rendered correctly and appear as literal text in the parameter tables of several sections (e.g., download, download_and_extract, execute, extract, repo_metadata, and template)."
+  ]
+}
