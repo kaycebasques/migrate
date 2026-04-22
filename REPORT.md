@@ -7660,3 +7660,10 @@ New URL: https://preview.bazel.build/versions/7.3.0/contribute/docs
 
 ERROR
 
+## /versions/7.3.0/docs
+
+Old URL: https://bazel.build/versions/7.3.0/docs
+New URL: https://preview.bazel.build/versions/7.3.0/docs
+
+ERROR
+
