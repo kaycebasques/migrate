@@ -3852,3 +3852,10 @@ New URL: https://preview.bazel.build/versions/6.1.0/reference/be/overview
 
 ERROR
 
+## /versions/6.1.0/remote/bep
+
+Old URL: https://bazel.build/versions/6.1.0/remote/bep
+New URL: https://preview.bazel.build/versions/6.1.0/remote/bep
+
+ERROR
+
