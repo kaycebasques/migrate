@@ -9865,3 +9865,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/remote/bep-examples
 
 ERROR
 
+## /versions/7.7.0/remote/bep-glossary
+
+Old URL: https://bazel.build/versions/7.7.0/remote/bep-glossary
+New URL: https://preview.bazel.build/versions/7.7.0/remote/bep-glossary
+
+ERROR
+
