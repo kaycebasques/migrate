@@ -4244,3 +4244,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/query/cquery
 
 ERROR
 
+## /versions/6.2.0/query/language
+
+Old URL: https://bazel.build/versions/6.2.0/query/language
+New URL: https://preview.bazel.build/versions/6.2.0/query/language
+
+ERROR
+
