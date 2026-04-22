@@ -4909,3 +4909,10 @@ New URL: https://preview.bazel.build/versions/6.4.0/start/ios-app
 
 ERROR
 
+## /versions/6.4.0/tutorials/cpp-use-cases
+
+Old URL: https://bazel.build/versions/6.4.0/tutorials/cpp-use-cases
+New URL: https://preview.bazel.build/versions/6.4.0/tutorials/cpp-use-cases
+
+ERROR
+
