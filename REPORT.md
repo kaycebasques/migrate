@@ -2598,3 +2598,14 @@ New URL: https://preview.bazel.build/rules/lib/providers/OutputGroupInfo
 - In the Parameters table, the description for 'kwargs' incorrectly renders curly braces as HTML entities (&lcub;&rcub;).
 - In the Parameters table, the description for 'kwargs' is missing the sentence 'Dictionary of arguments.'.
 
+## /rules/lib/providers/PlatformInfo
+
+Old URL: https://bazel.build/rules/lib/providers/PlatformInfo
+New URL: https://preview.bazel.build/rules/lib/providers/PlatformInfo
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/providers/PlatformInfo](data/rules/lib/providers/PlatformInfo/old.png) | ![https://preview.bazel.build/rules/lib/providers/PlatformInfo](data/rules/lib/providers/PlatformInfo/new.png) |
+
+- The inline code snippet "--experimental_platforms_api" is incorrectly split into two separate parts with an extra space and is wrapped across two lines.
+

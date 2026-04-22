@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "The inline code snippet \"--experimental_platforms_api\" is incorrectly split into two separate parts with an extra space and is wrapped across two lines."
+  ]
+}
