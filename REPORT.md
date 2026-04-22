@@ -10026,3 +10026,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/Attribute
 
 ERROR
 
+## /versions/7.7.0/rules/lib/builtins/BuildSetting
+
+Old URL: https://bazel.build/versions/7.7.0/rules/lib/builtins/BuildSetting
+New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/BuildSetting
+
+ERROR
+
