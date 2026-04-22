@@ -7058,3 +7058,10 @@ New URL: https://preview.bazel.build/versions/7.1.0/tutorials/cpp-use-cases
 
 ERROR
 
+## /versions/7.2.0/about
+
+Old URL: https://bazel.build/versions/7.2.0/about
+New URL: https://preview.bazel.build/versions/7.2.0/about
+
+ERROR
+
