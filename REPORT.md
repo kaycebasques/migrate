@@ -15255,3 +15255,10 @@ New URL: https://preview.bazel.build/versions/8.4.0/rules/lib/builtins/tag_class
 
 ERROR
 
+## /versions/8.4.0/rules/lib/builtins/transition
+
+Old URL: https://bazel.build/versions/8.4.0/rules/lib/builtins/transition
+New URL: https://preview.bazel.build/versions/8.4.0/rules/lib/builtins/transition
+
+ERROR
+
