@@ -7079,3 +7079,10 @@ New URL: https://preview.bazel.build/versions/7.2.0/about/intro
 
 ERROR
 
+## /versions/7.2.0/advanced/performance/json-trace-profile
+
+Old URL: https://bazel.build/versions/7.2.0/advanced/performance/json-trace-profile
+New URL: https://preview.bazel.build/versions/7.2.0/advanced/performance/json-trace-profile
+
+ERROR
+
