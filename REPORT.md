@@ -9977,3 +9977,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/bzl-style
 
 ERROR
 
+## /versions/7.7.0/rules/challenges
+
+Old URL: https://bazel.build/versions/7.7.0/rules/challenges
+New URL: https://preview.bazel.build/versions/7.7.0/rules/challenges
+
+ERROR
+
