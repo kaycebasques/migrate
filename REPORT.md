@@ -4321,3 +4321,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/release
 
 ERROR
 
+## /versions/6.2.0/release/versioning
+
+Old URL: https://bazel.build/versions/6.2.0/release/versioning
+New URL: https://preview.bazel.build/versions/6.2.0/release/versioning
+
+ERROR
+
