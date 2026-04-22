@@ -15717,3 +15717,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/contribute/docs-style-guide
 
 ERROR
 
+## /versions/8.5.0/contribute/policy
+
+Old URL: https://bazel.build/versions/8.5.0/contribute/policy
+New URL: https://preview.bazel.build/versions/8.5.0/contribute/policy
+
+ERROR
+
