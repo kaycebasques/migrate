@@ -4041,3 +4041,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/concepts/labels
 
 ERROR
 
+## /versions/6.2.0/configure/attributes
+
+Old URL: https://bazel.build/versions/6.2.0/configure/attributes
+New URL: https://preview.bazel.build/versions/6.2.0/configure/attributes
+
+ERROR
+
