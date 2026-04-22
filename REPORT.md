@@ -2485,3 +2485,14 @@ New URL: https://preview.bazel.build/rules/lib/providers/ConstraintSettingInfo
 
 OK
 
+## /rules/lib/providers/ConstraintValueInfo
+
+Old URL: https://bazel.build/rules/lib/providers/ConstraintValueInfo
+New URL: https://preview.bazel.build/rules/lib/providers/ConstraintValueInfo
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/providers/ConstraintValueInfo](data/rules/lib/providers/ConstraintValueInfo/old.png) | ![https://preview.bazel.build/rules/lib/providers/ConstraintValueInfo](data/rules/lib/providers/ConstraintValueInfo/new.png) |
+
+- The separate paragraph starting with 'Note: This API is experimental...' has been merged into the preceding paragraph.
+
