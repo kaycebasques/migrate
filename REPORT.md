@@ -3642,3 +3642,10 @@ New URL: https://preview.bazel.build/versions/6.1.0/about/vision
 
 ERROR
 
+## /versions/6.1.0/build/bzlmod
+
+Old URL: https://bazel.build/versions/6.1.0/build/bzlmod
+New URL: https://preview.bazel.build/versions/6.1.0/build/bzlmod
+
+ERROR
+
