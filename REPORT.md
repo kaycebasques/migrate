@@ -11972,3 +11972,10 @@ New URL: https://preview.bazel.build/versions/8.2.0/advanced/performance/build-p
 
 ERROR
 
+## /versions/8.2.0/advanced/performance/build-performance-metrics
+
+Old URL: https://bazel.build/versions/8.2.0/advanced/performance/build-performance-metrics
+New URL: https://preview.bazel.build/versions/8.2.0/advanced/performance/build-performance-metrics
+
+ERROR
+
