@@ -8045,3 +8045,10 @@ New URL: https://preview.bazel.build/versions/7.4.0/extending
 
 ERROR
 
+## /versions/7.4.0/extending/concepts
+
+Old URL: https://bazel.build/versions/7.4.0/extending/concepts
+New URL: https://preview.bazel.build/versions/7.4.0/extending/concepts
+
+ERROR
+
