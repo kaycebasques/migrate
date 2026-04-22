@@ -2201,3 +2201,10 @@ New URL: https://preview.bazel.build/rules/lib/core/float
 
 OK
 
+## /rules/lib/core/function
+
+Old URL: https://bazel.build/rules/lib/core/function
+New URL: https://preview.bazel.build/rules/lib/core/function
+
+OK
+
