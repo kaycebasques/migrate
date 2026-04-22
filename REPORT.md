@@ -4874,3 +4874,10 @@ New URL: https://preview.bazel.build/versions/6.4.0/remote/rules
 
 ERROR
 
+## /versions/6.4.0/rules/lib/starlark-overview
+
+Old URL: https://bazel.build/versions/6.4.0/rules/lib/starlark-overview
+New URL: https://preview.bazel.build/versions/6.4.0/rules/lib/starlark-overview
+
+ERROR
+
