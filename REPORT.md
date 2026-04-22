@@ -14597,3 +14597,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/tutorials/cpp-labels
 
 ERROR
 
+## /versions/8.3.0/tutorials/cpp-use-cases
+
+Old URL: https://bazel.build/versions/8.3.0/tutorials/cpp-use-cases
+New URL: https://preview.bazel.build/versions/8.3.0/tutorials/cpp-use-cases
+
+ERROR
+
