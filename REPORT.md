@@ -3964,3 +3964,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/about/intro
 
 ERROR
 
+## /versions/6.2.0/about/vision
+
+Old URL: https://bazel.build/versions/6.2.0/about/vision
+New URL: https://preview.bazel.build/versions/6.2.0/about/vision
+
+ERROR
+
