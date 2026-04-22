@@ -7457,3 +7457,10 @@ New URL: https://preview.bazel.build/versions/7.2.0/rules/lib/builtins/struct
 
 ERROR
 
+## /versions/7.2.0/rules/lib/globals/all
+
+Old URL: https://bazel.build/versions/7.2.0/rules/lib/globals/all
+New URL: https://preview.bazel.build/versions/7.2.0/rules/lib/globals/all
+
+ERROR
+
