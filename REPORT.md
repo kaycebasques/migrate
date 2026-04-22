@@ -4538,3 +4538,10 @@ New URL: https://preview.bazel.build/versions/6.3.0/concepts/labels
 
 ERROR
 
+## /versions/6.3.0/configure/windows
+
+Old URL: https://bazel.build/versions/6.3.0/configure/windows
+New URL: https://preview.bazel.build/versions/6.3.0/configure/windows
+
+ERROR
+
