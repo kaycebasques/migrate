@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "Extra spaces have been introduced before punctuation marks (specifically periods) following links and inline code blocks (e.g., \"bazel clean .\", \"on Slack .\", \"src/main/protobuf .\", \"src/test/java .\", etc.)."
+  ]
+}

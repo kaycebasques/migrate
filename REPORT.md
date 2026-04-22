@@ -5175,3 +5175,14 @@ New URL: https://preview.bazel.build/versions/6.5.0/configure/windows
 - The admonition starting with 'Note: --cpu=x64_arm64_windows' in the 'Build C++ with MSVC' section is unstyled and appears as plain text.
 - Multiple code blocks (specifically in the C++, Java, and Python example sections) have had their separate command and output lines merged into a single line, and the shell prompts have been removed.
 
+## /versions/6.5.0/contribute
+
+Old URL: https://bazel.build/versions/6.5.0/contribute
+New URL: https://preview.bazel.build/versions/6.5.0/contribute
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/versions/6.5.0/contribute](data/versions/6.5.0/contribute/old.png) | ![https://preview.bazel.build/versions/6.5.0/contribute](data/versions/6.5.0/contribute/new.png) |
+
+- Extra spaces have been introduced before punctuation marks (specifically periods) following links and inline code blocks (e.g., "bazel clean .", "on Slack .", "src/main/protobuf .", "src/test/java .", etc.).
+
