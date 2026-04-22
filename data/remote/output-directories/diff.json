@@ -1,0 +1,5 @@
+{
+  "issues": [
+    "The layout diagram code block contains unrendered HTML entities, such as \"&lt;\" and \"&gt;\", instead of angle brackets."
+  ]
+}

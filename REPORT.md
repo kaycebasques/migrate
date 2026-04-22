@@ -1502,3 +1502,14 @@ New URL: https://preview.bazel.build/remote/multiplex
 - The 'Caution' callout is unstyled and appears as plain text, missing the distinctive background and icon from the original site.
 - Inline code snippets are inconsistently styled; many terms (e.g., 'WorkerProxy', 'request_id') in the first half of the page are missing the light grey background highlight that is present in the original site and in other code snippets later on the same page.
 
+## /remote/output-directories
+
+Old URL: https://bazel.build/remote/output-directories
+New URL: https://preview.bazel.build/remote/output-directories
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/remote/output-directories](data/remote/output-directories/old.png) | ![https://preview.bazel.build/remote/output-directories](data/remote/output-directories/new.png) |
+
+- The layout diagram code block contains unrendered HTML entities, such as "&lt;" and "&gt;", instead of angle brackets.
+
