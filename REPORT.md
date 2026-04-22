@@ -7779,3 +7779,10 @@ New URL: https://preview.bazel.build/versions/7.3.0/install/windows
 
 ERROR
 
+## /versions/7.3.0/migrate
+
+Old URL: https://bazel.build/versions/7.3.0/migrate
+New URL: https://preview.bazel.build/versions/7.3.0/migrate
+
+ERROR
+
