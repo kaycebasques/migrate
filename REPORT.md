@@ -3439,3 +3439,10 @@ New URL: https://preview.bazel.build/versions/6.0.0/remote/bep-examples
 
 ERROR
 
+## /versions/6.0.0/remote/caching
+
+Old URL: https://bazel.build/versions/6.0.0/remote/caching
+New URL: https://preview.bazel.build/versions/6.0.0/remote/caching
+
+ERROR
+
