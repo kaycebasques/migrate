@@ -2684,3 +2684,16 @@ New URL: https://preview.bazel.build/rules/lib/repo/http
 
 - The attribute names in the 'ATTRIBUTES' sections for http_archive, http_file, and http_jar are severely truncated to only the first two characters, rendering the tables unreadable.
 
+## /rules/lib/repo/local
+
+Old URL: https://bazel.build/rules/lib/repo/local
+New URL: https://preview.bazel.build/rules/lib/repo/local
+
+| Old | New |
+| --- | --- |
+| ![https://bazel.build/rules/lib/repo/local](data/rules/lib/repo/local/old.png) | ![https://preview.bazel.build/rules/lib/repo/local](data/rules/lib/repo/local/new.png) |
+
+- The usage code blocks for 'local_repository' and 'new_local_repository' are missing newlines, causing the 'load' statement and the rule call to be concatenated on a single line.
+- The attribute names in the 'ATTRIBUTES' tables are wrapping awkwardly due to insufficient column width (e.g., 'name' is split into 'nam' and 'e').
+- There are missing spaces after periods in several attribute descriptions (e.g., 'repo.Exactly' and 'specified.The').
+

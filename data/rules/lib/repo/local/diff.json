@@ -1,0 +1,7 @@
+{
+  "issues": [
+    "The usage code blocks for 'local_repository' and 'new_local_repository' are missing newlines, causing the 'load' statement and the rule call to be concatenated on a single line.",
+    "The attribute names in the 'ATTRIBUTES' tables are wrapping awkwardly due to insufficient column width (e.g., 'name' is split into 'nam' and 'e').",
+    "There are missing spaces after periods in several attribute descriptions (e.g., 'repo.Exactly' and 'specified.The')."
+  ]
+}
