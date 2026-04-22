@@ -6974,3 +6974,10 @@ New URL: https://preview.bazel.build/versions/7.1.0/rules/lib/overview
 
 ERROR
 
+## /versions/7.1.0/rules/lib/providers/DefaultInfo
+
+Old URL: https://bazel.build/versions/7.1.0/rules/lib/providers/DefaultInfo
+New URL: https://preview.bazel.build/versions/7.1.0/rules/lib/providers/DefaultInfo
+
+ERROR
+
