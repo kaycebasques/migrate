@@ -15619,3 +15619,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/community/recommended-rules
 
 ERROR
 
+## /versions/8.5.0/community/update
+
+Old URL: https://bazel.build/versions/8.5.0/community/update
+New URL: https://preview.bazel.build/versions/8.5.0/community/update
+
+ERROR
+
