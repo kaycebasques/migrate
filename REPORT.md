@@ -15871,3 +15871,10 @@ New URL: https://preview.bazel.build/versions/8.5.0/install/ide
 
 ERROR
 
+## /versions/8.5.0/install/os-x
+
+Old URL: https://bazel.build/versions/8.5.0/install/os-x
+New URL: https://preview.bazel.build/versions/8.5.0/install/os-x
+
+ERROR
+
