@@ -8325,3 +8325,10 @@ New URL: https://preview.bazel.build/versions/7.5.0/rules/lib/builtins/ctx
 
 ERROR
 
+## /versions/7.5.0/rules/lib/core/string
+
+Old URL: https://bazel.build/versions/7.5.0/rules/lib/core/string
+New URL: https://preview.bazel.build/versions/7.5.0/rules/lib/core/string
+
+ERROR
+
