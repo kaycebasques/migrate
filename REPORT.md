@@ -14387,3 +14387,10 @@ New URL: https://preview.bazel.build/versions/8.3.0/rules/lib/globals/all
 
 ERROR
 
+## /versions/8.3.0/rules/lib/globals/bzl
+
+Old URL: https://bazel.build/versions/8.3.0/rules/lib/globals/bzl
+New URL: https://preview.bazel.build/versions/8.3.0/rules/lib/globals/bzl
+
+ERROR
+
