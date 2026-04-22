@@ -9361,3 +9361,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/community/experts
 
 ERROR
 
+## /versions/7.7.0/community/partners
+
+Old URL: https://bazel.build/versions/7.7.0/community/partners
+New URL: https://preview.bazel.build/versions/7.7.0/community/partners
+
+ERROR
+
