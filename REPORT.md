@@ -1786,3 +1786,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/Label
 - In the 'relative' section's 'Deprecated' note, there are unnecessary spaces before the commas in the list of alternative methods.
 - Experimental notes incorrectly include an extra hyphen/bullet point before the flag name '--incompatible_enable_deprecated_label_apis'.
 
+## /rules/lib/builtins/LateBoundDefault
+
+Old URL: https://bazel.build/rules/lib/builtins/LateBoundDefault
+New URL: https://preview.bazel.build/rules/lib/builtins/LateBoundDefault
+
+OK
+
