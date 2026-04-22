@@ -1840,3 +1840,10 @@ New URL: https://preview.bazel.build/rules/lib/builtins/Subrule
 
 OK
 
+## /rules/lib/builtins/SymlinkEntry
+
+Old URL: https://bazel.build/rules/lib/builtins/SymlinkEntry
+New URL: https://preview.bazel.build/rules/lib/builtins/SymlinkEntry
+
+OK
+
