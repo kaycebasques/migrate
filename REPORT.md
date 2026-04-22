@@ -10215,3 +10215,10 @@ New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/builtins/transitio
 
 ERROR
 
+## /versions/7.7.0/rules/lib/core/bool
+
+Old URL: https://bazel.build/versions/7.7.0/rules/lib/core/bool
+New URL: https://preview.bazel.build/versions/7.7.0/rules/lib/core/bool
+
+ERROR
+
