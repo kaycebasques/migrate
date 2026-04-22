@@ -4307,3 +4307,10 @@ New URL: https://preview.bazel.build/versions/6.2.0/reference/glossary
 
 ERROR
 
+## /versions/6.2.0/reference/test-encyclopedia
+
+Old URL: https://bazel.build/versions/6.2.0/reference/test-encyclopedia
+New URL: https://preview.bazel.build/versions/6.2.0/reference/test-encyclopedia
+
+ERROR
+
